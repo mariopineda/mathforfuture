@@ -9,9 +9,7 @@ title: Grade 10
   <thead>
     <tr>
       <th scope="col">Unit: Relations & Functions</th>
-      <th scope="col">Title</th>
       <th scope="col">Description</td>
-      <th scope="col">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -21,10 +19,9 @@ title: Grade 10
           <tr>
             <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</th>
             <td>{{ post.description }}</td>
-            <td>{{ post.tags }}</td>
           </tr>
         {% endif  %}
       {% endif %}
-      {% endfor %}
+    {% endfor %}
   </tbody>
 </table>
