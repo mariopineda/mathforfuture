@@ -17,11 +17,13 @@ title: Grade 10
   <tbody>
     {% for post in site.posts %}
       {% if post.course == "10C" %}
-        <tr>
-          <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</th>
-          <td>{{ post.description }}</td>
-          <td>{{ post.tags }}</td>
-        </tr>
+        {% post.category == "Relations & Functions" %}
+          <tr>
+            <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</th>
+            <td>{{ post.description }}</td>
+            <td>{{ post.tags }}</td>
+          </tr>
+        {% endif  %}
       {% endif %}
       {% endfor %}
   </tbody>
