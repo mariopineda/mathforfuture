@@ -22,7 +22,7 @@ layout: default
     <div class="col-sm-2">
       <div style="text-align: left">
         {% if page.qrcode != nil %}
-        <img src="{{ page.qrcode }}" width=150>
+          <img src="{{ page.qrcode }}" width=150>
         {% endif %}
       </div>
     </div>
@@ -31,9 +31,9 @@ layout: default
         <span class="align-text-bottom">
           <em>
             Page address: {{ site.url }}{{ page.url }}<br>
-            Grade: {{page.grade}}, Course: {{page.course}} ({{page.category}}), Level: {{page.level}}<br>
+            Grade: {{page.grade}}, Course: {{page.course}}, Unit: {{page.category}}<br>
             {% if page.sourcetitle != nil %}
-            Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a>
+              Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a>
             {% endif %}
           </em>
         </span>
