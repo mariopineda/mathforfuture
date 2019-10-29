@@ -9,8 +9,8 @@ title: Grade 10
 <table class="table table-hover">
   <thead>
     <tr>
-      <th scope="col">Unit: Relations & Functions</th>
-      <th scope="col">Description</td>
+      <th scope="col" style="width: 50%">Unit: Relations & Functions</th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
@@ -18,7 +18,28 @@ title: Grade 10
       {% if post.course == "10C" %}
         {% if post.category == "Relations & Functions" %}
           <tr>
-            <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</th>
+            <td><a href="{{ post.url }}">{{ post.title }}</td>
+            <td>{{ post.description }}</td>
+          </tr>
+        {% endif  %}
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col" style="width: 50%">Unit: Polynomials</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.posts %}
+      {% if post.course == "10C" %}
+        {% if post.category == "Polynomials" %}
+          <tr>
+            <td><a href="{{ post.url }}">{{ post.title }}</td>
             <td>{{ post.description }}</td>
           </tr>
         {% endif  %}
