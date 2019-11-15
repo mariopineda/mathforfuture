@@ -19,8 +19,7 @@ published: true
   <li>sum of three consecutive integers ending with $x$.</li>
   <li>product of three consecutive integers starting with $x$.</li>
   <li>product of three consecutive integers ending with $x$.</li>
-  <li>product of three consecutive even integers starting with $x$. {% include modal.html content="If x is an integer then 2x is an even number. What is the next even number?" %}
-</li>
+  <li>product of three consecutive even integers starting with $x$. {% include modal.html content="If x is an integer then 2x is an even number. What is the next even number?" %}</li>
 </ol>
 
 <!--  -->
@@ -37,25 +36,13 @@ published: true
       <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
         <div class="card-body">
           <!--- Start solution --->
-          <h2>A.</h2>
-            \[
-              \begin{align}
-                & (9a+4)+(2a+2)+(a-4) \\
-              = & 9a+4+2a+2+a-4 \\
-              = & 12a + 2
-              \end{align}
-            \]
-
-          <h2>B.</h2>
-            \[
-              \begin{align}
-               12a+2 & = 38 \\
-               12a   & = 36 \\
-               a     & = 36 \div 12 \\
-               a     & = 3
-              \end{align}
-            \]
-
+          <ol type="A">
+            <li>$x + (x+1) + (x+2) = 3x+3$.</li>
+            <li>$x + (x-1) + (x-2) = 3x-3$.</li>
+            <li>$x(x+1)(x+2) = x(x^2+2x+x+2) = x^3+2x^2+x^2+2x = x^3+3x^2+2x$.</li>
+            <li>$x(x-1)(x-2) = x(x^2-2x-x+2) = x^3-2x^2-x^2+2x = x^3-3x^2+2x$.</li>
+            <li>product of three consecutive even integers starting with $x$. {% include modal.html content="If x is an integer then 2x is an even number. What is the next even number?" %}</li>
+          </ol>
           <!--- End solution --->
         </div>
       </div>
