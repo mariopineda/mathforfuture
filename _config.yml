@@ -6,6 +6,12 @@ source: _posts
 # Name of your site (displayed in the header)
 name: mathforfuture.com
 
+# use this url when working off GitHub
+#url:                http://www.mathforfuture.com
+
+# Use this url when working locally
+url: ~
+
 # Short bio or description (displayed in the header)
 description: The socially relevant science-based online high school math resource
 
