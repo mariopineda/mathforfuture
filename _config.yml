@@ -5,6 +5,7 @@ future: true
 source: _posts
 # Name of your site (displayed in the header)
 name: mathforfuture.com
+title: mathforfuture.com
 
 # use this url when working off GitHub
 #url:                http://www.mathforfuture.com
@@ -86,4 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
