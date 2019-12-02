@@ -21,6 +21,7 @@ layout: default
   <div class="row">
     <div class="col-sm-2">
       <div style="text-align: left">
+        {% include emailme.html %}
         {% if page.qrcode != nil %}
           <img src="{{ page.qrcode }}" width=150>
         {% endif %}
