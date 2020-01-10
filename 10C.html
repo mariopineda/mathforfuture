@@ -6,29 +6,50 @@ title: Grade 10
 <h1>{{ page.title }}</h1>
 <p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 10 course Math 10C.</p>
 
-<!--
-Unit: Trigonometry
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Trigonometry</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Trigonometry" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+<!-- Start of all accordion code (all accordion components must go inside this div) -->
+<div class="accordion" id="accordionExample">
+
+  <!--
+  Unit: Trigonometry
+  -->
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Trigonometry
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col" style="width: 50%">Unit: Trigonometry</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for post in site.posts %}
+              {% if post.course == "10C" %}
+                {% if post.category == "Trigonometry" %}
+                  <tr>
+                    <td><a href="{{ post.url }}">{{ post.title }}</td>
+                    <td>{{ post.description }}</td>
+                  </tr>
+                {% endif  %}
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
+
+      </div>
+    </div>
+  </div>
+
+</div> <!-- End of all accordion code -->
+
 
 <!--
 Unit: Measurement
