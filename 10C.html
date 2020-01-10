@@ -12,11 +12,24 @@ title: Grade 10
   <!--
   Unit: Trigonometry
   -->
+
+  <!-- Calculate and display the total number of posts -->
+  {% assign totalcount = 0 %}
+  {% for post in site.posts %}
+    {% if post.published  %}
+      {% if post.course == "10C" %}
+        {% if post.category == "Trigonometry" %}
+          {% assign totalcount = totalcount | plus: 1 %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
   <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          Trigonometry
+          Trigonometry ({{ totalcount }} practice problems)
         </button>
       </h5>
     </div>
