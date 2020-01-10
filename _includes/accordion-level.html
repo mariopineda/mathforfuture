@@ -23,7 +23,7 @@
 
       <table class="table table-hover">
         <tbody>
-          {% for post in site.posts %}
+          {% for post in site.posts reversed%}
             {% if post.course == include.course %}
               {% if post.category == include.unit %}
                 <tr>
