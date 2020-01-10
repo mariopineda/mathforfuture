@@ -10,6 +10,7 @@ title: Grade 10
 <div class="accordion" id="accordionExample">
 
   {% include accordion-level.html unit="Trigonometry" course="10C" number="One" %}
+  {% include accordion-level.html unit="Polynomials" course="10C" number="Two" %}
 
   <!--
   Unit: Trigonometry
@@ -39,7 +40,7 @@ title: Grade 10
       <div class="card-body">
 
         <table class="table table-hover">
-          <tbody>
+          <tbody
             {% for post in site.posts %}
               {% if post.course == "10C" %}
                 {% if post.category == "Trigonometry" %}
