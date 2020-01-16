@@ -1,11 +1,69 @@
 ---
 layout: default
-permalink: grade11/index.html
-title: Grade 11
+permalink: 20-2/index.html
+title: Math 20-2 (2019/20 Semester 2)
 ---
 <h1>{{ page.title }}</h1>
+<!-- <p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 10 course Math 10C.</p> -->
 
-<div class="text-center">
-  <img src="/images/trigdog.gif">
-  <h2>Under construction</h2>
+<!-- {% include alert-20-2.html %} -->
+
+<h2>Course information</h2>
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingCourseOutline">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCourseOutline" aria-expanded="false" aria-controls="collapseCourseOutline">
+          Course Outline
+        </button>
+      </h5>
+    </div>
+    <div id="collapseCourseOutline" class="collapse" aria-labelledby="headingCourseOutline" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include course-outline-20-2.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header" id="headingTimeTable">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTimeTable" aria-expanded="false" aria-controls="collapseTimeTable">
+          Time table
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTimeTable" class="collapse" aria-labelledby="headingTimeTable" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include timetable.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header" id="headingTutoring">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTutoring" aria-expanded="false" aria-controls="collapseTutoring">
+          Tutoring
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTutoring" class="collapse" aria-labelledby="headingTutoring" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include tutoring.html %}
+      </div>
+    </div>
+  </div>
+</div> <!-- Close accordion component -->
+
+<h2>Practice Problems</h2>
+<!-- Start of all accordion code (all accordion components must go inside this div) -->
+<div class="accordion" id="accordionPracticeProblems">
+  {% include accordion-level.html unit="Reasoning" course="20-2" number="One" %}
+  {% include accordion-level.html unit="Proprties of Angles" course="20-2" number="Two" %}
+  {% include accordion-level.html unit="Trigonometry" course="20-2" number="Three" %}
+  {% include accordion-level.html unit="Radicals" course="20-2" number="Four" %}
+  {% include accordion-level.html unit="Quadratic Functions" course="20-2" number="Five" %}
+  {% include accordion-level.html unit="Quadratic Equations" course="20-2" number="Six" %}
+  {% include accordion-level.html unit="Statistics" course="20-2" number="Seven" %}
 </div>
