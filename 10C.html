@@ -1,11 +1,12 @@
 ---
 layout: default
 permalink: 10C/index.html
-title: Grade 10
+title: Math 10C (2019/20 Semester 2)
 ---
 <h1>{{ page.title }}</h1>
-<p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 10 course Math 10C.</p>
+<!-- <p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 10 course Math 10C.</p> -->
 
+<<<<<<< HEAD
 <!-- Drop down meanu for quick navigation to the units -->
 <div class="btn-group">
   <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -43,147 +44,67 @@ Unit: Trigonometry
     {% endfor %}
   </tbody>
 </table>
+=======
+<!-- {% include alert-20-2.html %} -->
+>>>>>>> 6a0aece0be9a1a20f44580b1e18d4486da6cf021
 
-<!--
-Unit: Measurement
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Measurement</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Measurement" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+<h2>Course information</h2>
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingCourseOutline">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCourseOutline" aria-expanded="false" aria-controls="collapseCourseOutline">
+          Course Outline
+        </button>
+      </h5>
+    </div>
+    <div id="collapseCourseOutline" class="collapse" aria-labelledby="headingCourseOutline" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include course-outline-10C.html %}
+      </div>
+    </div>
+  </div>
 
-<!--
-Unit: Exponentes & Radicals
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Exponents & Radicals</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Exponents & Radicals" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+  <div class="card">
+    <div class="card-header" id="headingTimeTable">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTimeTable" aria-expanded="false" aria-controls="collapseTimeTable">
+          Time table
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTimeTable" class="collapse" aria-labelledby="headingTimeTable" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include timetable.html %}
+      </div>
+    </div>
+  </div>
 
-<!--
-Unit: Polynomials
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Polynomials</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Polynomials" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+  <div class="card">
+    <div class="card-header" id="headingTutoring">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTutoring" aria-expanded="false" aria-controls="collapseTutoring">
+          Tutoring
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTutoring" class="collapse" aria-labelledby="headingTutoring" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include tutoring.html %}
+      </div>
+    </div>
+  </div>
+</div> <!-- Close accordion component -->
 
-<!--
-Unit: Relations & Functions
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Relations & Functions</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Relations & Functions" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-
-<!--
-Unit: Linear relations & Functions
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Linear Relations & Functions</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Linear Relations & Functions" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
-
-<!--
-Unit: Systems of linear equations
--->
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col" style="width: 50%">Unit: Systems of Linear Equations</th>
-      <th scope="col"></th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for post in site.posts %}
-      {% if post.course == "10C" %}
-        {% if post.category == "Systems of Linear Equations" %}
-          <tr>
-            <td><a href="{{ post.url }}">{{ post.title }}</td>
-            <td>{{ post.description }}</td>
-          </tr>
-        {% endif  %}
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+<h2>Practice Problems</h2>
+<!-- Start of all accordion code (all accordion components must go inside this div) -->
+<div class="accordion" id="accordionPracticeProblems">
+  {% include accordion-level.html unit="Prereqs" course="10C" number="Zero" %}
+  {% include accordion-level.html unit="Trigonometry" course="10C" number="One" %}
+  {% include accordion-level.html unit="Measurement" course="10C" number="Two" %}
+  {% include accordion-level.html unit="Exponents & Radicals" course="10C" number="Three" %}
+  {% include accordion-level.html unit="Polynomials" course="10C" number="Four" %}
+  {% include accordion-level.html unit="Relations & Functions" course="10C" number="Five" %}
+  {% include accordion-level.html unit="Linear Relations & Functions" course="10C" number="Six" %}
+  {% include accordion-level.html unit="Systems of Linear Equations" course="10C" number="Seven" %}
+</div>

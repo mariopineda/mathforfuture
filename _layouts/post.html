@@ -15,7 +15,6 @@ layout: default
     <div class="row">
       <div class="col-sm-4">
         <div style="text-align: left">
-          {% include emailme.html %}
           {% if page.qrcode != nil %}
             <img src="{{ page.qrcode }}" width=150>
           {% endif %}
@@ -30,6 +29,7 @@ layout: default
               {% if page.sourcetitle != nil %}
                 Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a>
               {% endif %}
+              {% include emailme.html %}
             </em>
           </span>
         </div>
