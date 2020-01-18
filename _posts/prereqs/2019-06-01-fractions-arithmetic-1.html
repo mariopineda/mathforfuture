@@ -22,10 +22,12 @@ published: true
   <li>$\frac{2}{7} + \frac{5}{17}$</li>
 </ol>
 
-
 {% for entry in site.data.donow %}
   {% if entry.class == page.course %}
     {% if entry.url != page.url %}
+    <h3>entry.url: {{ entry.url }}</h3>
+    <h3>page.url: {{ page.url }}</h3>
+
       <div class="accordion" id="accordionExample">
         <div class="card">
           <div class="card-header" id="headingOne">
