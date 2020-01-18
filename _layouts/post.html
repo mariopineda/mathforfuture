@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<!-- Detect if this post is a Do Now -->
-{% for entry in site.data.donow %}
-  <p>{{ entry.url }} /  \{{ page.url }}</p>
-  {% if entry.url == page.url %}
-    <h3>Do Now of the day!</h3>
-  {% endif %}
-{% endfor %}
 
 <!-- {% include alert-donow.html %} -->
 <div class="card">
