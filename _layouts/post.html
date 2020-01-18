@@ -2,9 +2,9 @@
 layout: default
 ---
 <!-- Detect if this post is a Do Now -->
-{% assign showsolution == true}
+{% assign showsolution = true}
 {% for entry in site.data.donow %}
-  {% if entry.url = page.url %}
+  {% if entry.url == page.url %}
     {% showsolution = false %}
   {% endif %}
 {% endfor %}
