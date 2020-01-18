@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<!-- Detect if this post is a Do Now -->
+{% assign showsolution == true}
+{% for entry in site.data.donow %}
+  {% if entry.url = page.url %}
+    {% showsolution = false %}
+  {% endif %}
+{% endfor %}
+
 <!-- {% include alert-donow.html %} -->
 <div class="card">
   <div class="card-header">
