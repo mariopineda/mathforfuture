@@ -2,11 +2,9 @@
 layout: default
 ---
 <!-- Detect if this post is a Do Now -->
-{% assign showsolution = true %}
 {% for entry in site.data.donow %}
   <p>{{ entry.url }} /  \{{ page.url }}</p>
   {% if entry.url == page.url %}
-    {% showsolution = false %}
     <h3>Do Now of the day!</h3>
   {% endif %}
 {% endfor %}
