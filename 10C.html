@@ -16,9 +16,6 @@ title: Math 10C
 
             <a href="{{ entry.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Do Now {{ entry.date }}</a>
 
-          {% elsif entry.url == "NA" %}
-            <button type="button" class="btn btn-lg btn-primary" disabled>Do Now not avaliable</button>
-
           {% endif %}
         {% endfor %}
       {% endif %}
