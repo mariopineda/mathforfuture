@@ -11,7 +11,13 @@ title: Math 10C (2019/20 Semester 2)
   {% if entry.class == "10C" %}
     {% for post in site.posts %}
       {% if post.url == entry.url %}
-        <a href="{{ entry.url }}">{{ post.title }}</a>
+
+      <div class="alert alert-success" role="alert">
+        <div class="row">
+          <div class="col-sm-8"><h2>Do Now</h2></div>
+          <div class="col-sm-4"><a href="{{ entry.url }}">{{ post.title }}</a></div>
+        </div>
+      </div>
       {% endif %}
     {% endfor %}
   {% endif %}
