@@ -143,56 +143,56 @@
   weight: 30% (blended by AB Ed)
   url: NA
 
-- class: 10-3
-  examdate: <strike>Th Sep 26</strike> Mon Sep 30
-  unit: Unit 1 - Pricing and currency exchange
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Prereqs
   weight:
   url: NA
 
-- class: 10-3
-  examdate: <strike>Wed Oct 9</strike> Fri Oct 11
-  unit: Unit 2 - Measurement of length
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 1 - Trigonometry
   weight:
   url: NA
 
-- class: 10-3
-  examdate: <strike>Mon Oct 21</strike> Wed Oct 23
-  unit: Unit 3 - Measures of area
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 2 - Measurement
   weight:
   url: NA
 
-- class: 10-3
-  examdate: <strike>Th Oct 31</strike> Fri Nov 1
-  unit: Unit 4 - Other measures
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 3 - Exponents & Radicals
   weight:
   url: NA
 
-- class: 10-3
-  examdate: Tue Nov 5 - Fri Nov 8
-  unit: Final Exam Part A
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 4 - Polynomials
   weight:
   url: NA
 
-- class: 10-3
-  examdate: <strike>Mon Nov 25</strike> Tue Nov 26
-  unit: Unit 5 - Geometry
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 5 - Relations & Functions
   weight:
   url: NA
 
-- class: 10-3
-  examdate: <strike>Fri Dec 13</strike> Mon Dec 16
-  unit: Unit 6 - Trigonometry (<a href="http://maythemathbewithyou.com/approximating-square-roots/">square root practice</a>)
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 6 - Linear Relations & Functions
   weight:
   url: NA
 
-- class: 10-3
-  examdate: Wed Jan 8
-  unit: Unit 7 - Earning and income
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Unit 7 - Systems of Linear Equations
   weight:
   url: NA
 
-- class: 10-3
-  examdate: Wed Jan 15 - Fri Jan 17
-  unit: Final Exam Part B
+- class: 10C
+  examdate: Wed Jan 15
+  unit: Final Exam
   weight:
   url: NA
