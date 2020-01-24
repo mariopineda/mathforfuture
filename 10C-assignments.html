@@ -6,11 +6,13 @@ title: Math 10C Assignments
 
 {% for entry in site.data.assignments reversed %}
   {% if entry.class == "10C" %}
+      <p>
       {{ entry.date }}
       {{ entry.unit }}
       {{ entry.pages }}<br>
       {% for item in entry.web %}
-        {{ item.url }}
-      {% endfor %} 
+        {{ item.url }}<br>
+      {% endfor %}
+      </p>
   {% endif %}
 {% endfor %}
