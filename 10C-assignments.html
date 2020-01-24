@@ -1,7 +1,7 @@
 ---
 layout: assignment
 permalink: 10C-assignments/index.html
-title: Math 10C Assignments 
+title: Math 10C Assignments
 ---
 
 {% for entry in site.data.assignments reversed %}
@@ -9,5 +9,8 @@ title: Math 10C Assignments
       {{ entry.date }}
       {{ entry.unit }}
       {{ entry.pages }}<br>
+      {% for item in entry.web %}
+        {{ item.url }}
+      {% endfor %} 
   {% endif %}
 {% endfor %}
