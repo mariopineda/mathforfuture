@@ -15,6 +15,10 @@ MathJax.Hub.Config({
   },
   displayAlign: "left"
 });
+window.MathJax = {
+  loader: {load: ['[tex]/newcommand']},
+  tex: {packages: {'[+]': ['newcommand']}}
+};
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -48,5 +52,5 @@ MathJax.Hub.Config({
 <script>
   $(function () {
     $('[data-toggle="popover"]').popover()
-  })  
+  })
 </script>
