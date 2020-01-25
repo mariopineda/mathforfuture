@@ -11,7 +11,12 @@ title: Math 10C Assignments
       {{ entry.unit }}
       {{ entry.pages }}<br>
       {% for item in entry.web %}
-        {{ item.url }}<br>
+        {% for post in site.posts %}
+          {% if post.url == item.url %}
+            <a href="{{ post.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">{{ post.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <br>
       {% endfor %}
       </p>
   {% endif %}
