@@ -12,20 +12,21 @@ title: Math 10C Assignments
     </tr>
   </thead>
   <tbody>
-{% for entry in site.data.assignments reversed %}
-  {% if entry.class == "10C" %}
-      <tr>
-        <td>{{ entry.date }}</td>
-        <td>{{ entry.pages }}
-        {% for item in entry.web %}
-          {% for post in site.posts %}
-            {% if post.url == item.url %}
-              , <a href="{{ post.url }}">{{ post.title }}</a></td>
-            {% endif %}
+    {% for entry in site.data.assignments reversed %}
+      {% if entry.class == "10C" %}
+        <tr>
+          <td>{{ entry.date }}</td>
+          <td>{{ entry.pages }}
+          {% for item in entry.web %}
+            {% for post in site.posts %}
+              {% if post.url == item.url %}
+                , <a href="{{ post.url }}">{{ post.title }}</a>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
-        {% endfor %}
-    </tr>
-  {% endif %}
-{% endfor %}
-</tbody>
+        </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
 </table>
