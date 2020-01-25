@@ -13,7 +13,7 @@ title: Math 10C Assignments
   </thead>
   <tbody>
     {% for entry in site.data.assignments reversed %}
-      {% if entry.class == "10C" %}
+      {% if entry.class == "10C" and entry.published == true %}
         <tr>
           <td>{{ entry.date }}</td>
           <td>{{ entry.unit }}: {{ entry.pages }}

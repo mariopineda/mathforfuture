@@ -5,6 +5,7 @@
   web:
     - url: /solving-equations-1/
     - url: /solving-equations-2/
+  published: true
 
 - class: 10C
   date: Wed Feb 4
@@ -16,6 +17,7 @@
     - url: /solving-equations-5/
     - url: /solving-equations-6/
     - url: /solving-equations-7/
+  published: true
 
 - class: 10C
   date: Th Feb 5
@@ -24,3 +26,4 @@
   web:
     - url: /solving-equations-6/
     - url: /solving-equations-7/
+  published: false
