@@ -33,33 +33,32 @@ title: Math 10C (2019/20 Semester 2)
 
 </div>
 
-<!--
 <h2>Course information</h2>
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingCourseOutline">
       <h5 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCourseOutline" aria-expanded="false" aria-controls="collapseCourseOutline">
-          Course Outline
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTimeLine" aria-expanded="false" aria-controls="collapseTimeLine">
+          Time Line
         </button>
       </h5>
     </div>
     <div id="collapseCourseOutline" class="collapse" aria-labelledby="headingCourseOutline" data-parent="#accordionExample">
       <div class="card-body">
-        {% include course-outline-10C.html %}
+        {% include units-10C.html %}
       </div>
     </div>
   </div>
 
   <div class="card">
-    <div class="card-header" id="headingTimeTable">
+    <div class="card-header" id="headingAssignments">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTimeTable" aria-expanded="false" aria-controls="collapseTimeTable">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseAssignments" aria-expanded="false" aria-controls="collapseAssignments">
           Time table
         </button>
       </h5>
     </div>
-    <div id="collapseTimeTable" class="collapse" aria-labelledby="headingTimeTable" data-parent="#accordionExample">
+    <div id="collapseAssignments" class="collapse" aria-labelledby="headingAssignments" data-parent="#accordionExample">
       <div class="card-body">
         {% include timetable.html %}
       </div>
@@ -81,5 +80,3 @@ title: Math 10C (2019/20 Semester 2)
     </div>
   </div>
 </div> <!-- Close accordion component -->
-
-{% include units-10C.html %}
