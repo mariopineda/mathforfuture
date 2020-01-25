@@ -8,7 +8,6 @@ title: Math 10C Assignments
   <thead class="thead-dark">
     <tr>
       <th scope="col">Date</th>
-      <th scope="col">Unit</th>
       <th scope="col">Assignment</th>
     </tr>
   </thead>
@@ -17,8 +16,7 @@ title: Math 10C Assignments
       {% if entry.class == "10C" %}
         <tr>
           <td>{{ entry.date }}</td>
-          <td>{{ entry.unit }}</td>
-          <td>{{ entry.pages }}
+          <td>{{ entry.unit }}: {{ entry.pages }}
           {% for item in entry.web %}
             {% for post in site.posts %}
               {% if post.url == item.url %}
