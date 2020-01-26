@@ -6,7 +6,7 @@
     </tr>
   </thead>
   <tbody>
-    {% for entry in site.data.assignments reversed %}
+    {% for entry in site.data.assignments-10C reversed %}
       {% if entry.class == "10C" and entry.published == true %}
         <tr>
           <td>{{ entry.date }}</td>

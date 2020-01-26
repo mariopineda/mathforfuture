@@ -1,0 +1,54 @@
+- class: 10C
+  date: Mon Feb 3
+  note:
+  unit: Prereqs review
+  pages:
+  web:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+  published: true
+
+- class: 10C
+  date: Tue Feb 4
+  note:
+  unit: Prereqs review
+  pages:
+  web:
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+  published: true
+
+- class: 10C
+  date: Wed Feb 5
+  note:
+  unit: Prereqs review
+  pages:
+  web:
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+  published: true
+
+  - class: 10C
+    date: Thu Feb 6
+    note:
+    unit: Prereqs review
+    pages:
+    web:
+      - url: /solving-equations-6/
+      - url: /solving-equations-7/
+    published: true
+
+- class: 10C
+  date: Fri Feb 7
+  note:
+  unit: Unit 1 - Reasoning
+  pages: pages 1-5, Question 1-9
+  web:
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+  published: true
