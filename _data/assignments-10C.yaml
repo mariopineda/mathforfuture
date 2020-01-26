@@ -4,7 +4,7 @@
   unit: Prereqs review (Rational numbers)
   pages:
   web:
-    - url: 
+    - url: NA
   published: true
 
 - class: 10C
@@ -13,7 +13,7 @@
   unit: Prereqs review (Powers and Exponent Laws)
   pages:
   web:
-    - url:
+    - url: NA
   published: true
 
 - class: 10C
@@ -22,7 +22,7 @@
   unit: Prereqs review (Polynomials)
   pages:
   web:
-    - url:
+    - url: NA
   published: true
 
   - class: 10C
@@ -46,5 +46,5 @@
   unit: Prereqs review (Linear Relations)
   pages:
   web:
-    - url:
+    - url: NA
   published: true
