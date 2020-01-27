@@ -15,32 +15,61 @@ published: true
 ---
 <p>Solve and verify:
   <ol type="A">
-    <li>$4d = -\displaystyle\frac{2}{5}$</li>
-    <li>$\displaystyle\frac{7}{5} = \displaystyle\frac{y}{5}$</li>
-    <li>$\displaystyle\frac{7}{h} = -\displaystyle\frac{2}{5}$</li>
-    <li>$-7.6u = -15.2$</li>
-    <li>$2\pi r = 2 $</li>
+    <li>$$4d = -\fraction{2}{5}$$</li>
+    <li>$$\fraction{7}{5} = \fraction{y}{5}$$</li>
+    <li>$$\fraction{7}{h} = -\fraction{2}{5}$$</li>
+    <li>$$-7.6u = -15.2$$</li>
+    <li>$$2\pi r = 2$$</li>
   </ol>
 </p>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
+{% capture solution %}
+<ol type="A">
+  <li>\[
+    \begin{align}
+        & 4d = -\fraction{2}{5} \\
+      = & \\
+      = & \\
+      = &
+    \end{align}
+  \]
+  </li>
+  <li>\[
+    \begin{align}
+        & \fraction{7}{5} = \fraction{y}{5} \\
+      = & \\
+      = & \\
+      = &
+    \end{align}
+  \]
+  </li>
+  <li>\[
+    \begin{align}
+        & \fraction{7}{h} = -\fraction{2}{5} \\
+      = & \\
+      = & \\
+      = &
+    \end{align}
+  \]
+  </li>
+  <li>\[
+    \begin{align}
+        & -7.6u = -15.2 \\
+      = & \\
+      = & \\
+      = &
+    \end{align}
+  \]
+  </li>
+  <li>\[
+    \begin{align}
+        & 2\pi r = 2 \\
+      = & \\
+      = & \\
+      = &
+    \end{align}
+  \]
+  </li>
+</ol>
+{% endcapture %}
+{% include_relative solution.html content=solution %}
