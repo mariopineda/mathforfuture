@@ -1,31 +1,31 @@
 - class: 10C
   date: Mon Feb 3
   unit: Prereqs review (Rational numbers)
-  pages: 
+  pages:
   web:
-    - url:
+    - url: /integer-arithmetics/
   published: true
 
 - class: 10C
   date: Tue Feb 4
   unit: Prereqs review (Powers and Exponent Laws)
-  pages: NA
+  pages:
   web:
-    - url: NA
+    - url:
   published: true
 
 - class: 10C
   date: Wed Feb 5
   unit: Prereqs review (Polynomials)
-  pages: NA
+  pages:
   web:
-    - url: NA
+    - url:
   published: true
 
 - class: 10C
   date: Thu Feb 6
   unit: Prereqs review (Linear Equations)
-  pages: NA
+  pages:
   web:
     - url: /solving-equations-1/
     - url: /solving-equations-2/
@@ -39,7 +39,7 @@
 - class: 10C
   date: Fri Feb 7
   unit: Prereqs review (Linear Relations)
-  pages: NA
+  pages:
   web:
-    - url: NA
+    - url:
   published: true
