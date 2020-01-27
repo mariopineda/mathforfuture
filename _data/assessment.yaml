@@ -1,60 +1,54 @@
 - class: 20-2
-  examdate: Fri Sep 13 (PT Wed Sep 11)
+  examdate: Tuesday February 11 (PT Fri Feb 7)
   unit: Unit 1 - Reasoning
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Wed Sep 25
-  unit: Unit 2 - Properties of angles
+  examdate: Monday February 24
+  unit: Unit 2 - Properties of angles (PT Thu Feb 20)
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: <strike>Mon Oct 7</strike> Fri Oct 4
+  examdate: Wed March 11 (PT Fri March 6)
   unit: Unit 3 - Trigonometry
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Fri Oct 18
+  examdate: Tuesday March 31 (PT Fri Mar 20)
   unit: Unit 4 - Proportional reasoning
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Wed Oct 23
+  examdate: Monday April 6 (PT Thu Apr 2)
   unit: Unit 1-4 Replacement Exam
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Tu Nov 5
+  examdate: Monday April 20 (PT Thu Apr 16)
   unit: Unit 5 - Radicals
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Fri Nov 8
+  examdate: Friday April 24 (PT Wed Apr 22)
   unit: Unit 5 Replacement Exam
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Mon Nov 25
+  examdate: Tuesday May 5 (PT Fri May 1)
   unit: Unit 6 - Quadratic Functions
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Wed Dec 11
+  examdate: Friday May 22 (PT Fri May 15)
   unit: Unit 7 - Quadratic Equations
-  weight: 11.4%
-  url: NA
-
-- class: 20-2
-  examdate: <strike>Fri Jan 10</strike> Wed Dec 18
-  unit: Units 6-7 Replacement Exam (<a href="https://drive.google.com/file/d/1vZAHl_uQjI4NxZz0BsI05hTUyll6q6h5/view?usp=sharing">PT solutions</a>)
   weight: 11.4%
   url: NA
 
@@ -65,7 +59,13 @@
   url: NA
 
 - class: 20-2
-  examdate: Fri Jan 17
+  examdate: Tuesday June 9 (PT Thu Jun 4)
+  unit: Units 6-7 Replacement Exam
+  weight: 11.4%
+  url: NA
+
+- class: 20-2
+  examdate: Tuesday June 16 (PT Fri Jun 12)
   unit: Final Exam
   weight: 11.4%
   url: NA
