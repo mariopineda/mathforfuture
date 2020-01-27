@@ -1,0 +1,53 @@
+- class: 20-2
+  date: Mon Feb 3
+  unit: Prereqs review (Rational numbers)
+  pages:
+  web:
+    - url: /integer-arithmetics/
+    - url: /fractions-1/
+    - url: /fractions-2/
+    - url: /fraction-arithmtics-1/
+    - url: /fraction-arithmtics-2/
+    - url: /fraction-arithmtics-3/
+    - url: /fraction-arithmtics-4/
+    - url: /evaluate-rationals-expressions/
+    - url: /fractions-3/
+  published: true
+
+- class: 20-2
+  date: Tue Feb 4
+  unit: Prereqs review (Powers and Exponent Laws)
+  pages:
+  web:
+    - url:
+  published: true
+
+- class: 20-2
+  date: Wed Feb 5
+  unit: Prereqs review (Polynomials)
+  pages:
+  web:
+    - url:
+  published: true
+
+- class: 20-2
+  date: Thu Feb 6
+  unit: Prereqs review (Linear Equations)
+  pages:
+  web:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+  published: true
+
+- class: 20-2
+  date: Fri Feb 7
+  unit: Prereqs review (Linear Relations)
+  pages:
+  web:
+    - url:
+  published: true

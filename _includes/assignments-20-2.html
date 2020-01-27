@@ -1,20 +1,26 @@
-<div class="list-group">
-  {% for post in site.posts %}
-    {% if post.course == page.title %}
-      {% if post.status == 'done' %}
-        <a href="{{ site.baseurl }}/{{ post.url }}"  class="list-group-item flex-column align-items-start">
-        <img src="{{ site.baseurl }}/images/done.png" width=25px>
-      {% elsif post.status == 'hw' %}
-        <a href="{{ site.baseurl }}/{{ post.url }}"  class="list-group-item flex-column align-items-start">
-        <img src="{{ site.baseurl }}/images/hw.png"  width=25px>
-      {% elsif post.status == 'notdone' %}
-        <a href="{{ site.baseurl }}/{{ post.url }}"  class="list-group-item flex-column align-items-start">
-        <img src="{{ site.baseurl }}/images/white.png" width=25px>
-      {% else %}
-        <a href="{{ site.baseurl }}/s{{ post.url }}"  class="list-group-item list-group-item-primary">
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Assignment</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for entry in site.data.assignments-20-2 reversed %}
+      {% if entry.class == "20-2" and entry.published == true %}
+        <tr>
+          <td>{{ entry.date }}</td>
+          <td>{{ entry.unit }}: {{ entry.pages }}
+          {% for item in entry.web %}
+            {% for post in site.posts %}
+              {% if post.url == item.url %}
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </td>
+        </tr>
       {% endif %}
-      <strong>p.{{ post.pages }}</strong> {{ post.title }} / {{ post.unit }} ({{ post.type }})</a>
-    {% endif %}
-  {% endfor %}
-  </div>
-</div>
+    {% endfor %}
+  </tbody>
+</table>
