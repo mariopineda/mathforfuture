@@ -4,6 +4,7 @@
   pages:
   web:
     - url: /integer-arithmetics/
+    - url: /fractions-1/
   published: true
 
 - class: 10C
