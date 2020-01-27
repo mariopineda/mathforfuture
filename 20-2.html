@@ -1,45 +1,72 @@
 ---
 layout: default
-permalink: 20-2/index.html
-title: Math 20-2 (2019/20 Semester 2)
+permalink: 10C/index.html
+title: Math 10C (2019/20 Semester 2)
 ---
 <h1>{{ page.title }}</h1>
 <!-- <p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 10 course Math 10C.</p> -->
 
-<!-- {% include alert-20-2.html %} -->
+<div class="row">
+  <div class="col-sm-6">
+    {% for entry in site.data.donow %}
+      {% if entry.class == "10C" %}
+        {% for post in site.posts %}
+          {% if post.url == entry.url %}
 
-<h2>Course information</h2>
+            <a href="{{ entry.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Today's Do Now ({{ entry.date }})</a>
+
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSel9d0hxcGZmfZ31KV-RksSv3Bff6jBveqloX_ImZqLIxHqpg/viewform?usp=sf_link" class="btn btn-danger btn-lg btn-block active" role="button" aria-pressed="true">Report an absence</a>
+  </div>
+
+  <div class="col-sm-6">
+    <!--
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSexjhQVZnugiiDS_OPPDfAF-KhLMkZfvVaS5CUa7Kx-zmYwvA/viewform?usp=sf_link" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Reassessment request</a>
+    -->
+    <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCdtRU6TspMxJC8wApdaxa7G9XNRGxLB9MzEG5SApWVrwC8Q/viewform?usp=sf_link" class="btn btn-warning btn-lg btn-block active" role="button" aria-pressed="true">Workbook printing request</a> -->
+    <a href="https://docs.google.com/spreadsheets/d/1cTFbuCSv8HVkf1d-I_SI6tpA0A6Eu6R-SUtZZjMFmGk/edit?usp=sharing" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Assignment completion</a>
+  </div>
+</div>
+
+<!-- Add some vertical space -->
+<div class="form-group">
+    &nbsp;
+</div>
+
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingCourseOutline">
       <h5 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCourseOutline" aria-expanded="false" aria-controls="collapseCourseOutline">
-          Course Outline
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTimeLine" aria-expanded="false" aria-controls="collapseTimeLine">
+          Time Line
         </button>
       </h5>
     </div>
-    <div id="collapseCourseOutline" class="collapse" aria-labelledby="headingCourseOutline" data-parent="#accordionExample">
+    <div id="collapseTimeLine" class="collapse" aria-labelledby="headingTimeLine" data-parent="#accordionExample">
       <div class="card-body">
-        {% include course-outline-20-2.html %}
+        {% include units-10C.html %}
       </div>
     </div>
   </div>
 
   <div class="card">
-    <div class="card-header" id="headingTimeTable">
+    <div class="card-header" id="headingAssignments">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTimeTable" aria-expanded="false" aria-controls="collapseTimeTable">
-          Time table
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseAssignments" aria-expanded="false" aria-controls="collapseAssignments">
+          Assignments
         </button>
       </h5>
     </div>
-    <div id="collapseTimeTable" class="collapse" aria-labelledby="headingTimeTable" data-parent="#accordionExample">
+    <div id="collapseAssignments" class="collapse" aria-labelledby="headingAssignments" data-parent="#accordionExample">
       <div class="card-body">
-        {% include timetable.html %}
+        {% include assignments-10C.html %}
       </div>
     </div>
   </div>
-
+<!--
   <div class="card">
     <div class="card-header" id="headingTutoring">
       <h5 class="mb-0">
@@ -54,16 +81,5 @@ title: Math 20-2 (2019/20 Semester 2)
       </div>
     </div>
   </div>
+-->
 </div> <!-- Close accordion component -->
-
-<h2>Practice Problems</h2>
-<!-- Start of all accordion code (all accordion components must go inside this div) -->
-<div class="accordion" id="accordionPracticeProblems">
-  {% include accordion-level.html unit="Reasoning" course="20-2" number="One" %}
-  {% include accordion-level.html unit="Proprties of Angles" course="20-2" number="Two" %}
-  {% include accordion-level.html unit="Trigonometry" course="20-2" number="Three" %}
-  {% include accordion-level.html unit="Radicals" course="20-2" number="Four" %}
-  {% include accordion-level.html unit="Quadratic Functions" course="20-2" number="Five" %}
-  {% include accordion-level.html unit="Quadratic Equations" course="20-2" number="Six" %}
-  {% include accordion-level.html unit="Statistics" course="20-2" number="Seven" %}
-</div>
