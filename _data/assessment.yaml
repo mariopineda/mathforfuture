@@ -1,197 +1,230 @@
 - class: 20-2
-  examdate: Tuesday February 11 (PT Fri Feb 7)
+  examdate: Tue Feb 11
+  ptdate: Fri Feb 7
   unit: Unit 1 - Reasoning
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Monday February 24
-  unit: Unit 2 - Properties of angles (PT Thu Feb 20)
+  examdate: Mon Feb 24
+  ptdate: Thu Feb 20
+  unit: Unit 2 - Properties of angles
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Wed March 11 (PT Fri March 6)
+  examdate: Wed Mar 11
+  ptdate: Fri Mar 6
   unit: Unit 3 - Trigonometry
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Tuesday March 31 (PT Fri Mar 20)
+  examdate: Tue Mar 31
+  ptdate: Fri Mar 20
   unit: Unit 4 - Proportional reasoning
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Monday April 6 (PT Thu Apr 2)
+  examdate: Mon Apr 6
+  ptdate: Thu Apr 2
   unit: Unit 1-4 Replacement Exam
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Monday April 20 (PT Thu Apr 16)
+  examdate: Mon Apr 20
+  ptdate: Thu Apr 16
   unit: Unit 5 - Radicals
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Friday April 24 (PT Wed Apr 22)
+  examdate: Fri Apr 24
+  ptdate: Wed Apr 22
   unit: Unit 5 Replacement Exam
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Tuesday May 5 (PT Fri May 1)
+  examdate: Tue May 5
+  ptdate: Fri May 1
   unit: Unit 6 - Quadratic Functions
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Friday May 22 (PT Fri May 15)
+  examdate: Fri May 22
+  ptdate: Fri May 15
   unit: Unit 7 - Quadratic Equations
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: <strike>Tue Jan 7</strike> Fri Jan 10
+  examdate: Fri Jun 5
+  ptdate:
   unit: Unit 8 - Statistics
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Tuesday June 9 (PT Thu Jun 4)
+  examdate: Tue Jun 9
+  ptdate: Thu Jun 4
   unit: Units 6-7 Replacement Exam
   weight: 11.4%
   url: NA
 
 - class: 20-2
-  examdate: Tuesday June 16 (PT Fri Jun 12)
+  examdate: Tue Jun 16
+  ptdate: Fri Jun 12
   unit: Final Exam
   weight: 11.4%
   url: NA
 
 - class: 30-2
-  examdate: Friday February 14 (PT Wed Feb 12)
+  examdate: Fri Feb 14
+  ptdate: Wed Feb 12
   unit: Unit 1 - Polynomial Functions
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Tuesday March 3 (PT Wed Feb 26)
+  examdate: Tue Mar 3
+  ptdate: Wed Feb 26
   unit: Unit 2 - Exponents
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Wednesday March 18 (PT Mon Mar 16)
+  examdate: Wed Mar 18
+  ptdate: Mon Mar 16
   unit: Unit 3 - Rational Expressions & Equations
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Tuesday April 7 (PT Fri Apr 3)
+  examdate: Tue Apr 7
+  ptdate: Fri Apr 3
   unit: Unit 4 - Set Theory
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Wednesday April 22 (PT Mon Apr 20)
+  examdate: Wed Apr 22
+  ptdate: Mon Apr 20
   unit: Unit 5 - Logarithmic Functions
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Friday May 8 (PT Wed May 6)
+  examdate: Fri May 8
+  ptdate: Wed May 6
   unit: Unit 6 - Counting Methods
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Monday May 11
+  examdate: Mon May 11
+  ptdate:
   unit: Rationals Replacement Exam (Rational Expressions)
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Wednesday May 27 (PT Mon May 25)
+  examdate: Wed May 27
+  ptdate: Mon May 25
   unit: Unit 7 - Probability
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Friday June 5 (PT Wed Jun 3)
+  examdate: Fri Jun 5
+  ptdate: Wed Jun 3
   unit: Unit 8 - Sinusoidal Functions
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Tuesday June 9
+  examdate: Tue Jun 9
+  ptdate:
   unit: Logic Replacement Exam (Set Theory, Counting Methods, Probability)
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Monday June 15
+  examdate: Mon Jun 15
+  ptdate:
   unit: Functions Replacement Exam (Polynomials, Exponents, Logs, Sinusoidal)
   weight: 12.5%
   url: NA
 
 - class: 30-2
-  examdate: Thursday June 18
+  examdate: Thu Jun 18
+  ptdate: Tue Jun 16
   unit: Diploma Exam
   weight: 30% (blended by AB Ed)
   url: NA
 
 - class: 10C
-  examdate: Wed Jan 15 (PT Mon Jan 13)
+  examdate: Wed Jan 15
+  ptdate: Mon Jan 13
   unit: Prereqs
   weight:
   url: NA
 
 - class: 10C
-  examdate: Wed Jan 15 (PT Mon Jan 13)
+  examdate: Wed Jan 15
+  ptdate: Mon Jan 13
   unit: Unit 1 - Trigonometry
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 2 - Measurement
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 3 - Exponents & Radicals
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 4 - Polynomials
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 5 - Relations & Functions
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 6 - Linear Relations & Functions
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Unit 7 - Systems of Linear Equations
   weight:
   url: NA
 
 - class: 10C
   examdate: Wed Jan 15
+  ptdate:
   unit: Final Exam
   weight:
   url: NA

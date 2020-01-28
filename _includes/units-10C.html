@@ -1,7 +1,8 @@
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Exam Date (PT date)</th>
+      <th scope="col">Exam Date</th>
+      <th scope="col">Practice Test</th>
       <th scope="col">Unit</th>
     </tr>
   </thead>
@@ -10,6 +11,7 @@
       {% if entry.class == "10C" %}
         <tr>
           <td>{{ entry.examdate }}</td> <!-- Date -->
+          <td>{{ entry.ptdate }}</td>
           {% if entry.url == "NA" %}
             <td>{{ entry.unit}}</td> <!-- NO link to pdf notes -->
           {% else %}
