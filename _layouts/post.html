@@ -9,7 +9,9 @@ $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 {% for entry in site.data.donow %}
   {% if entry.class == page.course %}
     {% if entry.url != page.url %} <!-- Not a Do Now -->
+    <p>Not a Do Now!</p>
     {% else %} <!-- Do Now -->
+    <p>A Do Now!</p>
       <div class="alert alert-success" role="alert">
         <div class="row">
           <div class="col-sm-6"><h2>Do Now</h2></div>
