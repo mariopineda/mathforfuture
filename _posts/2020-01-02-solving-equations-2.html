@@ -15,40 +15,53 @@ published: true
 ---
 <p>Solve and verify:
   <ol type="A">
-    <li>$$\displaystyle\frac{t}{1.6}+5.9=-3.2$$</li>
+    <li>$$\fraction{t}{1.6}+5.9=-3.2$$</li>
     <li>$$2.05=0.9x-6.5$$</li>
-    <li>$$\displaystyle\frac{2}{5} = \displaystyle\frac{2}{3} - \displaystyle\frac{r}{5}$$</li>
-    <li>$$2\displaystyle\frac{1}{2}+1\displaystyle\frac{1}{6}v=-\displaystyle\frac{5}{6}$$</li>
+    <li>$$\fraction{2}{5} = \fraction{2}{3} - \fraction{r}{5}$$</li>
+    <li>$$2\fraction{1}{2}+1\fraction{1}{6}v=-\fraction{5}{6}$$</li>
     <li>$$-3.3g+1.5=-8.4$$</li>
   </ol>
 </p>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
-
-
-<!-- Solution template
 {% capture solution %}
+<h3>A.</h3>
+\[
+  \begin{array}{rcl}
+     \fraction{t}{1.6}+5.9 & = & -3.2 \\
+         \fraction{t}{1.6} & = & -3.2-5.9 \\
+         \fraction{t}{1.6} & = & -9.1 \\
+                         t & = & -9.1 \times 1.6 \\
+                         t & = & -14.56
+    \end{array}
+\]
+
+<h3>B.</h3>
+\[
+  \begin{array}{rcl}
+     & = &  \\
+    \end{array}
+\]
+
+<h3>C.</h3>
+\[
+  \begin{array}{rcl}
+     & = &  \\
+    \end{array}
+\]
+
+<h3>D.</h3>
+\[
+  \begin{array}{rcl}
+     & = &  \\
+    \end{array}
+\]
+
+<h3>E.</h3>
+\[
+  \begin{array}{rcl}
+     & = &  \\
+    \end{array}
+\]
 
 {% endcapture %}
 {% include_relative solution.html content=solution %}
--->
