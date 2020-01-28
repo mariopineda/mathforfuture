@@ -1,29 +1,24 @@
 
 <!-- Determine if current post is a Do Now - if it is, do not show the solution -->
-{% assign show_solution = true %}
 {% for entry in site.data.donow %}
-  {% if entry.url == page.url %}
-    {% show_solution = false %}
-  {% endif %}
-{% endfor %}
+  {% if page.course == entry.class and entry.url != page.url %}
+    <div class="accordion" id="accordionExample">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h5 class="mb-0">
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+              <h2>Solution</h2>
+            </button>
+          </h5>
+        </div>
+        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+          <div class="card-body">
 
-{% if show_solution == true %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
+           {{ include.content }}
 
-         {{ include.content }}
-
+          </div>
         </div>
       </div>
     </div>
-  </div>
-{% endif %}
+  {% endif %}
+{% endfor %}
