@@ -23,32 +23,19 @@ published: true
   </ol>
 </p>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
-
-
-<!-- Solution template
 {% capture solution %}
+<h3>A.</h3>
+\[
+  \begin{array}{rcl}
+       \fraction{1}{5}n+\fraction{3}{2} & = & \fraction{3}{10}n \\
+     \fraction{1}{5}n-\fraction{3}{10}n & = & -\fraction{3}{2} \\
+    \fraction{2}{10}n-\fraction{3}{10}n & = & -\fraction{3}{2} \\
+                     -\fraction{1}{10}n & = & -\fraction{3}{2} \\
+                                      n & = & \left( -\fraction{3}{2} \right) \left( -\fraction{10}{1}\right) \\
+                                      n & = & \fraction{30}{2} \\
+                                      n & = & 15  
+  \end{array}
+\]
 
 {% endcapture %}
 {% include_relative solution.html content=solution %}
--->
