@@ -1,5 +1,3 @@
-
-<!-- Determine if current post is a Do Now - if it is, do not show the solution -->
 {% for entry in site.data.donow %}
   {% if page.course == entry.class and entry.url != page.url %}
     <div class="accordion" id="accordionExample">
