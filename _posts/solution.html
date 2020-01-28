@@ -1,5 +1,6 @@
 {% for entry in site.data.donow %}
   {% if entry.url != page.url %}
+      <p>Not a Do Now! {{ entry.url }} - {{ page.url }}</p>
     <div class="accordion" id="accordionExample">
       <div class="card">
         <div class="card-header" id="headingOne">
