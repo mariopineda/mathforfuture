@@ -10,8 +10,7 @@
       {% if entry.class == "10C" and entry.published == true %}
         <tr>
           <td>{{ entry.date }}</td>
-          <td>{{ entry.unit }}: {{ entry.pages }}</td>
-          <td>
+          <td>{{ entry.unit }}: {{ entry.pages }}
             <ul>
           {% for item in entry.web %}
             {% for post in site.posts %}
