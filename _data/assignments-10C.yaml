@@ -1,6 +1,6 @@
 - class: 10C
   date: Mon Feb 3
-  unit: Prereqs review (Rational numbers)
+  unit: Prereqs review
   pages:
   web:
     - url: /integer-arithmetics/
@@ -13,7 +13,7 @@
 
 - class: 10C
   date: Tue Feb 4
-  unit: Prereqs review (Powers and Exponent Laws)
+  unit: Prereqs review
   pages:
   web:
     - url: /fraction-arithmtics-4/
