@@ -11,7 +11,7 @@
     - url: /fraction-arithmtics-3/
     - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
-    - url: /fractions-3/   
+    - url: /fractions-3/
   published: true
 
 - class: 10C
@@ -42,6 +42,10 @@
     - url: /solving-equations-5/
     - url: /solving-equations-6/
     - url: /solving-equations-7/
+    - url: /solving-equations-8/
+    - url: /solving-equations-9/
+    - url: /solving-equations-10/
+    - url: /solving-equations-11/
   published: true
 
 - class: 10C
