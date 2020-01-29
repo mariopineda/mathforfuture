@@ -25,7 +25,7 @@
 
 - class: 10C
   date: Wed Feb 5
-  unit: Prereqs review (Polynomials)
+  unit: Prereqs review
   pages:
   web:
     - url: /solving-equations-3/
@@ -37,7 +37,7 @@
 
 - class: 10C
   date: Thu Feb 6
-  unit: Prereqs review (Linear Equations)
+  unit: Prereqs review
   pages:
   web:
     - url: /solving-equations-8/
@@ -48,7 +48,7 @@
 
 - class: 10C
   date: Fri Feb 7
-  unit: Prereqs review (Linear Relations)
+  unit: Prereqs review
   pages:
   web:
     - url:
