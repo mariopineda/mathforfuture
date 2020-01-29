@@ -7,8 +7,6 @@
     - url: /fractions-1/
     - url: /fractions-2/
     - url: /fraction-arithmtics-1/
-    - url: /fraction-arithmtics-2/
-    - url: /fraction-arithmtics-3/
   published: true
 
 - class: 10C
@@ -16,11 +14,10 @@
   unit: Prereqs review
   pages:
   web:
+    - url: /fraction-arithmtics-2/
+    - url: /fraction-arithmtics-3/
     - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
-    - url: /fractions-3/
-    - url: /solving-equations-1/
-    - url: /solving-equations-2/
   published: true
 
 - class: 10C
@@ -28,11 +25,10 @@
   unit: Prereqs review
   pages:
   web:
+    - url: /fractions-3/
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
     - url: /solving-equations-3/
-    - url: /solving-equations-4/
-    - url: /solving-equations-5/
-    - url: /solving-equations-6/
-    - url: /solving-equations-7/
   published: true
 
 - class: 10C
@@ -40,10 +36,10 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /solving-equations-8/
-    - url: /solving-equations-9/
-    - url: /solving-equations-10/
-    - url: /solving-equations-11/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
   published: true
 
 - class: 10C
@@ -51,5 +47,8 @@
   unit: Prereqs review
   pages:
   web:
-    - url:
+    - url: /solving-equations-8/
+    - url: /solving-equations-9/
+    - url: /solving-equations-10/
+    - url: /solving-equations-11/
   published: true
