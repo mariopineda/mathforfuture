@@ -9,10 +9,10 @@ $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 {% for entry in site.data.donow %}
   {% if entry.url != page.url %} <!-- Not a Do Now -->
     {% else %} <!-- Do Now -->
-    <div class="alert alert-success" role="alert">
-      <div class="row">
-        <div class="col-sm-6"><h3>Do Now</h3></div>
-        <div class="col-sm-6"><h3 align=right id="time">10:00</h3></div>
+      <div class="alert alert-success" role="alert">
+        <div class="row">
+          <div class="col"><h3>Do Now</h3></div>
+        <div class="col"><h3 align=right id="time">10:00</h3></div>
       </div>
     </div>
   {% endif %}
