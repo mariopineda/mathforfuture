@@ -18,7 +18,7 @@
     - url: /fraction-arithmtics-3/
     - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
-  published: true
+  published: false
 
 - class: 10C
   date: Wed Feb 5
@@ -29,7 +29,7 @@
     - url: /solving-equations-1/
     - url: /solving-equations-2/
     - url: /solving-equations-3/
-  published: true
+  published: false
 
 - class: 10C
   date: Thu Feb 6
@@ -40,7 +40,7 @@
     - url: /solving-equations-5/
     - url: /solving-equations-6/
     - url: /solving-equations-7/
-  published: true
+  published: false
 
 - class: 10C
   date: Fri Feb 7
@@ -51,4 +51,4 @@
     - url: /solving-equations-9/
     - url: /solving-equations-10/
     - url: /solving-equations-11/
-  published: true
+  published: false
