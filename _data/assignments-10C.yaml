@@ -1,12 +1,13 @@
 - class: 10C
   date: Mon Feb 3
   unit: Prereqs review
-  pages: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
+  pages:
   web:
     - url: /integer-arithmetics/
     - url: /fractions-1/
     - url: /fractions-2/
     - url: /fraction-arithmtics-1/
+  note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
   published: true
 
 - class: 10C
@@ -18,6 +19,7 @@
     - url: /fraction-arithmtics-3/
     - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
+  note:
   published: false
 
 - class: 10C
@@ -29,6 +31,7 @@
     - url: /solving-equations-1/
     - url: /solving-equations-2/
     - url: /solving-equations-3/
+  note:
   published: false
 
 - class: 10C
@@ -40,6 +43,7 @@
     - url: /solving-equations-5/
     - url: /solving-equations-6/
     - url: /solving-equations-7/
+  note:
   published: false
 
 - class: 10C
@@ -51,4 +55,5 @@
     - url: /solving-equations-9/
     - url: /solving-equations-10/
     - url: /solving-equations-11/
+  note:
   published: false
