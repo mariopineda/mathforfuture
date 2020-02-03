@@ -3,11 +3,10 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /integer-arithmetics/
-    - url: /fractions-1/
-    - url: /fractions-2/
     - url: /fraction-arithmtics-1/
     - url: /fraction-arithmtics-2/
+    - url: /fraction-arithmtics-3/
+    - url: /fraction-arithmtics-4/
   note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
   published: true
 
@@ -16,8 +15,6 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /fraction-arithmtics-3/
-    - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
     - url: /fractions-3/
     - url: /solving-equations-1/
