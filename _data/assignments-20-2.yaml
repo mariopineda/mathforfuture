@@ -12,7 +12,7 @@
 - class: 20-2
   date: Tue Feb 4
   unit: Prereqs review
-  pages:
+  pages: "Reasoning Workbook: p7-8"
   web:
     - url: /fraction-arithmetics-1/
     - url: /fraction-arithmetics-2/
@@ -20,7 +20,7 @@
     - url: /fraction-arithmetics-4/
     - url: /evaluate-rationals-expressions/
     - url: /fractions-3/
-    - url: /solving-equations-1/
+    - url: /review-of-polynomials-1/
   note:
   published: true
 
@@ -29,6 +29,7 @@
   unit: Prereqs review
   pages:
   web:
+    - url: /solving-equations-1/
     - url: /solving-equations-2/
     - url: /solving-equations-3/
     - url: /solving-equations-4/
