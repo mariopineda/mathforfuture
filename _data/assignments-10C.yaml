@@ -7,6 +7,7 @@
     - url: /fractions-1/
     - url: /fractions-2/
     - url: /fraction-arithmtics-1/
+    - url: /fraction-arithmtics-2/
   note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
   published: true
 
@@ -15,45 +16,33 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /fraction-arithmtics-2/
     - url: /fraction-arithmtics-3/
     - url: /fraction-arithmtics-4/
     - url: /evaluate-rationals-expressions/
+    - url: /fractions-3/
+    - url: /solving-equations-1/
   note:
-  published: false
+  published: true
 
 - class: 10C
   date: Wed Feb 5
   unit: Prereqs review
   pages:
   web:
-    - url: /fractions-3/
-    - url: /solving-equations-1/
     - url: /solving-equations-2/
     - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
   note:
-  published: false
+  published: true
 
 - class: 10C
   date: Thu Feb 6
   unit: Prereqs review
   pages:
   web:
-    - url: /solving-equations-4/
-    - url: /solving-equations-5/
     - url: /solving-equations-6/
     - url: /solving-equations-7/
-  note:
-  published: false
-
-- class: 10C
-  date: Fri Feb 7
-  unit: Prereqs review
-  pages:
-  web:
     - url: /solving-equations-8/
-    - url: /solving-equations-9/
-    - url: /solving-equations-10/
-    - url: /solving-equations-11/
   note:
-  published: false
+  published: true
