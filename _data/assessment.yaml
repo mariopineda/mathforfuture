@@ -1,4 +1,11 @@
 - class: 20-2
+  examdate: F Feb 7
+  ptdate: No PT
+  unit: Skill Assessment
+  weight: 11.4%
+  url: NA
+
+- class: 20-2
   examdate: T Feb 11
   ptdate: F Feb 7
   unit: Unit 1 - Reasoning
@@ -79,6 +86,13 @@
   examdate: T Jun 16
   ptdate: F Jun 12
   unit: Final Exam
+  weight: 11.4%
+  url: NA
+
+- class: 30-2
+  examdate: F Feb 7
+  ptdate: No PT
+  unit: Skill Assessment
   weight: 11.4%
   url: NA
 
@@ -164,6 +178,13 @@
   ptdate: T Jun 16 (Mock Diploma)
   unit: Diploma Exam
   weight: 30% (blended by AB Ed)
+  url: NA
+
+- class: 10C
+  examdate: F Feb 7
+  ptdate: No PT
+  unit: Skill Assessment
+  weight: 11.4%
   url: NA
 
 - class: 10C
