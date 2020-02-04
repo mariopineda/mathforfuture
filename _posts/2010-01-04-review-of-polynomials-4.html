@@ -13,22 +13,20 @@ qrcode:
 video:
 published: true
 ---
-<p>For each polynomial, state the leading coefficient, degree and constant.</p>
+Divide.
 <ol type="A">
-  <li>$$8x+9$$</li>
-  <li>$$8x^3y^2+6x^2y^2-10xy^2$$</li>
-  <li>$$9y+6x+7x^2y^2-10x^4y^2-x^3$$</li>
-  <li>$$\sqrt{3}x-19$$</li>
-  <li>$$-7x^4-2x^2+x-\sqrt{5}$$</li>
+  <li>$$\fraction{4x+8}{2}$$</li>
+  <li>$$\fraction{9x+12}{3}$$</li>
+  <li>$$\fraction{6x^2+4x-8}{2}$$</li>
+  <li>$$\fraction{10x^2-15x}{5x}$$</li>
 </ol>
 
 {% capture solution %}
   <ol type="A">
-    <li>Leading coefficient: 8, Degree: 1, Constant: 9</li>
-    <li>Leading coefficient: 8, Degree: 5, Constant: 0</li>
-    <li>Leading coefficient: -10, Degree: 6, Constant: 0</li>
-    <li>Leading coefficient: $\sqrt{3}$, Degree: 1, Constant: -19</li>
-    <li>Leading coefficient: -7, Degree: 4, Constant: -\sqrt{5}</li>
+    <li>$$\fraction{4x+8}{2} = \fraction{4x}{2}+\fraction{8}{2} = 2x+4$$</li>
+    <li>$$\fraction{9x+12}{3} = \fraction{9x}{3}+\fraction{12}{3} = 3x+4$$</li>
+    <li>$$\fraction{6x^2+4x-8}{2} = \fraction{6x^2}{2}+\fraction{4x}{2}-\fraction{8}{2} = 3x^2+2x-4$$</li>
+    <li>$$\fraction{10x^2-15x}{5x} = \fraction{10x^2}{5x}-\fraction{15x}{5x} = 2x^2-3$$</li>
   </ol>
 {% endcapture %}
 {% include_relative solution.html content=solution %}
