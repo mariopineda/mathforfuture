@@ -3,7 +3,7 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /integer-arithmetics/
+    - url: /integer-arithmetics-1/
     - url: /fractions-1/
     - url: /fractions-2/
   note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
@@ -12,7 +12,7 @@
 - class: 20-2
   date: Tue Feb 4
   unit: Prereqs review
-  pages: "Reasoning Workbook: p7-8"
+  pages: "Prereqs review & Unit 1: Reasoning"
   web:
     - url: /fraction-arithmetics-1/
     - url: /fraction-arithmetics-2/
@@ -29,7 +29,7 @@
 
 - class: 20-2
   date: Wed Feb 5
-  unit: Prereqs review
+  unit: "Prereqs review & Unit 1: Reasoning"
   pages:
   web:
     - url: /review-of-polynomials-5/

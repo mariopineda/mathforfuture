@@ -3,7 +3,7 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /integer-arithmetics/
+    - url: /integer-arithmetics-1/
     - url: /fractions-1/
     - url: /fractions-2/
     - url: /fraction-arithmetics-1/
@@ -16,8 +16,8 @@
   unit: Prereqs review
   pages:
   web:
-    - url: /fraction-arithmtics-3/
-    - url: /fraction-arithmtics-4/
+    - url: /fraction-arithmetics-3/
+    - url: /fraction-arithmetics-4/
     - url: /evaluate-rationals-expressions/
     - url: /fractions-3/
     - url: /solving-equations-1/
