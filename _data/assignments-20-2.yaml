@@ -32,6 +32,8 @@
   unit: Prereqs review
   pages:
   web:
+    - url: /review-of-polynomials-5/
+    - url: /review-of-polynomials-6/
     - url: /solving-equations-1/
     - url: /solving-equations-2/
     - url: /solving-equations-3/
