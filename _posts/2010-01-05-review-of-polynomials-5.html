@@ -26,25 +26,25 @@ published: true
 {% capture solution %}
 <h3>1A.</h3>
   \[
-    \begin{align}
+    \begin{array}{rcl}
       & (9a+4)+(2a+2)+(a-4) \\
     = & 9a+4+2a+2+a-4 \\
     = & 12a + 2
-    \end{align}
+    \end{array}
   \]
 
 <h3>1B.</h3>
   \[
-    \begin{align}
+    \begin{array}{rcl}
      12a+2 & = 38 \\
      12a   & = 36 \\
      a     & = 36 \div 12 \\
      a     & = 3
-    \end{align}
+    \end{array}
   \]
 
 <h3>2.</h3>
-The length of the thirds side is the perimeter minus the length of the two other sides of the triangle.
+The length of the third side is the perimeter minus the length of the two other sides of the triangle.
 \[
   \begin{array}{cl}
         & 13b^2+3b+2-(2b+1)-(3b-1) \\
@@ -54,5 +54,18 @@ The length of the thirds side is the perimeter minus the length of the two other
 \]
 
 <h3>3.</h3>
+If $x = AB = AC$, then $x+x+b+1=3b+5$. Solve for $x$.
+\[
+  \begin{array}{rcl}
+    x+x+b+1 & = & 3b+5 \\
+    2x+b+1 & = & 3b+5 \\
+    2x & = & 3b+5-b-1 \\
+    2x & = & 2b+4 \\
+    x & = & \fraction{2b+4}{2} \\
+    x & = & b+2
+  \end{array}
+\]
+Hence $AB = b+2$.
+
 {% endcapture %}
 {% include_relative solution.html content=solution %}
