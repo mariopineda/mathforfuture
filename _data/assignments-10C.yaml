@@ -13,8 +13,8 @@
 
 - class: 10C
   date: Tue Feb 4
-  unit: "Prereqs review & Trigonometry Topic 1 practice questions"
-  pages:
+  unit: "Prereqs review & Trigonometry"
+  pages: "Topic 1 practice questions"
   web:
     - url: /fraction-arithmetics-3/
     - url: /fraction-arithmetics-4/
