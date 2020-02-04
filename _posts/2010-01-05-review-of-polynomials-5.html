@@ -16,56 +16,43 @@ published: true
 <ol>
   <li>A triangle has side lengths of $9a+4$, $2a+2$ and $a-4$.</li>
     <ol type="A">
-      <li>Determine an expression for the perimeter of this triangle.</li>
+      <li>Determine a simplifed expression for the perimeter of this triangle.</li>
       <li>If the perimeter of this triangle is 38 cm, determine the value of $a$.</li>
     </ol>
   <li>A triangle has side lengths of $2b+1$, $3b-1$ and a perimeter of $13b^2+3b+2$. Determine the expression for the length of the third side.</li>
   <li>In $\triangle ABC$, $AB = AC$, $BC=b+1$ and $AB+AC+BC=3b+5$. Determine the expression for $AB$.</li>
 </ol>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-          <h2>A.</h2>
-            \[
-              \begin{align}
-                & (9a+4)+(2a+2)+(a-4) \\
-              = & 9a+4+2a+2+a-4 \\
-              = & 12a + 2
-              \end{align}
-            \]
-
-          <h2>B.</h2>
-            \[
-              \begin{align}
-               12a+2 & = 38 \\
-               12a   & = 36 \\
-               a     & = 36 \div 12 \\
-               a     & = 3
-              \end{align}
-            \]
-
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
-
-<!-- Solution template
 {% capture solution %}
+<h3>1A.</h3>
+  \[
+    \begin{align}
+      & (9a+4)+(2a+2)+(a-4) \\
+    = & 9a+4+2a+2+a-4 \\
+    = & 12a + 2
+    \end{align}
+  \]
 
+<h3>1B.</h3>
+  \[
+    \begin{align}
+     12a+2 & = 38 \\
+     12a   & = 36 \\
+     a     & = 36 \div 12 \\
+     a     & = 3
+    \end{align}
+  \]
+
+<h3>2.</h3>
+The length of the thirds side is the perimeter minus the length of the two other sides of the triangle.
+\[
+  \begin{array}{cl}
+        & 13b^2+3b+2-(2b+1)-(3b-1) \\
+      = & 13b^2+3b+2-2b-1-3b+1 \\
+      = & 13b^2-2b+2
+  \end{array}
+\]
+
+<h3>3.</h3>
 {% endcapture %}
 {% include_relative solution.html content=solution %}
--->
