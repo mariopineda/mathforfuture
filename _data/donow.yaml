@@ -1,13 +1,10 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /integer-arithmetics-3/
-  date: T Feb 4
+  url:
 
 - class: 30-2
-  url: /fraction-arithmetics-4/
-  date: T Feb 4
+  url:
 
 - class: 10C
   url:
-  date: T Feb 4
