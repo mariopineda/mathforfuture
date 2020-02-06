@@ -38,13 +38,13 @@
 
 - class: 10C
   date: Thu Feb 6
-  unit: Prereqs review
-  pages:
+  unit: "Prereqs review & Trigonometry"
+  pages: "Topic 3 practice questions"
   web:
     - url: /solving-equations-6/
     - url: /solving-equations-7/
     - url: /solving-equations-8/
     - url: /trigonometry-1/
     - url: /trigonometry-2/
-  note:
+  note: "Skills Assessment tomorrow"
   published: true
