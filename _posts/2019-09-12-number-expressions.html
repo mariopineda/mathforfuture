@@ -31,39 +31,22 @@ published: true
 </ul>
 </p>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-          <p>Note: There are several possible answers for each question.</p>
-          <ul style="list-style-type:none;">
-          <li>A. $2n$</li>
-          <li>B. $2n+1$</li>
-          <li>C. $2n+1$ and $2n+3$</li>
-          <li>D. $2n+-1$, $2n+1$, $2n+3$</li>
-          <li>E. $2n+1$ and $2n+3$</li>
-          <li>F. $2n+-1$, $2n+1$, $2n+3$</li>
-          <li>G. $2n$ and $2n+2$</li>
-          <li>H. $2n$ and $2n+2$</li>
-          <li>I. $2n$, $2n-2$ and $2n+2$</li>
-          <li>J. $2n$, $2n-2$ and $2n+2$</li>
-          <li>K. $n$, $n+1$ and $n+2$</li>
-          <li>L. $(2n+1)^2$</li>
-          <li>M. $(2n+1)^2+(2n+3)^2$</li>
-          </ul>
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
+{% capture solution %}
+  <p>Note: There are several possible answers for each question.</p>
+  <ul style="list-style-type:none;">
+  <li>A. $2n$</li>
+  <li>B. $2n+1$</li>
+  <li>C. $2n+1$ and $2n+3$</li>
+  <li>D. $2n+-1$, $2n+1$, $2n+3$</li>
+  <li>E. $2n+1$ and $2n+3$</li>
+  <li>F. $2n+-1$, $2n+1$, $2n+3$</li>
+  <li>G. $2n$ and $2n+2$</li>
+  <li>H. $2n$ and $2n+2$</li>
+  <li>I. $2n$, $2n-2$ and $2n+2$</li>
+  <li>J. $2n$, $2n-2$ and $2n+2$</li>
+  <li>K. $n$, $n+1$ and $n+2$</li>
+  <li>L. $(2n+1)^2$</li>
+  <li>M. $(2n+1)^2+(2n+3)^2$</li>
+  </ul>
+{% endcapture %}
+{% include_relative solution.html content=solution %}
