@@ -44,5 +44,7 @@
     - url: /solving-equations-6/
     - url: /solving-equations-7/
     - url: /solving-equations-8/
+    - url: /trigonometry-1/
+    - url: /trigonometry-2/
   note:
-  published: false
+  published: true

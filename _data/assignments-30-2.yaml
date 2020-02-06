@@ -24,7 +24,7 @@
 - class: 30-2
   date: Wed Feb 5
   unit: "Prereqs review & Polynomials"
-  pages: "Topic 1 practice questions & Example 3 p11" 
+  pages: "Topic 1 practice questions & Example 3 p11"
   web:
     - url: /solving-equations-2/
     - url: /solving-equations-3/
@@ -41,5 +41,6 @@
     - url: /solving-equations-6/
     - url: /solving-equations-7/
     - url: /solving-equations-8/
+    - url: /seasonal-sea-ice-extent/
   note:
-  published: false
+  published: true
