@@ -44,3 +44,12 @@
     - url: /seasonal-sea-ice-extent/
   note: "Skills assessment tomorrow"
   published: true
+
+- class: 30-2
+  date: Fri Feb 7
+  unit: "Polynomials"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /sketching-polynomial-functions/
+  note: 
+  published: true
