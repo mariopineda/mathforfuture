@@ -50,6 +50,6 @@
   unit: "Polynomials"
   pages: "Topic 2 practice questions"
   web:
-    - url: /sketching-polynomial-functions/
-  note: 
+    - url: /polynomial-functions-1/
+  note:
   published: true
