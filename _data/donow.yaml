@@ -1,7 +1,7 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /deductive-reasoning-2/
+  url: 
 
 - class: 30-2
   url: /polynomial-functions-2/
