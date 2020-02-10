@@ -63,5 +63,14 @@
   pages: "Study for unit final. Finish all assignments + review for this unit. Assignment check on Monday!"
   web:
     - url:
-  note: 
+  note:
+  published: true
+
+- class: 20-2
+  date: Mon Feb 10
+  unit: "Reasoning"
+  pages: "Unit Final tomorrow!"
+  web:
+    - url:
+  note:
   published: true
