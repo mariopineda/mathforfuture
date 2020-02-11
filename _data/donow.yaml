@@ -1,10 +1,10 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: 
+  url:
 
 - class: 30-2
-  url: /polynomial-functions-2/
+  url: /oil-sands-ghg-emissions/
 
 - class: 10C
-  url: /trigonometry-9/
+  url: 
