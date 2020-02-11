@@ -64,3 +64,12 @@
     - url: /oil-sands-ghg-emissions/
   note:
   published: true
+
+- class: 30-2
+  date: Tue Feb 11
+  unit: "Polynomials"
+  pages: "Study for PT tomorrow and unit final on Fri"
+  web:
+    - url:
+  note:
+  published: true

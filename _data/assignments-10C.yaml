@@ -57,3 +57,12 @@
     - url: /trigonometry-9/
   note: "Trig Unit Final postponed until Wed Feb 12, PT on Tue Feb 11"
   published: true
+
+- class: 10C
+  date: Tue Feb 11
+  unit: "Trigonometry"
+  pages: "Study for unit final tomorrow"
+  web:
+    - url:
+  note: 
+  published: true
