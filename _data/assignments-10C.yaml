@@ -64,5 +64,14 @@
   pages: "Study for unit final tomorrow"
   web:
     - url:
-  note: 
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Feb 13
+  unit: "Measurement"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /trigonometry-8/
+  note:
   published: true
