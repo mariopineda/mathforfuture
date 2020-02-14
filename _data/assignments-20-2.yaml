@@ -83,3 +83,12 @@
     - url:
   note:
   published: true
+
+- class: 20-2
+  date: Fri Feb 14
+  unit: "Properties of angles"
+  pages: "Topic 2 practice problems"
+  web:
+    - url: /angles-and-parallel-lines/
+  note:
+  published: true

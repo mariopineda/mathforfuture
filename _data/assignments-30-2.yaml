@@ -70,6 +70,6 @@
   unit: "Polynomials"
   pages: "Study for PT tomorrow and unit final on Fri"
   web:
-    - url:
+    - url: /polynomial-functions-3/
   note:
   published: true

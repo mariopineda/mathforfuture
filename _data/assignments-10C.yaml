@@ -75,3 +75,13 @@
     - url: /trigonometry-8/
   note:
   published: true
+
+- class: 10C
+  date: Fri Feb 14
+  unit: "Measurement"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /unit-conversions-1/
+    - url: /unit-conversions-2/
+  note:
+  published: true
