@@ -1,10 +1,10 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /angles-and-parallel-lines/
+  url: /angles-in-triangles/
 
 - class: 30-2
   url:
 
 - class: 10C
-  url: /unit-conversions-1/ 
+  url: /unit-conversions-1/
