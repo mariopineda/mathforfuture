@@ -85,3 +85,12 @@
     - url: /unit-conversions-2/
   note:
   published: true
+
+- class: 10C
+  date: Wed Feb 19
+  unit: "Measurement"
+  pages: "Topic 3 practice questions"
+  web:
+    - url: 
+  note:
+  published: true

@@ -92,3 +92,12 @@
     - url: /angles-and-parallel-lines/
   note:
   published: true
+
+- class: 20-2
+  date: Wed Feb 19
+  unit: "Properties of angles"
+  pages: "Ex 3b, Ex 4, Ex 5, Topic 3 practice problems & review"
+  web:
+    - url: /angles-in-triangles/
+  note:
+  published: true
