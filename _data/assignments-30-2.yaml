@@ -97,6 +97,6 @@
   unit: "Exponential Functions"
   pages: "Topic 2 practice questions"
   web:
-    - url:
+    - url: /exponential-functions-1/
   note:
   published: true
