@@ -1,7 +1,7 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /angles-in-polygons/
+  url: 
 
 - class: 30-2
   url: /exponential-functions-1/
