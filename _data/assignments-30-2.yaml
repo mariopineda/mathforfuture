@@ -86,7 +86,16 @@
 - class: 30-2
   date: Thu Feb 20
   unit: "Exponential Functions"
-  pages: "Topic 1 practice questions"
+  pages: "Ex 4 & Topic 1 practice questions"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 30-2
+  date: Fri Feb 21
+  unit: "Exponential Functions"
+  pages: "Topic 2 practice questions"
   web:
     - url:
   note:

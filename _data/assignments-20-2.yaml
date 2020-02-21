@@ -110,3 +110,12 @@
     - url:
   note:
   published: true
+
+- class: 20-2
+  date: Fri Feb 21
+  unit: "Properties of angles"
+  pages: "Study for unit final on Monday."
+  web:
+    - url:
+  note:
+  published: true
