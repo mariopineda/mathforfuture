@@ -20,9 +20,23 @@ published: true
 
 {% capture solution %}
 <h3>A.</h3>
+$n=10$, sum of interior angles $=(10-2) \times 180 = 1440^\circ$
 
 <h3>B.</h3>
+$(n-2) \times 180 = 4140^\circ$. Solve for the number of sides, $n$. $$
+
+\[
+  \begin{array}{lcl}
+    (n-2) \times 180 & = & 4140 \\
+    n-2 & = & \fraction{4140}{180} \\
+    n-2 & = & 23 \\
+    n & = & 25
+  \end{array}
+\]
+The is a 25-gon (aka icosikaipentagon or pentacosagon), i.e. is has 25 sides.
 
 <h3>C.</h3>
+The sum of the interior angles in a hexagon $= (6-2) \times 180 = 720^\circ$. The sixth angle measure = $720-600=120^\circ$
+
 {% endcapture %}
 {% include_relative solution.html content=solution %}
