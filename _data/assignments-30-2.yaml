@@ -100,3 +100,12 @@
     - url: /exponential-functions-1/
   note:
   published: true
+
+- class: 30-2
+  date: Mon Feb 24
+  unit: "Exponential Functions"
+  pages: "Topic 3 practice questions"
+  web:
+    - url: /solving-exponential-equations/ 
+  note:
+  published: true
