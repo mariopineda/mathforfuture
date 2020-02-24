@@ -22,6 +22,7 @@ published: true
   <li>$5^{4a+2} = 25^a$</li>
   <li>$10^{10x-2} = 1000^{20x-42}$</li>
   <li>$8^{3x} = 4^{1-x}$</li>
+  <li>$13^n = \fraction{1}{169}$</li>
 </ol>
 
 {% capture solution %}
@@ -85,7 +86,7 @@ published: true
             10x-2 & = & 60x-126          & \mbox{Drop the bases} \\
           10x-60x & = & -126+2           & \mbox{Solve for x} \\
              -50x & = & -124             & \\
-                x & = & \displaystyle\frac{-124}{-50}=\displaystyle\frac{62}{50}=2.48 \\
+                x & = & \displaystyle\frac{-124}{-50}=\displaystyle\frac{31}{25} \\
     \end{array}
   $$
 </p>
@@ -103,5 +104,19 @@ published: true
     \end{array}
   $$
 </p>
+
+<h3>G.</h3>
+<p>
+  $$
+    \begin{array}{rcll}
+           13^n & = & \fraction{1}{169}      & \\
+           13^n & = & 169^{-1}  & \mbox{Negative Exponent Rule} \\
+           13^n & = & (13^2)^{-1}   & \mbox{Common bases} \\
+           13^n & = & 13^{-2}     & \mbox{Power of a Power Law} \\
+              n & = & -2         & \mbox{Drop the bases} \\
+    \end{array}
+  $$
+</p>
+
 {% endcapture %}
 {% include_relative solution.html content=solution %}
