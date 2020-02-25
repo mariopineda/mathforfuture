@@ -114,8 +114,22 @@
 - class: 20-2
   date: Fri Feb 21
   unit: "Properties of angles"
-  pages: "Finish worksheets (congruent triangles and angle measures). Study for unit final on Monday."
+  pages: "Finish worksheets (congruent triangles and angle measures)."
   web:
     - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Tue Feb 25
+  unit: "Trigonometry"
+  pages:
+  web:
+    - url: /trigonometry-1/
+    - url: /trigonometry-8/
+    - url: /trigonometry-9/
+    - url: /trigonometry-10/
+    - url: /solving-triangles/
+    - url: /solving-oblique-triangles/
   note:
   published: true
