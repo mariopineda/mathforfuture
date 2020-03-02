@@ -1,10 +1,10 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url:
+  url: /solving-oblique-triangles/
 
 - class: 30-2
   url:
 
 - class: 10C
-  url: 
+  url:

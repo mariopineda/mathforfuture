@@ -133,3 +133,12 @@
     - url: /solving-oblique-triangles/
   note:
   published: true
+
+- class: 20-2
+  date: Mon Mar 2
+  unit: "Trigonometry"
+  pages: "Topic 1 Practice Problems"
+  web:
+    - url: /solving-oblique-triangles-using-the-sine-law/
+  note:
+  published: true
