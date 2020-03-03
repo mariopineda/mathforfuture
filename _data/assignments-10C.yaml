@@ -120,7 +120,7 @@
   web:
     - url: /surface-area-finding-missing-measures/
     - url: /surface-area-and-volume-3/
-  note: 
+  note:
   published: true
 
 - class: 10C
@@ -130,4 +130,13 @@
   web:
     - url: /surface-area-finding-missing-measures/
   note: "PT and late writes tomorrow."
+  published: true
+
+- class: 10C
+  date: Tue Mar 3
+  unit: "Exponents & Radicals"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /fraction-arithmetics-4/
+  note: 
   published: true
