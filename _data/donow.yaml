@@ -1,7 +1,7 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /solving-oblique-triangles/
+  url: /solving-oblique-triangles-using-the-sine-law/
 
 - class: 30-2
   url:
