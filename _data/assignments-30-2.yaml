@@ -124,12 +124,9 @@
 
 - class: 30-2
   date: Wed Feb 26
-  unit: "Rational Expresions & Equations"
+  unit: "Rational Expressions & Equations"
   pages: "Topic 1 practice questions"
   web:
-    - url: /fraction-arithmetics-1/
-    - url: /fraction-arithmetics-2/
-    - url: /fraction-arithmetics-3/
     - url: /fraction-arithmetics-4/
   note:
   published: true

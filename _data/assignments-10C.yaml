@@ -138,5 +138,14 @@
   pages: "Topic 1 practice questions"
   web:
     - url: /fraction-arithmetics-4/
-  note: 
+  note:
+  published: true
+
+- class: 10C
+  date: Wed Mar 4
+  unit: "Exponents & Radicals"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /exponent-laws-1/
+  note:
   published: true
