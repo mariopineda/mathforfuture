@@ -151,3 +151,12 @@
     - url: /solving-oblique-triangles-using-the-sine-law/
   note:
   published: true
+
+- class: 20-2
+  date: Wed Mar 4
+  unit: "Trigonometry"
+  pages: "Topic 2 Practice Problems #4-"
+  web:
+    - url: /solving-oblique-triangles-using-the-cosine-law/
+  note:
+  published: true
