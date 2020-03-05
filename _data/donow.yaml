@@ -1,10 +1,10 @@
 # A do now url cannot appear more than once (no duplicate urls)
 
 - class: 20-2
-  url: /solving-oblique-triangles-using-the-cosine-law/
+  url: /solving-pairs-of-triangles/
 
 - class: 30-2
-  url:
+  url: /simplify-polynomials/
 
 - class: 10C
-  url: /exponent-laws-1/
+  url: /exponent-laws-3/
