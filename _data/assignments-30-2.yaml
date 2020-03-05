@@ -123,10 +123,19 @@
   published: true
 
 - class: 30-2
-  date: Wed Feb 26
+  date: Wed Mar 4
   unit: "Rational Expressions & Equations"
-  pages: "Topic 1 practice questions"
+  pages: "PreRequistes: Exponents & Factoring practice problems 1-3"
   web:
     - url: /fraction-arithmetics-4/
+  note:
+  published: true
+
+- class: 30-2
+  date: Thu Mar 5
+  unit: "Rational Expressions & Equations"
+  pages: "PreRequistes: Exponents & Factoring practice problems 4, Topic 1 practice questions"
+  web:
+    - url: /simplify-polynomials/
   note:
   published: true

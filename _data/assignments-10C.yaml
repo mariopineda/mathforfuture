@@ -144,10 +144,19 @@
 - class: 10C
   date: Wed Mar 4
   unit: "Exponents & Radicals"
-  pages: "Topic 2 practice questions"
+  pages: "Topic 1 practice questions"
   web:
     - url: /exponent-laws-1/
     - url: /exponent-laws-2/
     - url: /exponent-laws-3/
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Mar 5
+  unit: "Exponents & Radicals"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: 
   note:
   published: true

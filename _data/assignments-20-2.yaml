@@ -160,3 +160,12 @@
     - url: /solving-oblique-triangles-using-the-cosine-law/
   note:
   published: true
+
+- class: 20-2
+  date: Thu Mar 5
+  unit: "Trigonometry"
+  pages: "Topic 3 Practice Problems #4-"
+  web:
+    - url: /solving-pairs-of-triangles/
+  note: "Tomorrow: PT / Late writes / Reassessments"
+  published: true
