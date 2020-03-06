@@ -157,6 +157,16 @@
   unit: "Exponents & Radicals"
   pages: "Topic 2 practice questions"
   web:
-    - url: 
+    - url:
+  note:
+  published: true
+
+
+- class: 10C
+  date: Fri Mar 6
+  unit: "Exponents & Radicals"
+  pages: "Topic 3 practice questions"
+  web:
+    - url: /exponent-laws-4/
   note:
   published: true

@@ -169,3 +169,12 @@
     - url: /solving-pairs-of-triangles/
   note: "Tomorrow: PT / Late writes / Reassessments"
   published: true
+
+- class: 20-2
+  date: Fri Mar 6
+  unit: "Trigonometry"
+  pages: "Study for exam"
+  web:
+    - url: 
+  note: "Unit final on Wed"
+  published: true
