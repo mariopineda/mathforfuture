@@ -145,6 +145,17 @@
   unit: "Rational Expressions & Equations"
   pages: "Topic 1 & 2 practice questions"
   web:
-    - url: 
+    - url:
+  note:
+  published: true
+
+- class: 30-2
+  date: Mon Mar 9
+  unit: "Rational Expressions & Equations"
+  pages: "Topic 3 practice questions"
+  web:
+    - url: /simplify-products-and-quotients-of-rational-expressions/
+    - url: /non-permissible-values/
+    - url: /simplifying-rational-expression/
   note:
   published: true
