@@ -177,5 +177,6 @@
   web:
     - url: /prime-factorization-1/
     - url: /converting-radicals-1/
+    - url: /converting-radicals-2/
   note:
   published: true
