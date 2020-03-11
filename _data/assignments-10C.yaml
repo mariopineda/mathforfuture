@@ -175,6 +175,7 @@
   unit: "Exponents & Radicals"
   pages: "Topic 4 practice questions"
   web:
+    - url: /prime-factorization-1/
     - url: /converting-radicals/
   note:
   published: true
