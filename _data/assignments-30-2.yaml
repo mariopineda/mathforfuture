@@ -163,7 +163,7 @@
 - class: 30-2
   date: Thu Mar 12
   unit: "Rational Expressions & Equations"
-  pages: "Topic 4 practice questions"
+  pages: 
   web:
     - url: /factoring-trinomials/
     - url: /solving-quadratic-equations/
