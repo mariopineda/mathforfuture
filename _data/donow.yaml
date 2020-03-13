@@ -1,11 +1,10 @@
+# A do now url cannot appear more than once (no duplicate urls)
+
 - class: 20-2
-  url: /solving-triangles/
-  date: M Jan 20
+  url:
 
 - class: 30-2
-  url: /fraction-arithmetics-3/
-  date: M Jan 20
+  url: /simplifying-rational-expression-4/
 
 - class: 10C
-  url: 
-  date: M Jan 20
+  url: /converting-radicals-2/

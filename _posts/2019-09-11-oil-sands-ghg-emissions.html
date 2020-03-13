@@ -18,8 +18,9 @@ published: true
 <div class="row">
   <div class="col-sm-6">
     <ol>
-      <li>Determine the quadratic regression equation, rounding parameters to nearest hundreth. Sketch the graph, labelling axes with description and units.</li>
-      <li>Using the regression function, estimate the GHG emissions in 2012, rounded to the nearest hundreth.</li>
+      <li>Determine the quadratic regression equation, rounding parameters to nearest hundreth.</li>
+      <li>Using the regression function, estimate the GHG emissions in 2020, rounded to the nearest hundreth. Is this an interpolation or an extrapolation? Explain.</li>
+      <li>Using the regression function, estimate the GHG emissions in 2012, rounded to the nearest hundreth. Is this an interpolation or an extrapolation? Explain.</li>
     </ol>
   </div>
   <div class="col-sm-6">
@@ -64,28 +65,14 @@ published: true
   </div>
 </div>
 
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
-          <h3>A.</h3>
-          <p></p>
-          <h3>B.</h3>
-          <p></p>
-          <h3>C.</h3>
-          <p></p>
-          <h3>D.</h3>
-          <p></p>
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
+{% capture solution %}
+  <h3>A.</h3>
+  <p></p>
+  <h3>B.</h3>
+  <p></p>
+  <h3>C.</h3>
+  <p></p>
+  <h3>D.</h3>
+  <p></p>
+{% endcapture %}
+{% include_relative solution.html content=solution %}

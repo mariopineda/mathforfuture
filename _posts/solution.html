@@ -1,5 +1,5 @@
 {% for entry in site.data.donow %}
-  {% if entry.class == page.course %}
+  {% if page.course == entry.class %}
     {% if entry.url != page.url %}
       <div class="accordion" id="accordionExample">
         <div class="card">

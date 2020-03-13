@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Solving equations 1
+title: Solving equations 1 
 category: Prereqs
-description: Solving and verifying linear equations
+description: Solving linear equations
 tags: Skill building
 level: easy
 grade: 10
@@ -13,34 +13,63 @@ qrcode:
 video:
 published: true
 ---
-<p>Solve and verify:
+<p>Solve.
   <ol type="A">
-    <li>$4d = -\displaystyle\frac{2}{5}$</li>
-    <li>$\displaystyle\frac{7}{5} = \displaystyle\frac{y}{5}$</li>
-    <li>$\displaystyle\frac{7}{h} = -\displaystyle\frac{2}{5}$</li>
-    <li>$-7.6u = -15.2$</li>
-    <li>$2\pi r = 2 $</li>
+    <li>$$4d = -\fraction{2}{5}$$</li>
+    <li>$$\fraction{7}{5} = \fraction{y}{5}$$</li>
+    <li>$$\fraction{7}{h} = -\fraction{2}{5}$$</li>
+    <li>$$-7.6u = -15.2$$</li>
+    <li>$$2\pi r = 2$$</li>
   </ol>
 </p>
 
-<!--  -->
-{% if false %}
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
+{% capture solution %}
+<h3>A.</h3>
+\[
+  \begin{array}{rcl}
+    4d & = & -\fraction{2}{5} \\
+     d & = & -\fraction{2}{5} \times \fraction{1}{4} \\
+     d & = & -\fraction{2}{20} \\
+     d & = & -\fraction{1}{10} \\
+    \end{array}
+\]
 
-          <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
+<h3>B.</h3>
+\[
+  \begin{array}{rcl}
+    \fraction{y}{5} & = & \fraction{7}{5} \\
+                  y & = & \fraction{7}{5} \times 5 \\
+                  y & = & 7
+    \end{array}
+  \]
+
+<h3>C.</h3>
+\[
+  \begin{array}{rcl}
+            -\fraction{2}{5} & = & \fraction{7}{h} \\
+   -\fraction{2}{5} \times h & = & 7 \\
+                           h & = & -\fraction{5}{2} \times 7 \\
+                           h & = & -\fraction{35}{2}&
+  \end{array}
+\]
+
+<h3>D.</h3>
+\[
+  \begin{array}{rcl}
+    -7.6u & = & -15.2 \\
+        u & = & \fraction{-15.2}{-7.6} \\
+        u & = & 2 \\
+  \end{array}
+\]
+
+<h3>E.</h3>
+\[
+  \begin{array}{rcl}
+    2\pi r & = & 2 \\
+         r & = & \fraction{2}{2\pi} & \\
+         r & = & \fraction{1}{\pi} \\
+    \end{array}
+\]
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}

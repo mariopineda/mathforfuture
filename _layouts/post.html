@@ -7,16 +7,14 @@ $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 <!-- {% include alert-donow.html %} -->
 
 {% for entry in site.data.donow %}
-  {% if entry.class == page.course %}
-    {% if entry.url != page.url %} <!-- Not a Do Now -->
+  {% if entry.url != page.url %} <!-- Not a Do Now -->
     {% else %} <!-- Do Now -->
       <div class="alert alert-success" role="alert">
         <div class="row">
-          <div class="col-sm-6"><h2>Do Now</h2></div>
-          <div class="col-sm-6"><h2 align=right id="time">10:00</h2></div>
-        </div>
+          <div class="col"><h3>Do Now</h3></div>
+          <!-- <div class="col"><h3 align=right id="time">10:00</h3></div> -->
       </div>
-    {% endif %}
+    </div>
   {% endif %}
 {% endfor %}
 
@@ -43,9 +41,8 @@ $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
           <span class="align-text-bottom">
             <em>
               Page address: {{ site2.url }}{{ page.url }}<br>
-              Grade: {{page.grade}}, Course: {{page.course}}, Unit: {{page.category}}<br>
               {% if page.sourcetitle != nil %}
-                Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a>
+                Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
               {% endif %}
               {% include emailme.html %}
             </em>

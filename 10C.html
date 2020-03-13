@@ -13,7 +13,7 @@ title: Math 10C (2019/20 Semester 2)
         {% for post in site.posts %}
           {% if post.url == entry.url %}
 
-            <a href="{{ entry.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Today's Do Now ({{ entry.date }})</a>
+            <a href="{{ entry.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Do Now</a>
 
           {% endif %}
         {% endfor %}
@@ -39,6 +39,21 @@ title: Math 10C (2019/20 Semester 2)
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingCourseOutline">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCourseOutline" aria-expanded="false" aria-controls="collapseCourseOutline">
+          Course Outline
+        </button>
+      </h5>
+    </div>
+    <div id="collapseCourseOutline" class="collapse" aria-labelledby="headingCourseOutline" data-parent="#accordionExample">
+      <div class="card-body">
+        {% include course-outline-10C.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header" id="headingTimeLine">
       <h5 class="mb-0">
         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTimeLine" aria-expanded="false" aria-controls="collapseTimeLine">
           Time Line
