@@ -175,6 +175,17 @@
   unit: "Trigonometry"
   pages: "Study for exam"
   web:
-    - url: 
+    - url:
   note: "Unit final on Wed"
+  published: true
+
+- class: 20-2
+  date: Fri Mar 13
+  unit: "Proportional Reasoning"
+  pages: "Topic 1 & 2 Practice Problems"
+  web:
+    - url: /unit-rate/
+    - url: /rate-of-change/
+    - url: /rate-of-sea-level-rise/
+  note:
   published: true
