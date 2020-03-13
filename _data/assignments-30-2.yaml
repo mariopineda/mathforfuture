@@ -163,7 +163,7 @@
 - class: 30-2
   date: Thu Mar 12
   unit: "Rational Expressions & Equations"
-  pages: 
+  pages:
   web:
     - url: /factoring-trinomials/
     - url: /solving-quadratic-equations/
@@ -172,5 +172,14 @@
     - url: /solving-quadratic-equations-by-factoring-3/
     - url: /simplify-sums-and-differences-of-rational-expressions/
     - url: /simplifying-rational-expression-4/
+  note:
+  published: true
+
+- class: 30-2
+  date: Fri Mar 13
+  unit: "Rational Expressions & Equations"
+  pages: "Topic 4 practice questions"
+  web:
+    - url:
   note:
   published: true
