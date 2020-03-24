@@ -13,14 +13,32 @@ title: mathforfuture.com
     <p>Dr. P.</p>
   </div>
 
+  <!-- Calculate the total number of posts for currentl course -->
+  {% assign totalcount10C = 0 %}
+  {% assign totalcount202 = 0 %}
+  {% assign totalcount302 = 0 %}
+  {% for post in site.posts %}
+    {% if post.published  %}
+      {% if post.course == "10C" %}
+        {% assign totalcount10C = totalcount10C | plus: 1 %}
+      {% endif %}
+      {% if post.course == "20-2" %}
+        {% assign totalcount202 = totalcount202 | plus: 1 %}
+      {% endif %}
+      {% if post.course == "30-2" %}
+        {% assign totalcount302 = totalcount302 | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
   <div class="row">
     <div class="col-sm-4">
       <div class="card">
         <h5 class="card-header">Math 10C</h5>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
+          <h5 class="card-title">Currently {{ totalcount10C }} practice problems</h5>
           <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="/10C-practice-problems/" class="btn btn-primary">Go somewhere</a>
+          <a href="/10C-practice-problems/" class="btn btn-primary">Take me to the practice problems</a>
         </div>
       </div>
     </div>
@@ -28,9 +46,9 @@ title: mathforfuture.com
       <div class="card">
         <h5 class="card-header">Math 20-2</h5>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
+          <h5 class="card-title">Currently {{ totalcount202 }} practice problems</h5>
           <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="/20-2-practice-problems/" class="btn btn-primary">Go somewhere</a>
+          <a href="/20-2-practice-problems/" class="btn btn-primary">Take me to the practice problems</a>
         </div>
       </div>
     </div>
@@ -38,9 +56,9 @@ title: mathforfuture.com
       <div class="card">
         <h5 class="card-header">Math 30-2</h5>
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
+          <h5 class="card-title">Currently {{ totalcount30-2 }} practice problems</h5>
           <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="/30-2-practice-problems/" class="btn btn-primary">Go somewhere</a>
+          <a href="/30-2-practice-problems/" class="btn btn-primary">Take me to the practice problems</a>
         </div>
       </div>
     </div>
