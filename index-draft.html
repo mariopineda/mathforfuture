@@ -2,6 +2,28 @@
 layout: default
 title: mathforfuture.com
 ---
+<!-- Calculate the total number of posts for currentl course -->
+{% assign totalcount10C = 0 %}
+{% assign totalcount202 = 0 %}
+{% assign totalcount302 = 0 %}
+{% assign total = 0 %}
+{% for post in site.posts %}
+  {% if post.published  %}
+    {% if post.course == "10C" %}
+      {% assign totalcount10C = totalcount10C | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+    {% if post.course == "20-2" %}
+      {% assign totalcount202 = totalcount202 | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+    {% if post.course == "30-2" %}
+      {% assign totalcount302 = totalcount302 | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
 <div class="container">
   <div class="card">
     <h1 class="card-header">Welcome to Math For Future</h1>
@@ -13,27 +35,9 @@ title: mathforfuture.com
       <p class="card-text">May the math be with you,</p>
       <p class="card-text">Dr. P.</p>
 
-      <h5 class="card-title">Currently {{ totalcount10C+totalcount202+totalcount302 }} practice problems</h5>
+      <h5 class="card-title">Currently {{ total }} practice problems</h5>
     </div>
   </div>
-  
-  <!-- Calculate the total number of posts for currentl course -->
-  {% assign totalcount10C = 0 %}
-  {% assign totalcount202 = 0 %}
-  {% assign totalcount302 = 0 %}
-  {% for post in site.posts %}
-    {% if post.published  %}
-      {% if post.course == "10C" %}
-        {% assign totalcount10C = totalcount10C | plus: 1 %}
-      {% endif %}
-      {% if post.course == "20-2" %}
-        {% assign totalcount202 = totalcount202 | plus: 1 %}
-      {% endif %}
-      {% if post.course == "30-2" %}
-        {% assign totalcount302 = totalcount302 | plus: 1 %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
 
   <div class="row">
     <div class="col-sm-4">
