@@ -46,8 +46,22 @@ title: mathforfuture.com
       <div class="card">
         <h1 class="card-header">Latest problems</h1>
         <div class="card-body">
-
-
+          <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col"></th>
+                <th scope="col"></th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for post in site.posts %}
+                <tr>
+                  <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</th>
+                  <td>{{ post.course }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
