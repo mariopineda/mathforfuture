@@ -49,7 +49,8 @@ title: mathforfuture.com
             <tbody>
               {% for post in site.posts limit:8 %}
                 <tr>
-                  <td><a href="{{ post.url }}" ><em>{{ post.title }}</em></a> ({{ post.course }} / {{ post.category }})</td>
+                  <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</a></th>
+                  <td>{{ post.course }}</td>
                 </tr>
                 {% endfor %}
             </tbody>
