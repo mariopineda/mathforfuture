@@ -4,8 +4,8 @@
     <meta name="author" content="{{ site.name }}">
 
     {% if page.description %}
-    <meta name="description" content="{{ page.description }}">
-    <meta property="og:description" content="{{ page.description }}" />
+    <meta name="description" content="{{ page.description }}. Math {{ page.course }} course, Unit: {{ page.category }}.">
+    <meta property="og:description" content="{{ page.description }}. Math {{ page.course }} course, Unit: {{ page.category }}." />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
@@ -14,4 +14,4 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    <meta property="og:image" content="logo/math-for-future-social-media-banner.png" />
+    <meta property="og:image" content="{{ site.url }}/logo/math-for-future-social-media-banner.png" />
