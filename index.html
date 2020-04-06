@@ -83,7 +83,7 @@ title: mathforfuture.com
             </tbody>
           </table>
 
-          <a href="/10C-practice-problems/" class="btn btn-primary">Practice problems</a>
+          <a href="/10C-practice-problems/" class="btn btn-primary">All 10C practice problems</a>
         </div>
       </div>
     </div>
@@ -94,7 +94,22 @@ title: mathforfuture.com
           <h5 class="card-title">Currently {{ totalcount202 }} practice problems</h5>
           <p class="card-text">This Grade 11 course prepares students for post-secondary studies in programs that do not require the study of calculus.</p>
           <p class="card-text">Prerequisites: Math 10C</p>
-          <a href="/20-2-practice-problems/" class="btn btn-primary">Practice problems</a>
+
+          <h5 class="card-title">Latest Problems</h5>
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% for post in site.posts limit:5 %}
+                {% if post.course == "20-2" %}
+                  <tr>
+                    <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</a></th>
+                  </tr>
+                {% endif  %}
+              {% endfor %}
+            </tbody>
+          </table>
+
+          <a href="/10C-practice-problems/" class="btn btn-primary">All 20-2 practice problems</a>
+
         </div>
       </div>
     </div>
@@ -105,7 +120,22 @@ title: mathforfuture.com
           <h5 class="card-title">Currently {{ totalcount302 }} practice problems</h5>
           <p class="card-text">This Grade 12 diploma course prepares students for entry into post-secondary programs that do not require the study of calculus.</p>
           <p class="card-text">Prerequisites: Math 20-2</p>
-          <a href="/30-2-practice-problems/" class="btn btn-primary">Practice problems</a>
+
+          <h5 class="card-title">Latest Problems</h5>
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% for post in site.posts limit:5 %}
+                {% if post.course == "30-2" %}
+                  <tr>
+                    <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</a></th>
+                  </tr>
+                {% endif  %}
+              {% endfor %}
+            </tbody>
+          </table>
+
+          <a href="/10C-practice-problems/" class="btn btn-primary">All 30-2 practice problems</a>
+
         </div>
       </div>
     </div>
