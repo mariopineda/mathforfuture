@@ -19,6 +19,16 @@
           </div>
         </div>
       </div>
+
+      <p>
+      <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a>
+      </p>
+      <div class="collapse" id="collapseExample">
+        <div class="card card-body">
+          {{ include.content }}
+        </div>
+      </div>
+
     {% endif %}
   {% endif %}
 {% endfor %}
