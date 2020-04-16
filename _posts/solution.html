@@ -1,7 +1,7 @@
 {% for entry in site.data.donow %}
   {% if page.course == entry.class %}
     {% if entry.url != page.url %}
-      <p><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a></p>
+      <p align="right"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a></p>
       <div class="collapse" id="collapseExample">
         <div class="card card-body">
           {{ include.content }}
