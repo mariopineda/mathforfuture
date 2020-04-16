@@ -1,34 +1,12 @@
 {% for entry in site.data.donow %}
   {% if page.course == entry.class %}
     {% if entry.url != page.url %}
-      <div class="accordion" id="accordionExample">
-        <div class="card">
-          <div class="card-header" id="headingOne">
-            <h5 class="mb-0">
-              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                <h2>Solution</h2>
-              </button>
-            </h5>
-          </div>
-          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-            <div class="card-body">
-
-             {{ include.content }}
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <p>
-      <a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a>
-      </p>
+      <p><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a></p>
       <div class="collapse" id="collapseExample">
         <div class="card card-body">
           {{ include.content }}
         </div>
       </div>
-
     {% endif %}
   {% endif %}
 {% endfor %}
