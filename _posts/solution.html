@@ -10,3 +10,21 @@
     {% endif %}
   {% endif %}
 {% endfor %}
+
+<p align="right"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseMeta" role="button" aria-expanded="false" aria-controls="collapseMeta">Info</a></p>
+<div class="collapse" id="collapseMeta">
+  <div class="card card-body">
+    <p align="right">
+      {{ site2.url }}{{ page.url }} <br>
+      {% include report-errors.html %} <br>
+      {% if page.sourcetitle != nil %}
+        Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
+      {% endif %}
+    </p>
+
+    <p align="right">
+      MathForFuture.com - Math for a Changing World.<br>
+      &#9400; {{ site.time | date: '%Y' }} by <a href="/images/listen-to-the-science.jpg">The Peas Room</a> under the terms of the <a href="/license/">MIT license</a>.
+    </p>
+  </div>
+</div>
