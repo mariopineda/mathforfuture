@@ -11,10 +11,12 @@
   {% endif %}
 {% endfor %}
 
+<!-- Info accordion -->
 <p align="right"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseMeta" role="button" aria-expanded="false" aria-controls="collapseMeta">Info</a></p>
 <div class="collapse" id="collapseMeta">
   <div class="card card-body">
     <p align="right">
+      Grade: {{ page.grade }}, Course: {{ page.course }}, Unit: {{ page.category }} <br>
       www.mathforfuture.com{{ site2.url }}{{ page.url }} <br>
       {% include report-errors.html %} <br>
       {% if page.sourcetitle != nil %}
