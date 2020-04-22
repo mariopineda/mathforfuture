@@ -20,10 +20,15 @@
 <p align="right"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseMeta" role="button" aria-expanded="false" aria-controls="collapseMeta">Info</a></p>
 <div class="collapse" id="collapseMeta">
   <div class="card card-body">
+    <p align="left">
+      <h1 class="display-1">{{ page.title }}</h1>
+      <h1 class="display-3">Grade: {{ page.grade }}</h1>
+      <h1 class="display-3">Course: {{ page.course }}</h1>
+      <h1 class="display-3">Unit: {{ page.category }}</h1>
+      <p>&nbsp;</p>
+      <h1 class="display-4">>www.mathforfuture.com{{ site2.url }}{{ page.url }} </h1>
+    </p>
     <p align="right">
-      <h1>{{ page.title }}</h1>
-      <h2>Grade: {{ page.grade }}, Course: {{ page.course }}, Unit: {{ page.category }}</h2>
-      <h2>www.mathforfuture.com{{ site2.url }}{{ page.url }} <h2>>
       {% include report-errors.html %} <br>
       {% if page.sourcetitle != nil %}
         Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
