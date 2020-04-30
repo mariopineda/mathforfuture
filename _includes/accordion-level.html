@@ -27,7 +27,12 @@
             {% if post.course == include.course %}
               {% if post.category == include.unit %}
                 <tr>
-                  <td><a href="{{ post.url }}">{{ post.title }}</td>
+                  <td>
+                    <a href="{{ post.url }}">{{ post.title }}
+                    {% if post.video != "na" %}
+                      <img src="/images/video.png" width="25" title="Video solution avaliable">
+                    {% endif %}  
+                  </td>
                   <td>{{ post.description }}</td>
                 </tr>
               {% endif  %}
