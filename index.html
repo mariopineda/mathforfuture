@@ -26,11 +26,27 @@ title: mathforfuture.com
 
 <div class="container">
   <div class="row">
-    <div class="alert alert-primary" role="alert">
-      Now with video solutions! Look for the <img src="/images/video.png" width="25" title="Video solution avaliable"> icon.
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          Now with video solutions! Look for the <img src="/images/video.png" width="25" title="Video solution avaliable"> icon.
+        </div>
+      </div>
     </div>
-    Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-15' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}
-
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          <h5 class="card-title">Currently there are total of {{ total }} practice problems</h5>
+        </div>
+      </div>
+    </div>
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-15' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -61,7 +77,7 @@ title: mathforfuture.com
                   <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</a></th>
                   <td>
                     {{ post.course }}
-                    {{ include video-icon.html}}
+                    {{ include video-icon.html }}
                   </td>
                 </tr>
                 {% endfor %}
@@ -93,9 +109,7 @@ title: mathforfuture.com
                   <tr>
                     <th scope="row">
                       <a href="{{ post.url }}">{{ post.title }}</a>
-                      {% if post.video != "na" %}
-                        <img src="/images/video.png" width="25" title="Video solution avaliable">
-                      {% endif %}
+                      {{ include video-icon.html }}
                     </th>
                   </tr>
                 {% endif %}
@@ -127,9 +141,7 @@ title: mathforfuture.com
                   {% assign i = i | plus: 1 %}
                   <tr>
                     <th scope="row"><a href="{{ post.url }}">{{ post.title }}</a>
-                      {% if post.video != "na" %}
-                        <img src="/images/video.png">
-                      {% endif %}
+                    {{ include video-icon.html }}
                     </th>
                   </tr>
                 {% endif %}
@@ -163,9 +175,7 @@ title: mathforfuture.com
                   <tr>
                     <th scope="row">
                       <a href="{{ post.url }}">{{ post.title }}</a>
-                      {% if post.video != "na" %}
-                        <img src="/images/video.png" width="25" title="Video solution avaliable">
-                      {% endif %}
+                      {{ include video-icon.html }}
                     </th>
                   </tr>
                 {% endif %}
