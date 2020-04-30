@@ -29,6 +29,8 @@ title: mathforfuture.com
     <div class="alert alert-primary" role="alert">
       Now with video solutions! Look for the <img src="/images/video.png" width="25" title="Video solution avaliable"> icon.
     </div>
+    Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-15' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}
+
   </div>
 </div>
 
