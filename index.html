@@ -43,7 +43,7 @@ title: mathforfuture.com
     <div class="mt-3 col-md-4">
       <div class="card bg-light border-info">
         <div class="card-body">
-          Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-15' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}
+          Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-13' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: -24 | round }}
         </div>
       </div>
     </div>
