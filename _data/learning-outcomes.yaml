@@ -249,3 +249,45 @@
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
   achievementindicator: "2.8 Represent, using a graphic organizer, the relationship among the subsets of the real numbers (natural, whole, integer, rational, irrational)."
+
+- code: 10C-Algebra-and-Numbers-3.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Explain, using patterns, the Negative Exponent Law."
+
+- code: 10C-Algebra-and-Numbers-3.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "3.2 Explain, using patterns, why powers with rational exponents can be expressed in radicals form."
+
+- code: 10C-Algebra-and-Numbers-3.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "3.3 Apply the exponent laws: Product Law, Quotient Law, Power of a Power Law, Power of a Product Law and Power of a Quotient Law to expressions with rational and variable bases and integral and rational exponents, and explain the reasoning."
+
+- code: 10C-Algebra-and-Numbers-3.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "3.4 Express powers with rational exponents as radicals and vice versa."
+
+- code: 10C-Algebra-and-Numbers-3.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "3.5 Solve a problem that involves exponent laws or radicals."
+
+- code: 10C-Algebra-and-Numbers-3.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "3.6 Identify and correct errors in a simplification of an expression that involves powers."
