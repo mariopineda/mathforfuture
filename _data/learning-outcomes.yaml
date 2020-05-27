@@ -147,49 +147,105 @@
 
 - code: 10C-Algebra-and-Numbers-1.1
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.1 Determine the prime factors of a whole number."
 
 - code: 10C-Algebra-and-Numbers-1.2
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.2 Explain why the numbers 0 and 1 have no prime factors."
 
 - code: 10C-Algebra-and-Numbers-1.3
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.3 Determine, using a variety of strategies, the greatest common factor or least common multiple of a set of whole numbers, and explain the process."
 
 - code: 10C-Algebra-and-Numbers-1.4
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.4 Determine, concretely, whether a given whole number is a perfect square, a perfect cube or neither."
 
 - code: 10C-Algebra-and-Numbers-1.5
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.5 Determine, using a variety of strategies, the square root of a perfect square, and explain the process."
 
 - code: 10C-Algebra-and-Numbers-1.6
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.6 Determine, using a variety of strategies, the cube root of a perfect cube, and explain the process."
 
 - code: 10C-Algebra-and-Numbers-1.7
   course: 10C
-  topic: Measurement
+  topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
   achievementindicator: "1.7 Solve problems that involve prime factors, greatest common factors, least common multiples, square roots or cube roots."
+
+- code: 10C-Algebra-and-Numbers-2.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.1 Sort a set of numbers into rational and irrational numbers."
+
+- code: 10C-Algebra-and-Numbers-2.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.2 Determine an approximate value of a given irrational number."
+
+- code: 10C-Algebra-and-Numbers-2.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.3 Approximate the locations of irrational numbers on a number line, using a variety of strategies, and explain the reasoning."
+
+- code: 10C-Algebra-and-Numbers-2.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.4 Order a set of irrational numbers on a number line."
+
+- code: 10C-Algebra-and-Numbers-2.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.5 Express a radical as a mixed radical in simplest form (limited to numerical radicands)."
+
+- code: 10C-Algebra-and-Numbers-2.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.6 Express a mixed radical as an entire radical (limited to numerical radicands)."
+
+- code: 10C-Algebra-and-Numbers-2.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.7 Explain, using examples, the meaning of the index of a radical."
+
+- code: 10C-Algebra-and-Numbers-2.8
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "2.8 Represent, using a graphic organizer, the relationship among the subsets of the real numbers (natural, whole, integer, rational, irrational)."
