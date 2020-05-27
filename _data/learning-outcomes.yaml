@@ -1,69 +1,148 @@
-- code: 10C-Meas-1.1.1
+- code: 10C-Measurement-1.1
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.1 Provide referents for linear measurements, including millimetre, centimetre, metre, kilometre, inch, foot, yard and mile, and explain the choices."
 
-- code: 10C-Meas-1.1.2
+- code: 10C-Measurement-1.2
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.2 Compare SI and imperial units, using referents."
 
-- code: 10C-Meas-1.1.3
+- code: 10C-Measurement-1.3
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.3 Estimate a linear measure, using a referent, and explain the process used."
 
-- code: 10C-Meas-1.1.4
+- code: 10C-Measurement-1.4
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.4 Justify the choice of units used for determining a measurement in a problem-solving context."
 
-- code: 10C-Meas-1.1.5
+- code: 10C-Measurement-1.5
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.5 Solve problems that involve linear measure, using instruments such as rulers, calipers or tape measures"
 
-- code: 10C-Meas-1.1.6
+- code: 10C-Measurement-1.6
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
   achievementindicator: "1.6 Describe and explain a personal strategy used to determine a linear measurement; e.g., circumference of a bottle, length of a curve, perimeter of the base of an irregular 3-D object."
 
-- code: 10C-Meas-1.2.1
+- code: 10C-Measurement-2.1
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
   achievementindicator: "2.1 Explain how proportional reasoning can be used to convert a measurement within or between SI and imperial systems."
 
-- code: 10C-Meas-1.2.2
+- code: 10C-Measurement-2.2
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
   achievementindicator: "2.2 Solve a problem that involves the conversion of units within or between SI and imperial systems."
 
-- code: 10C-Meas-1.2.3
+- code: 10C-Measurement-2.3
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
   achievementindicator: "2.3 Verify, using unit analysis, a conversion within or between SI and imperial systems, and explain the conversion."
 
-- code: 10C-Meas-1.2.4
+- code: 10C-Measurement-2.4
   course: 10C
   topic: Measurement
-  generaloutcome: Develop spatial sense and proportional reasoning.
+  generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
   achievementindicator: "2.4 Justify, using mental mathematics, the reasonableness of a solution to a conversion problem."
+
+- code: 10C-Measurement-3.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.1 Sketch a diagram to represent a problem that involves surface area or volume."
+
+- code: 10C-Measurement-3.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.2 Determine the surface area of a right cone, right cylinder, right prism, right pyramid or sphere, using an object or its labelled diagram."
+
+- code: 10C-Measurement-3.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.3 Determine the volume of a right cone, right cylinder, right prism, right pyramid or sphere, using an object or its labelled diagram."
+
+- code: 10C-Measurement-3.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.4 Determine an unknown dimension of a right cone, right cylinder, right prism, right pyramid or sphere, given the object’s surface area or volume and the remaining dimensions."
+
+- code: 10C-Measurement-3.5
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning.
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.5 Solve a problem that involves surface area or volume, given a diagram of a composite 3-D object."
+
+- code: 10C-Measurement-3.6
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "3.6 Describe the relationship between the volumes of: right cones and right cylinders with the same base and height, right pyramids and right prisms with the same base and height."
+
+- code: 10C-Measurement-4.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "4.1 Explain the relationships between similar right triangles and the definitions of the primary trigonometric ratios."
+
+- code: 10C-Measurement-4.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "4.2 Identify the hypotenuse of a right triangle and the opposite and adjacent sides for a given acute angle in the triangle."
+
+- code: 10C-Measurement-4.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "4.3 Solve right triangles."
+
+- code: 10C-Measurement-4.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "4.4 Solve a problem that involves one or more right triangles by applying the primary trigonometric ratios or the Pythagorean theorem."
+
+- code: 10C-Measurement-4.5
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "4.5 Solve a problem that involves indirect and direct measurement, using the trigonometric ratios, the Pythagorean theorem and measurement instruments such as a clinometer or metre stick."
+
+    
