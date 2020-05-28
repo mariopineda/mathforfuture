@@ -395,4 +395,67 @@
   topic: Algebra and Numbers
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
-  achievementindicator: "5.8 Express a polynomial as a product of its factors."              
+  achievementindicator: "5.8 Express a polynomial as a product of its factors."
+
+- code: 10C-Relations-and-Functions-1.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "1.1 Graph, with or without technology, a set of data, and determine the restrictions on the domain and range."
+
+- code: 10C-Relations-and-Functions-1.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "1.2 Explain why data points should or should not be connected on the graph for a situation."
+
+- code: 10C-Relations-and-Functions-1.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "1.3 Describe a possible situation for a given graph."
+
+- code: 10C-Relations-and-Functions-1.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "1.4 Sketch a possible graph for a given situation."
+
+- code: 10C-Relations-and-Functions-1.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "1.5 Determine, and express in a variety of ways, the domain and range of a graph, a set of ordered pairs or a table of values."
+
+- code: 10C-Relations-and-Functions-2.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "2.1 Explain, using examples, why some relations are not functions but all functions are relations."
+
+- code: 10C-Relations-and-Functions-2.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "2.2 Determine if a set of ordered pairs represents a function."
+
+- code: 10C-Relations-and-Functions-2.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "2.3 Sort a set of graphs as functions or non-functions."
+
+- code: 10C-Relations-and-Functions-2.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "2.4 Generalize and explain rules for determining whether graphs and sets of ordered pairs represent functions."      
