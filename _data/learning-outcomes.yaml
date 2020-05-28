@@ -619,4 +619,46 @@
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
-  achievementindicator: "5.7 Solve a contextual problem that involves intercepts, slope, domain or range of a linear relation."                      
+  achievementindicator: "5.7 Solve a contextual problem that involves intercepts, slope, domain or range of a linear relation."
+
+- code: 10C-Relations-and-Functions-6.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.1 Express a linear relation in different forms, and compare the graphs."
+
+- code: 10C-Relations-and-Functions-6.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.2 Rewrite a linear relation in either slope–intercept or general form."
+
+- code: 10C-Relations-and-Functions-6.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.3 Generalize and explain strategies for graphing a linear relation in slope–intercept, general or slope–point form."
+
+- code: 10C-Relations-and-Functions-6.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.4 Graph, with and without technology, a linear relation given in slope–intercept, general or slope–point form, and explain the strategy used to create the graph."
+
+- code: 10C-Relations-and-Functions-6.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.5 Identify equivalent linear relations from a set of linear relations."
+
+- code: 10C-Relations-and-Functions-6.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  achievementindicator: "6.6 Match a set of linear relations to their graphs."        
