@@ -570,4 +570,53 @@
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
-  achievementindicator: "4.7 Match corresponding representations of linear relations."        
+  achievementindicator: "4.7 Match corresponding representations of linear relations."
+
+- code: 10C-Relations-and-Functions-5.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.1 Determine the intercepts of the graph of a linear relation, and state the intercepts as values or ordered pairs."
+
+- code: 10C-Relations-and-Functions-5.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.2 Determine the slope of the graph of a linear relation."
+
+- code: 10C-Relations-and-Functions-5.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.3 Determine the domain and range of the graph of a linear relation."
+
+- code: 10C-Relations-and-Functions-5.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.4 Sketch a linear relation that has one intercept, two intercepts or an infinite number of intercepts."
+
+- code: 10C-Relations-and-Functions-5.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.5 Identify the graph that corresponds to a given slope and y-intercept."
+
+- code: 10C-Relations-and-Functions-5.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.6 Identify the slope and y-intercept that correspond to a given graph."
+
+- code: 10C-Relations-and-Functions-5.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "5.7 Solve a contextual problem that involves intercepts, slope, domain or range of a linear relation."                      
