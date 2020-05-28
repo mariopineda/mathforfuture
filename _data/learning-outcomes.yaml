@@ -738,4 +738,60 @@
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "8. Represent a linear function, using function notation."
-  achievementindicator: "8.5 Sketch the graph of a linear function expressed in function notation."          
+  achievementindicator: "8.5 Sketch the graph of a linear function expressed in function notation."
+
+- code: 10C-Relations-and-Functions-9.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.1 Model a situation, using a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.2 Relate a system of linear equations to the context of a problem."
+
+- code: 10C-Relations-and-Functions-9.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.3 Determine and verify the solution of a system of linear equations graphically, with and without technology."
+
+- code: 10C-Relations-and-Functions-9.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.4 Explain the meaning of the point of intersection of a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.5 Determine and verify the solution of a system of linear equations algebraically."
+
+- code: 10C-Relations-and-Functions-9.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.6 Explain, using examples, why a system of equations may have no solution, one solution or an infinite number of solutions."
+
+- code: 10C-Relations-and-Functions-9.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.7 Explain a strategy to solve a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.8
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "9.8 Solve a problem that involves a system of linear equations."
