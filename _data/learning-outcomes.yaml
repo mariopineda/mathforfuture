@@ -458,4 +458,67 @@
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "2. Demonstrate an understanding of relations and functions."
-  achievementindicator: "2.4 Generalize and explain rules for determining whether graphs and sets of ordered pairs represent functions."      
+  achievementindicator: "2.4 Generalize and explain rules for determining whether graphs and sets of ordered pairs represent functions."
+
+- code: 10C-Relations-and-Functions-3.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.1 Determine the slope of a line segment by measuring or calculating the rise and run."
+
+- code: 10C-Relations-and-Functions-3.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.2 Classify lines in a given set as having positive or negative slopes."
+
+- code: 10C-Relations-and-Functions-3.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.3 Explain the meaning of the slope of a horizontal or vertical line."
+
+- code: 10C-Relations-and-Functions-3.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.4 Explain why the slope of a line can be determined by using any two points on that line."
+
+- code: 10C-Relations-and-Functions-3.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.5 Explain, using examples, slope as a rate of change."
+
+- code: 10C-Relations-and-Functions-3.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.6 Draw a line, given its slope and a point on the line."
+
+- code: 10C-Relations-and-Functions-3.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.7 Determine another point on a line, given the slope and a point on the line."
+
+- code: 10C-Relations-and-Functions-3.8
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.8 Generalize and apply a rule for determining whether two lines are parallel or perpendicular."
+
+- code: 10C-Relations-and-Functions-3.9
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "3.9 Solve a contextual problem involving slope."                        
