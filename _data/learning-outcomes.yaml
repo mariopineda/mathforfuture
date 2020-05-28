@@ -291,3 +291,108 @@
   generaloutcome: "Develop algebraic reasoning and number sense."
   specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
   achievementindicator: "3.6 Identify and correct errors in a simplification of an expression that involves powers."
+
+- code: 10C-Algebra-and-Numbers-4.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.1 Model the multiplication of two given binomials, concretely or pictorially, and record the process symbolically."
+
+- code: 10C-Algebra-and-Numbers-4.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.2 Relate the multiplication of two binomial expressions to an area model."
+
+- code: 10C-Algebra-and-Numbers-4.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.3 Explain, using examples, the relationship between the multiplication of binomials and the multiplication of two-digit numbers."
+
+- code: 10C-Algebra-and-Numbers-4.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.4 Verify a polynomial product by substituting numbers for the variables."
+
+- code: 10C-Algebra-and-Numbers-4.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.5 Multiply two polynomials symbolically, and combine like terms in the product."
+
+- code: 10C-Algebra-and-Numbers-4.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.6 Generalize and explain a strategy for multiplication of polynomials."
+
+- code: 10C-Algebra-and-Numbers-4.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "4.7 Identify and explain errors in a solution for a polynomial multiplication."
+
+- code: 10C-Algebra-and-Numbers-5.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.1 Determine the common factors in the terms of a polynomial, and express the polynomial in factored form."
+
+- code: 10C-Algebra-and-Numbers-5.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.2 Model the factoring of a trinomial, concretely or pictorially, and record the process symbolically."
+
+- code: 10C-Algebra-and-Numbers-5.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.3 Factor a polynomial that is a difference of squares, and explain why it is a special case of trinomial factoring where b = 0."
+
+- code: 10C-Algebra-and-Numbers-5.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.4 Identify and explain errors in a polynomial factorization."
+
+- code: 10C-Algebra-and-Numbers-5.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.5 Factor a polynomial, and verify by multiplying the factors."
+
+- code: 10C-Algebra-and-Numbers-5.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.6 Explain, using examples, the relationship between multiplication and factoring of polynomials."
+
+- code: 10C-Algebra-and-Numbers-5.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.7 Generalize and explain strategies used to factor a trinomial."
+
+- code: 10C-Algebra-and-Numbers-5.8
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "5.8 Express a polynomial as a product of its factors."              
