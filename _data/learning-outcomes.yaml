@@ -521,4 +521,53 @@
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
-  achievementindicator: "3.9 Solve a contextual problem involving slope."                        
+  achievementindicator: "3.9 Solve a contextual problem involving slope."
+
+- code: 10C-Relations-and-Functions-4.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.1 Identify independent and dependent variables in a given context."
+
+- code: 10C-Relations-and-Functions-4.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.2 Determine whether a situation represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.3 Determine whether a graph represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.4 Determine whether a table of values or a set of ordered pairs represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.5 Draw a graph from a set of ordered pairs within a given situation, and determine whether the relationship between the variables is linear."
+
+- code: 10C-Relations-and-Functions-4.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.6 Determine whether an equation represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "4.7 Match corresponding representations of linear relations."        
