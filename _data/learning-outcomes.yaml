@@ -704,3 +704,38 @@
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
   specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
   achievementindicator: "7.6 Solve a problem, using the equation of a linear relation."
+
+- code: 10C-Relations-and-Functions-8.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "8.1 Express the equation of a linear function in two variables, using function notation."
+
+- code: 10C-Relations-and-Functions-8.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "8.2 Express an equation given in function notation as a linear function in two variables."
+
+- code: 10C-Relations-and-Functions-8.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "8.3 Determine the related range value, given a domain value for a linear function; e.g., if f (x) = 3x – 2, determine f (–1)."
+
+- code: 10C-Relations-and-Functions-8.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "8.4 Determine the related domain value, given a range value for a linear function; e.g., if g(t) = 7 + t, determine t so that g(t) = 15."
+
+- code: 10C-Relations-and-Functions-8.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "8.5 Sketch the graph of a linear function expressed in function notation."          
