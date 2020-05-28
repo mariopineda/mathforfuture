@@ -625,40 +625,82 @@
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
   achievementindicator: "6.1 Express a linear relation in different forms, and compare the graphs."
 
 - code: 10C-Relations-and-Functions-6.2
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
   achievementindicator: "6.2 Rewrite a linear relation in either slope–intercept or general form."
 
 - code: 10C-Relations-and-Functions-6.3
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
   achievementindicator: "6.3 Generalize and explain strategies for graphing a linear relation in slope–intercept, general or slope–point form."
 
 - code: 10C-Relations-and-Functions-6.4
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
   achievementindicator: "6.4 Graph, with and without technology, a linear relation given in slope–intercept, general or slope–point form, and explain the strategy used to create the graph."
 
 - code: 10C-Relations-and-Functions-6.5
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
   achievementindicator: "6.5 Identify equivalent linear relations from a set of linear relations."
 
 - code: 10C-Relations-and-Functions-6.6
   course: 10C
   topic: Relations and Functions
   generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
-  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))"
-  achievementindicator: "6.6 Match a set of linear relations to their graphs."        
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "6.6 Match a set of linear relations to their graphs."
+
+- code: 10C-Relations-and-Functions-7.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.1 Determine the slope and y-intercept of a given linear relation from its graph, and write the equation in the form y = mx + b."
+
+- code: 10C-Relations-and-Functions-7.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.2 Write the equation of a linear relation, given its slope and the coordinates of a point on the line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.3 Write the equation of a linear relation, given the coordinates of two points on the line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.4 Write the equation of a linear relation, given the coordinates of a point on the line and the equation of a parallel or perpendicular line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.5 Graph linear data generated from a context, and write the equation of the resulting line."
+
+- code: 10C-Relations-and-Functions-7.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "7.6 Solve a problem, using the equation of a linear relation."
