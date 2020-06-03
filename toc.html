@@ -25,7 +25,7 @@ layout: default
         <td>
           {% for i in post.learningoutcomes %}
             {{ i.code }}<br>
-            {% include_relative pos-modal.html content="Sketch the scenario and label with provided information." %}
+            {% include pos-modal.html content="Sketch the scenario and label with provided information." %}
           {% endfor %}
         </td>
         <td>{{ page.date | date: "%Y-%m-%d" }}-{{ post.url }}</td>
