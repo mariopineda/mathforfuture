@@ -12,6 +12,16 @@
         </button>
       </div>
       <div class="modal-body">
+        {% for entry in site.data.learning-outcomes %}
+          {% if entry.code == include.content %}
+            <p>Course: {{ entry.course }}</p>
+            <p>Topic: {{ entry.topic }}</p>
+            <p>General outcome: {{ entry.generaloutcome }}</p>
+            <p>Specific Outcome: {{ entry.specificoutcome }}</p>
+            <p>Achievement Indicator: {{ entry.achievementindicator }}</p>
+          {% endif %}
+        {% endfor %}
+
         {{ include.content }}
       </div>
     </div>
