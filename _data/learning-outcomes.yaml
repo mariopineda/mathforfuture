@@ -900,3 +900,59 @@
   generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
   achievementindicator: "2.5 Solve a contextual problem that involves a scale diagram."
+
+- code: 20-2-Measurement-3.1
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.1 Determine the area of a 2-D shape, given the scale diagram, and justify the reasonableness of the result."
+
+- code: 20-2-Measurement-3.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.2 Determine the surface area and volume of a 3-D object, given the scale diagram, and justify the reasonableness of the result."
+
+- code: 20-2-Measurement-3.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.3 Explain, using examples, the effect of a change in the scale factor on the area of a 2-D shape."
+
+- code: 20-2-Measurement-3.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.4 Explain, using examples, the effect of a change in the scale factor on the surface area of a 3-D object."
+
+- code: 20-2-Measurement-3.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.5 Explain, using examples, the effect of a change in the scale factor on the volume of a 3-D object."
+
+- code: 20-2-Measurement-3.6
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.6 Explain, using examples, the relationships among scale factor, area of a 2-D shape, surface area of a 3-D object and volume of a 3-D object."
+
+- code: 20-2-Measurement-3.7
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.7 Solve a spatial problem that requires the manipulation of formulas."
+
+- code: 20-2-Measurement-3.8
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "3.8 Solve a contextual problem that involves the relationships among scale factors, areas and volumes."            
