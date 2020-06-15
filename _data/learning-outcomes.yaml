@@ -864,4 +864,39 @@
   topic: Measurement
   generaloutcome: "Develop spatial sense and proportional reasoning."
   specificoutcome: "1. Solve problems that involve the application of rates."
-  achievementindicator: "1.10 Solve a contextual problem that involves rates or unit rates."                    
+  achievementindicator: "1.10 Solve a contextual problem that involves rates or unit rates."
+
+- code: 20-2-Measurement-2.1
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "2.1 Explain, using examples, how scale diagrams are used to model a 2-D shape or a 3-D object."
+
+- code: 20-2-Measurement-2.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "2.2 Determine, using proportional reasoning, the scale factor, given one dimension of a 2-D shape or a 3-D object and its representation."
+
+- code: 20-2-Measurement-2.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "2.3 Determine, using proportional reasoning, an unknown dimension of a 2-D shape or a 3-D object, given a scale diagram or a model."
+
+- code: 20-2-Measurement-2.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "2.4 Draw, with or without technology, a scale diagram of a given 2-D shape, according to a specified scale factor (enlargement or reduction)."
+
+- code: 20-2-Measurement-2.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "2.5 Solve a contextual problem that involves a scale diagram."
