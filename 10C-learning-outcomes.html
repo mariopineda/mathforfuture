@@ -61,12 +61,12 @@ layout: default
          <ul>
          {% for achievement_indicator in achievement_indicators %}
            <li>
-             {{ achievement_indicator }}
+             {{ achievement_indicator }} - {{ entry.code }}
 
              <!-- List Practice Problems for the current Achievement Indicator -->
              {% for post in site.posts %}
                {% if post.learningoutcomes.code == entry.code %}
-                 {{ entry.title }} [{{ post.learningoutcomes.code }}]
+                 {{ entry.title }}
                {% endif %}
              {% endfor %}
            </li>
