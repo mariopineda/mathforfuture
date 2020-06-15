@@ -796,9 +796,72 @@
   specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
   achievementindicator: "9.8 Solve a problem that involves a system of linear equations."
 
-- code: 20-2-
+- code: 20-2-Measurement-1.1
   course: 20-2
-  topic:
-  generaloutcome: ""
-  specificoutcome: ""
-  achievementindicator: ""  
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.1 Interpret rates in a given context, such as the arts, commerce, the environment, medicine or recreation."
+
+- code: 20-2-Measurement-1.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.2 Solve a rate problem that requires the isolation of a variable."
+
+- code: 20-2-Measurement-1.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.3 Determine and compare rates and unit rates."
+
+- code: 20-2-Measurement-1.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.4 Make and justify a decision, using rates."
+
+- code: 20-2-Measurement-1.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.5 Represent a given rate pictorially."
+
+- code: 20-2-Measurement-1.6
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.6 Draw a graph to represent a rate."
+
+- code: 20-2-Measurement-1.7
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.7 Explain, using examples, the relationship between the slope of a graph and a rate."
+
+- code: 20-2-Measurement-1.8
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.8 Describe a context for a given rate or unit rate."
+
+- code: 20-2-Measurement-1.9
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.9 Identify and explain factors that influence a rate in a given context."
+
+- code: 20-2-Measurement-1.10
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "1.10 Solve a contextual problem that involves rates or unit rates."                    
