@@ -31,10 +31,14 @@ title: 10C Practice Problems
             {% endfor %}
           </td>
           <td>
+            {% assign tmp = "" %}
             {% for i in post.learningoutcomes %}
               {% for entry in site.data.learning-outcomes %}
                 {% if i.code == entry.code %}
-                  {{ entry.topic }}<br>
+                  {% if tmp != i.code %}
+                    {{ entry.topic }}<br>
+                  {% endif %}
+                  {% assign tmp = i.code %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
