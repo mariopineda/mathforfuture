@@ -18,9 +18,9 @@ title: 10C Practice Problems
             {% endif %}
           </td>
           <td>
-            {% for code in post.learningoutcomes.code %}
-              {{ code }}
-            {% endif %}
+            {% for i in post.learningoutcomes %}
+              {{ i.code }}<br>
+            {% endfor %}
           </td>
         </tr>
       {% endif %}
