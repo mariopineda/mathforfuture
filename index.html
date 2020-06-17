@@ -8,19 +8,17 @@ title: mathforfuture.com
 {% assign totalcount302 = 0 %}
 {% assign total = 0 %}
 {% for post in site.posts %}
-  {% if post.published  %}
-    {% if post.course == "10C" %}
-      {% assign totalcount10C = totalcount10C | plus: 1 %}
-      {% assign total = total | plus: 1 %}
-    {% endif %}
-    {% if post.course == "20-2" %}
-      {% assign totalcount202 = totalcount202 | plus: 1 %}
-      {% assign total = total | plus: 1 %}
-    {% endif %}
-    {% if post.course == "30-2" %}
-      {% assign totalcount302 = totalcount302 | plus: 1 %}
-      {% assign total = total | plus: 1 %}
-    {% endif %}
+  {% if post.course == "10C" %}
+    {% assign totalcount10C = totalcount10C | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endif %}
+  {% if post.course == "20-2" %}
+    {% assign totalcount202 = totalcount202 | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endif %}
+  {% if post.course == "30-2" %}
+    {% assign totalcount302 = totalcount302 | plus: 1 %}
+    {% assign total = total | plus: 1 %}
   {% endif %}
 {% endfor %}
 
