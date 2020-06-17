@@ -22,6 +22,15 @@ title: 10C Practice Problems
               {{ i.code }}<br>
             {% endfor %}
           </td>
+          <td>
+            {% for i in post.learningoutcomes %}
+              {% for entry in site.data.learning-outcomes %}
+                {% if i.code == entry.course %}
+                  {{ entry.topic }}<br>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
