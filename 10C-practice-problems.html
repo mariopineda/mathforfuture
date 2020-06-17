@@ -35,10 +35,10 @@ title: 10C Practice Problems
             {% for i in post.learningoutcomes %}
               {% for entry in site.data.learning-outcomes %}
                 {% if i.code == entry.code %}
-                  {% if tmp != i.code %}
+                  {% if tmp != entry.topic %}
                     {{ entry.topic }}<br>
                   {% endif %}
-                  {% assign tmp = i.code %}
+                  {% assign tmp = entry.topic %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
