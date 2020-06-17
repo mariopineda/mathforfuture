@@ -1,40 +1,246 @@
-<!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="mathforfuture.com">
-  <meta name="author" content="Mario Pineda">
-  <link rel="icon" href="https://mathforfuture.com/favicon.ico">
-  <title>MathForFuture - Math for a Changing World</title>
-  <link href="./index_files/bootstrap.min.css" rel="stylesheet"> <!-- Bootstrap core CSS -->
-  <link href="./index_files/album.css" rel="stylesheet"> <!-- Custom styles for this template -->
-</head>
+---
+layout: default
+title: mathforfuture.com
+---
+<!-- Calculate the total number of posts for currentl course -->
+{% assign totalcount10C = 0 %}
+{% assign totalcount202 = 0 %}
+{% assign totalcount302 = 0 %}
+{% assign total = 0 %}
+{% for post in site.posts %}
+  {% if post.published  %}
+    {% if post.course == "10C" %}
+      {% assign totalcount10C = totalcount10C | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+    {% if post.course == "20-2" %}
+      {% assign totalcount202 = totalcount202 | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+    {% if post.course == "30-2" %}
+      {% assign totalcount302 = totalcount302 | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-<body>
-  <header>
-  </header>
+{% include alert.html %}
 
-  <main role="main">
-    <div class="album py-5 bg-white">
-      <div class="container">
-        <img src="images/trigdog.gif">
-        <h1 align="centre">Under construction!</1>
-        <!-- <div class="alert alert-danger" role="alert">
-          <p>Due to the class cancellations this website has been discontinued. Students in my 2019/20 Semester 2 math classes are asked to contact me by email or call the school for further instructions.</p>
-        </div> -->
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          Now with video solutions! Look for the <img src="/images/video.png" width="25" title="Video solution avaliable"> icon.
+        </div>
       </div>
     </div>
-  </main>
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          Total number of math problems: {{ total }}
+        </div>
+      </div>
+    </div>
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-13' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: -24 | round }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-    <!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="./index_files/jquery-3.3.1.slim.min.js.download" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
-<script src="./index_files/popper.min.js.download"></script>
-<script src="./index_files/bootstrap.min.js.download"></script>
-<script src="./index_files/holder.min.js.download"></script>
-<script src="./index_files/tikzjax.js.download"></script><iframe src="./index_files/portal.html" id="st_gdpr_iframe" title="GDPR Consent Management" style="width: 0px; height: 0px; position: absolute; left: -5000px;"></iframe>
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-8">
+      <div class="card bg-light border-info">
+        <h1 class="card-header">Welcome to Math For Future</h1>
+        <div class="card-body">
+          <p class="card-text">This website is a collection of high school math practice problems aligned with the <a href="https://education.alberta.ca/mathematics-10-12/programs-of-study/">Alberta Education High School Program of Study in Mathematics</a>.</p>
 
-</body>
-</html>
+          <p class="card-text">Due to the recent school closure caused by the COVID-19 pandemic I have made this website avaliable to the general public. My hope is that this resource will be helpful to, in particular, high school students in Alberta as they are finishing their school year from home.</p>
+
+          <p class="card-text">May the math be with you,</p>
+          <p class="card-text">Dr. P.</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <h1 class="card-header">Latest problems</h1>
+        <div class="card-body">
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% for post in site.posts limit:8 %}
+                <tr>
+                  <th scope="row"><a href="{{ post.url }}" >{{ post.title }}</a></th>
+                  <td>
+                    {{ post.course }}
+                    {% if post.video != "na" %}
+                      <img src="/images/video.png" width="25" title="Video solution avaliable">
+                    {% endif %}
+                  </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <h1 class="card-header">Math 10C</h1>
+        <div class="card-body">
+          <h5 class="card-title">Currently {{ totalcount10C }} practice problems</h5>
+          <p class="card-text">This introductory high school math Grade 10 course prepares students for entry into post-secondary programs that require the study of calculus.</p>
+          <p class="card-text">Prerequisites: Grade 9 math</p>
+
+          <h5 class="card-title">Latest Problems</h5>
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% assign i = 0 %}
+              {% for post in site.posts %}
+                {% if post.course == "10C" %}
+                  {% assign i = i | plus: 1 %}
+                  <tr>
+                    <th scope="row">
+                      <a href="{{ post.url }}">{{ post.title }}</a>
+                      {% if post.video != "na" %}
+                        <img src="/images/video.png" width="25" title="Video solution avaliable">
+                      {% endif %}
+                    </th>
+                  </tr>
+                {% endif %}
+                {% if i == 5 %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+
+          <a href="/10C-practice-problems/" class="btn btn-primary">All 10C problems</a>
+        </div>
+      </div>
+    </div>
+    <div class="mt-3 col-md-4">
+      <div class="card bg-light border-info">
+        <h1 class="card-header">Math 20-2</h1>
+        <div class="card-body">
+          <h5 class="card-title">Currently {{ totalcount202 }} practice problems</h5>
+          <p class="card-text">This Grade 11 course prepares students for post-secondary studies in programs that do not require the study of calculus.</p>
+          <p class="card-text">Prerequisites: Math 10C</p>
+
+          <h5 class="card-title">Latest Problems</h5>
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% assign i = 0 %}
+              {% for post in site.posts %}
+                {% if post.course == "20-2" %}
+                  {% assign i = i | plus: 1 %}
+                  <tr>
+                    <th scope="row"><a href="{{ post.url }}">{{ post.title }}</a>
+                    {% if post.video != "na" %}
+                      <img src="/images/video.png" width="25" title="Video solution avaliable">
+                    {% endif %}
+                    </th>
+                  </tr>
+                {% endif %}
+                {% if i == 5 %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+
+          <a href="/20-2-practice-problems/" class="btn btn-primary">All 20-2 problems</a>
+
+        </div>
+      </div>
+    </div>
+    <div class="mt-3  col-md-4">
+      <div class="card bg-light border-info">
+        <h1 class="card-header">Math 30-2</h1>
+        <div class="card-body">
+          <h5 class="card-title">Currently {{ totalcount302 }} practice problems</h5>
+          <p class="card-text">This Grade 12 diploma course prepares students for entry into post-secondary programs that do not require the study of calculus.</p>
+          <p class="card-text">Prerequisites: Math 20-2</p>
+
+          <h5 class="card-title">Latest Problems</h5>
+          <table class="table table-hover table-borderless table-sm">
+            <tbody>
+              {% assign i = 0 %}
+              {% for post in site.posts %}
+                {% if post.course == "30-2" %}
+                  {% assign i = i | plus: 1 %}
+                  <tr>
+                    <th scope="row">
+                      <a href="{{ post.url }}">{{ post.title }}</a>
+                      {% if post.video != "na" %}
+                        <img src="/images/video.png" width="25" title="Video solution avaliable">
+                      {% endif %}
+                    </th>
+                  </tr>
+                {% endif %}
+                {% if i == 5 %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+          <a href="/30-2-practice-problems/" class="btn btn-primary">All 10C problems</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-12">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          <h5 class="card-title">TI Graphing Calculators</h5>
+          <p class="card-text">Texas Instruments are temporarily offering several free resources (including graphing calculator software) to help students and teachers continue teaching and learning remotely.</p>
+           <a href="https://education.ti.com/en/resources/online-learning-program" class="btn btn-primary">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-6">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          <h5 class="card-title">Currently there are total of {{ total }} practice problems</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-3 col-md-6">
+      <div class="card bg-light border-info">
+        <div class="card-body">
+          {% include emailme.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="card border-info mt-3 text-center">
+    <div class="card-body text-info">
+      <h5 class="card-title">Share the love</h5>
+      <div class="sharethis-inline-share-buttons"></div>
+    </div>
+  </div>
+</div>
