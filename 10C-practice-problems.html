@@ -27,6 +27,9 @@ title: 10C Practice Problems
               {% for entry in site.data.learning-outcomes %}
                 {% if i.code == entry.code %}
                   {{ entry.topic }}<br>
+                  {{ entry.generaloutcome }}<br>
+                  {{ entry.specificoutcome }}<br>
+                  {{ entry.achievementindicator }}<br>
                 {% endif %}
               {% endfor %}
             {% endfor %}
