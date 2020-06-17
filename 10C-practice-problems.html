@@ -17,7 +17,11 @@ title: 10C Practice Problems
               <img src="/images/video.png" width="25" title="Video solution avaliable">
             {% endif %}
           </td>
-          <td>...</td>
+          <td>
+            {% for code in post.learningoutcomes.code %}
+              {{ code }}
+            {% endif %}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
