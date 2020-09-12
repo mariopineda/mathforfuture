@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Order of operations
-category: Prereqs
-description: Describe learning outcomes...
-tags: Skill building
-level: easy
-grade: 10
+title: Order of Operations
 course: 10C
+learningoutcomes:
+  - code:
 sourcetitle:
 sourceurl:
 video: na
-published: true
 ---
 <p>Evaluate without a calculator:</p>
 <ol type="A">
@@ -20,21 +16,7 @@ published: true
 <li>$$ (10 \times (6+4)) \div (2^3-7)^2 $$</li>
 </ol>
 
-{% for entry in site.data.donow %}
-  {% if entry.class == page.course %}
-    {% if entry.url != page.url %}
-      <div class="accordion" id="accordionExample">
-        <div class="card">
-          <div class="card-header" id="headingOne">
-            <h5 class="mb-0">
-              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                <h2>Solution</h2>
-              </button>
-            </h5>
-          </div>
-          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-            <div class="card-body">
-
+{% capture solution %}
 Evaluate using BEDMAS order (brackets, exponents, division/multiplication, addition/subtraction).
 <h3>A.</h3>
 $$
@@ -77,19 +59,5 @@ $$
 & = & 100
 \end{array}
 $$
-
-</div>
-</div>
-</div>
-</div>
-{% endif %}
-{% endif %}
-{% endfor %}
-
-
-<!-- Solution template
-{% capture solution %}
-
 {% endcapture %}
 {% include_relative solution.html content=solution %}
--->
