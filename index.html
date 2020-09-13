@@ -49,12 +49,6 @@ title: mathforfuture.com
           Total number of math problems: {{ total }}
         </div>
       </div>
-      <br />
-      <div class="card bg-light border-info">
-        <div class="card-body">
-          Number of days without classes: {% assign myVar="now" | date: "%s" %}{{ '2020-03-13' | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: -24 | round }}
-        </div>
-      </div>
     </div>
   </div>
 </div>
