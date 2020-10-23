@@ -10,7 +10,7 @@ title: Math 20-2 - Review
     <h3>{{ entry.topic }}</h3>
     <ul>
     {% for item in entry.web %}
-      <li>{{ item.url }}</li>
+      <li>{{ entry }} - {{ item.url }}</li>
     {% endfor %}
     </ul>
   {% endif %}
