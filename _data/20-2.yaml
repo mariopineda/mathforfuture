@@ -120,12 +120,26 @@
 - unit: "Radicals"
   topic: "1: Solving Radical Equations"
   web:
-    - url:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
 
 - unit: "Radicals"
   topic: "2: Entire and Mixed Radicals"
   web:
-    - url:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
 
 - unit: "Radicals"
   topic: "3: Multiplying and Dividing Radicals"
