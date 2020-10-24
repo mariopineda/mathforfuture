@@ -9,11 +9,7 @@ title: "Math 20-2: Review"
   {% if entry.unit == "Review" %}
     <h3>{{ entry.topic }}</h3>
     {% for item in entry.web %}
-      {% for post in site.posts %}
-        {% if post.url == item.url %}
-          <a href="{{ entry.url }}" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">{{ post.title }}</a>
-        {% endif %}
-      {% endfor %}
+      test
     {% endif %}
   {% endif %}
 {% endfor %}
