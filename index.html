@@ -45,34 +45,10 @@ title: mathforfuture.com
       <div class="card bg-light border-info">
         <h1 class="card-header">Math 10C</h1>
         <div class="card-body">
-          <h5 class="card-title">Currently {{ totalcount10C }} practice problems</h5>
           <p class="card-text">This introductory high school math Grade 10 course prepares students for entry into post-secondary programs that require the study of calculus.</p>
           <p class="card-text">Prerequisites: Grade 9 math</p>
 
-          <h5 class="card-title">Latest Problems</h5>
-          <table class="table table-hover table-borderless table-sm">
-            <tbody>
-              {% assign i = 0 %}
-              {% for post in site.posts %}
-                {% if post.course == "10C" %}
-                  {% assign i = i | plus: 1 %}
-                  <tr>
-                    <th scope="row">
-                      <a href="{{ post.url }}">{{ post.title }}</a>
-                      {% if post.video != "na" %}
-                        <img src="/images/video.png" width="25" title="Video solution avaliable">
-                      {% endif %}
-                    </th>
-                  </tr>
-                {% endif %}
-                {% if i == 5 %}
-                  {% break %}
-                {% endif %}
-              {% endfor %}
-            </tbody>
-          </table>
-
-          <a href="/10C-practice-problems/" class="btn btn-primary">All 10C problems</a>
+          <a href="/10C/" class="btn btn-primary">Math 10C practice problems</a>
         </div>
       </div>
     </div>
@@ -80,33 +56,10 @@ title: mathforfuture.com
       <div class="card bg-light border-info">
         <h1 class="card-header">Math 20-2</h1>
         <div class="card-body">
-          <h5 class="card-title">Currently {{ totalcount202 }} practice problems</h5>
           <p class="card-text">This Grade 11 course prepares students for post-secondary studies in programs that do not require the study of calculus.</p>
           <p class="card-text">Prerequisites: Math 10C</p>
 
-          <h5 class="card-title">Latest Problems</h5>
-          <table class="table table-hover table-borderless table-sm">
-            <tbody>
-              {% assign i = 0 %}
-              {% for post in site.posts %}
-                {% if post.course == "20-2" %}
-                  {% assign i = i | plus: 1 %}
-                  <tr>
-                    <th scope="row"><a href="{{ post.url }}">{{ post.title }}</a>
-                    {% if post.video != "na" %}
-                      <img src="/images/video.png" width="25" title="Video solution avaliable">
-                    {% endif %}
-                    </th>
-                  </tr>
-                {% endif %}
-                {% if i == 5 %}
-                  {% break %}
-                {% endif %}
-              {% endfor %}
-            </tbody>
-          </table>
-
-          <a href="/20-2-practice-problems/" class="btn btn-primary">All 20-2 problems</a>
+          <a href="/20-2/" class="btn btn-primary">Math 20-2 practice problems</a>
 
         </div>
       </div>
@@ -115,33 +68,10 @@ title: mathforfuture.com
       <div class="card bg-light border-info">
         <h1 class="card-header">Math 30-2</h1>
         <div class="card-body">
-          <h5 class="card-title">Currently {{ totalcount302 }} practice problems</h5>
           <p class="card-text">This Grade 12 diploma course prepares students for entry into post-secondary programs that do not require the study of calculus.</p>
           <p class="card-text">Prerequisites: Math 20-2</p>
 
-          <h5 class="card-title">Latest Problems</h5>
-          <table class="table table-hover table-borderless table-sm">
-            <tbody>
-              {% assign i = 0 %}
-              {% for post in site.posts %}
-                {% if post.course == "30-2" %}
-                  {% assign i = i | plus: 1 %}
-                  <tr>
-                    <th scope="row">
-                      <a href="{{ post.url }}">{{ post.title }}</a>
-                      {% if post.video != "na" %}
-                        <img src="/images/video.png" width="25" title="Video solution avaliable">
-                      {% endif %}
-                    </th>
-                  </tr>
-                {% endif %}
-                {% if i == 5 %}
-                  {% break %}
-                {% endif %}
-              {% endfor %}
-            </tbody>
-          </table>
-          <a href="/30-2-practice-problems/" class="btn btn-primary">All 30-2 problems</a>
+          <a href="/30-2/" class="btn btn-primary">Math 30-2 practice problems</a>
         </div>
       </div>
     </div>
