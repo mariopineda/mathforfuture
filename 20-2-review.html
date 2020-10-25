@@ -10,7 +10,9 @@ title: "Math 20-2: Review"
     <h3>{{ entry.topic }}</h3>
     <ul>
     {% for item in entry.web %}
-      <li>{{ item.url }}</li>
+      {% for post in site.posts %}
+        <li>{{ item.url }}, {{ post }}</li>
+      {% endfor %}
     {% endfor %}
     </ul>
   {% endif %}
