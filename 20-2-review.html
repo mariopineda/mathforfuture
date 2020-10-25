@@ -5,6 +5,10 @@ title: "Math 20-2: Review"
 ---
 <h1>{{ page.title }}</h1>
 
+{% for entry in site.data.20-2 %}
+  {{ entry }}
+{% endfor %}
+
 <p class="text-center"><a href="review" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">0. Review</a></p>
 
 <p class="text-center"><a href="reasoning" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">1. Reasoning</a></p>
