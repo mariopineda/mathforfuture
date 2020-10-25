@@ -3,252 +3,167 @@
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Trigonometry
+  topic: "Sine & Cosine Ratios"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Trigonometry
+  topic: "Solving Right Triangles"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Trigonometry
+  topic: "Solving Problems with Two Right Triangles"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Measurement
+  topic: "Metric Measures"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Measurement
+  topic: "Imperial Measures"
   web:
     - url:
 
-- unit:
-  topic:
+- unit:  Measurement
+  topic: "Converting between SI & Imperial Measures of Length"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Measurement
+  topic: "Surface Area"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Measurement
+  topic: Volume
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Exponents & Radicals"
+  topic: "Integral Exponents"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Exponents & Radicals"
+  topic: "Square Roots & Cube Roots"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Exponents & Radicals"
+  topic: "Entire & Mixed Radicals"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Exponents & Radicals"
+  topic: "Irrational Numbers"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Polynomials
+  topic: "Multiplying Polynomials"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Polynomials
+  topic: "Common Factors"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Polynomials
+  topic: "Factoring Trinomials where a=1"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Polynomials
+  topic: "Factoring Trinomials where a≠1"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: Polynomials
+  topic: "Factoring Special Polynomials"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Relations & Functions"
+  topic: "Representing Relations"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Relations & Functions"
+  topic: "Domain & Range of a Relation"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Relations & Functions"
+  topic: "Properties of Functions"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Relations & Functions"
+  topic: "Function Notation"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Recognizing Linear Relations"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Slope"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Slope-Intercept Form"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Slope-Intercept Form From Given Information"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Slope-Point Form"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "General Form"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Linear Relations & Functions"
+  topic: "Parallel & Perpendicular Lines"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Systems of Linear Equations"
+  topic: "Types of Systems"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Systems of Linear Equations"
+  topic: "Solving a Linear System Graphically"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Systems of Linear Equations"
+  topic: "Solving by Substitution"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Systems of Linear Equations"
+  topic: "Solving by Elimination"
   web:
     - url:
 
-- unit:
-  topic:
+- unit: "Systems of Linear Equations"
+  topic: "Comparing MEthods for Solving Problems"
   web:
     - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:
-
-- unit:
-  topic:
-  web:
-    - url:                  
