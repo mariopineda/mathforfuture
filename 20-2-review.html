@@ -8,15 +8,10 @@ title: "Math 20-2: Review"
 {% for entry in site.data.20-2 %}
   {% if entry.unit == "Review" %}
     <h3>{{ entry.topic }}</h3>
+    <ul>
+    {% for item in entry.web %}
+      <li>{{ item.url }}</li>
+    {% endfor %}
+    </ul>
   {% endif %}
-{% endfor %}
-
-
-
-{% for entry in site.data.20-2 %}
-  <h2>{{ entry.unit }}</h2>
-  <h3>{{ entry.topic }}</h3>
-  {% for item in entry.web %}
-    {{ item.url }}
-  {% endfor %}
 {% endfor %}
