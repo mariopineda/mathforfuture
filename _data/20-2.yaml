@@ -34,39 +34,39 @@
     - url: /solving-equations-8/
 
 - unit: "Reasoning"
-  topic: "1: Inductive Reasoning, Conjectures and Counterexamples"
+  topic: "Inductive Reasoning, Conjectures and Counterexamples"
   web:
     - url: /inductive-reasoning-1/
 
 - unit: "Reasoning"
-  topic: "2: Deductive Reasoning"
+  topic: "Deductive Reasoning"
   web:
     - url: /deductive-reasoning-1/
     - url: /deductive-reasoning-2/
     - url: /number-expressions/
 
 - unit: "Reasoning"
-  topic: "3: Games and Puzzles"
+  topic: "Games and Puzzles"
   web:
     - url:
 
 - unit: "Properties of Angles"
-  topic: "1: Angles formed by Parallel Lines"
+  topic: "Angles formed by Parallel Lines"
   web:
     - url: /angles-and-parallel-lines/
 
 - unit: "Properties of Angles"
-  topic: "2: Angle Properties in Triangles"
+  topic: "Angle Properties in Triangles"
   web:
     - url: /angles-in-triangles/
 
 - unit: "Properties of Angles"
-  topic: "3: Congrueitn Triangles"
+  topic: "Congrueitn Triangles"
   web:
     - url:
 
 - unit: "Trigonometry"
-  topic: "1: Solving Right Triangles"
+  topic: "Solving Right Triangles"
   web:
     - url: /trigonometry-1/
     - url: /trigonometry-8/
@@ -76,49 +76,49 @@
     - url: /solving-oblique-triangles/
 
 - unit: "Trigonometry"
-  topic: "2: The Sine Law"
+  topic: "The Sine Law"
   web:
     - url: /solving-oblique-triangles-using-the-sine-law/
 
 - unit: "Trigonometry"
-  topic: "3: The Cosine Law"
+  topic: "The Cosine Law"
   web:
     - url: /solving-oblique-triangles-using-the-cosine-law/
 
 - unit: "Trigonometry"
-  topic: "4: Solving Problems with Right and Oblique Triangles"
+  topic: "Solving Problems with Right and Oblique Triangles"
   web:
     - url: /solving-pairs-of-triangles/
 
 - unit: "Proportional Reasoning"
-  topic: "1: Slope and Rate of Change"
+  topic: "Slope and Rate of Change"
   web:
     - url: /unit-rate/
     - url: /rate-of-change/
     - url: /rate-of-sea-level-rise/
 
 - unit: "Proportional Reasoning"
-  topic: "2: Scale Diagrams "
+  topic: "Scale Diagrams "
   web:
     - url:
 
 - unit: "Proportional Reasoning"
-  topic: "3: Scale Factors and Area of 2D Shapes"
+  topic: "Scale Factors and Area of 2D Shapes"
   web:
     - url:
 
 - unit: "Proportional Reasoning"
-  topic: "4: Scale Factors and Surface Area of 3D Shapes"
+  topic: "Scale Factors and Surface Area of 3D Shapes"
   web:
     - url:
 
 - unit: "Proportional Reasoning"
-  topic: "5: Scale factors and Volumes of 3D Objects"
+  topic: "Scale factors and Volumes of 3D Objects"
   web:
     - url:
 
 - unit: "Radicals"
-  topic: "1: Solving Radical Equations"
+  topic: "Solving Radical Equations"
   web:
     - url: /solving-equations-1/
     - url: /solving-equations-2/
@@ -130,7 +130,7 @@
     - url: /solving-equations-8/
 
 - unit: "Radicals"
-  topic: "2: Entire and Mixed Radicals"
+  topic: "Entire and Mixed Radicals"
   web:
     - url: /solving-equations-1/
     - url: /solving-equations-2/
@@ -142,86 +142,86 @@
     - url: /solving-equations-8/
 
 - unit: "Radicals"
-  topic: "3: Multiplying and Dividing Radicals"
+  topic: "Multiplying and Dividing Radicals"
   web:
     - url:
 
 - unit: "Radicals"
-  topic: "4: Adding and Subtracting Radicals"
+  topic: "Adding and Subtracting Radicals"
   web:
     - url:
 
 - unit: "Radicals"
-  topic: "5: Radicals with Variable Radicands"
+  topic: "Radicals with Variable Radicands"
   web:
     - url:
 
 - unit: "Quadratic Functions"
-  topic: "1: Domain and Range"
+  topic: "Domain and Range"
   web:
     - url:
 
 - unit: "Quadratic Functions"
-  topic: "2: Standard Form of a Quadratic Function"
+  topic: "Standard Form of a Quadratic Function"
   web:
     - url:
 
 - unit: "Quadratic Functions"
-  topic: "3: Vertex Form of a Quadratic Function"
+  topic: "Vertex Form of a Quadratic Function"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "1: Common Factors"
+  topic: "Common Factors"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "2: Factoring Trinomials in Standard Form, a=1"
+  topic: "Factoring Trinomials in Standard Form, a=1"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "3: Factoring a Difference of Squares"
+  topic: "Factoring a Difference of Squares"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "4: The Quadratic Formula"
+  topic: "The Quadratic Formula"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "5: Solving Quadratic Equations Graphically"
+  topic: "Solving Quadratic Equations Graphically"
   web:
     - url:
 
 - unit: "Quadratic Equations"
-  topic: "6: Applications of Quadratic Equations"
+  topic: "Applications of Quadratic Equations"
   web:
     - url:
 
 - unit: "Statistics"
-  topic: "1: Describing Data"
+  topic: "Describing Data"
   web:
     - url:
 
 - unit: "Statistics"
-  topic: "2: The Normal Distribution"
+  topic: "The Normal Distribution"
   web:
     - url:
 
 - unit: "Statistics"
-  topic: "3: Applications of Normal Distribution"
+  topic: "Applications of Normal Distribution"
   web:
     - url:
 
 - unit: "Statistics"
-  topic: "4: Z-scores"
+  topic: "Z-scores"
   web:
     - url:
 
 - unit: "Statistics"
-  topic: "5: Margin of Error, Confidence Interval and Confidence Level"
+  topic: "Margin of Error, Confidence Interval and Confidence Level"
   web:
     - url:
