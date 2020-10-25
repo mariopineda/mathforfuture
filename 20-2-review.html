@@ -12,7 +12,7 @@ title: "Math 20-2: Review"
     {% for item in entry.web %}
       {% for post in site.posts %}
         {% if post.url == item.url %}
-          <li>{{ item.url }} == {{ post.url }} ({{ post.title }})</li>
+          <li><a href="{{ item.url }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
