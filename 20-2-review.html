@@ -11,7 +11,7 @@ title: "Math 20-2: Review"
     <ul>
     {% for item in entry.web %}
       {% for post in site.posts %}
-        <li>{{ item.url }}, {{ post }}</li>
+        <li>{{ item.url }}, {{ post.url }}</li>
       {% endfor %}
     {% endfor %}
     </ul>
