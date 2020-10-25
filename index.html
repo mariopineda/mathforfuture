@@ -7,3 +7,11 @@ title: mathforfuture.com
 {% for post in site.posts %}
     {% assign total = total | plus: 1 %}
 {% endfor %}
+
+<div class="container">
+  {% include alert.html %}
+  <p class="text-center"><a href="/10C/" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Math 10C</a></p>
+  <p class="text-center"><a href="/20-2/" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Math 20-2</a></p>
+  <p class="text-center"><a href="/30-2/" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Math 30-2</a></p>
+  <p class="text-center"><a href="/31/" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Math 31</a></p>
+</div>
