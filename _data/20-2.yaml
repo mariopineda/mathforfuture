@@ -2,14 +2,17 @@
   topic: "Arithmetics"
   web:
     - url: /integer-arithmetics-1/
+    - url: /integer-arithmetics-2/
+    - url: /integer-arithmetics-3/
     - url: /fractions-1/
     - url: /fractions-2/
+    - url: /fractions-3/
     - url: /fraction-arithmetics-1/
     - url: /fraction-arithmetics-2/
     - url: /fraction-arithmetics-3/
     - url: /fraction-arithmetics-4/
     - url: /evaluate-rationals-expressions/
-    - url: /fractions-3/
+    - url: /order-of-operations/
 
 - unit: Review
   topic: "Polynomials"
@@ -37,6 +40,7 @@
   topic: "Inductive Reasoning, Conjectures and Counterexamples"
   web:
     - url: /inductive-reasoning-1/
+    - url: /inductive-reasoning-2/
 
 - unit: "Reasoning"
   topic: "Deductive Reasoning"
