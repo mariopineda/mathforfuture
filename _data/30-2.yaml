@@ -6,10 +6,10 @@
 - unit: "Polynomial Functions"
   topic: "Characteristics of Polynomial Functions"
   web:
-    - url: polynomial-functions-1
-    - url: polynomial-functions-2
-    - url: polynomial-functions-3
-    - url: polynomial-functions-4
+    - url: /polynomial-functions-1/
+    - url: /polynomial-functions-2/
+    - url: /polynomial-functions-3/
+    - url: /polynomial-functions-4/
 
 - unit: "Polynomial Functions"
   topic: "Equations of Polynomial Functions"
