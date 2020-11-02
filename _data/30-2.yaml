@@ -1,0 +1,244 @@
+- unit: Precalculus
+  topic: "Simplifying and Factoring Polynomials"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Factoring with Powers"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Simplifying Rational and Radical Expressions"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Solving Equations"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Inequalities"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Coordinate Geometry"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Sketching Functions using Transformations"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Domain and Range"
+  web:
+    - url:
+
+- unit: Precalculus
+  topic: "Properties of Functions"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "Linear Functions and Tangents"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "Limits"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "One-Sided Limits and Continuity"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "Using Limits to Find Tangents"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "Infinite Sequences"
+  web:
+    - url:
+
+- unit: Limits
+  topic: "Infinite Geometric Series"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "Derivatives"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "basic Derivatives"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "The Product and Quotient Rules"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "The Chain Rule"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "Implicit Differentiation"
+  web:
+    - url:
+
+- unit: Derivatives
+  topic: "Higher Derivatives"
+  web:
+    - url:
+
+- unit: "Applications of Derivatives"
+  topic: "Rates of Change and Derivatives"
+  web:
+    - url:
+
+- unit: "Applications of Derivatives"
+  topic: "Velocity"
+  web:
+    - url:
+
+- unit: "Applications of Derivatives"
+  topic: "Acceleration"
+  web:
+    - url:
+
+- unit: "Applications of Derivatives"
+  topic: "Related Rates"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "First Derivative Test"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "Maximum and Minimum Values"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "Sketching Polynomial Functions"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "max / Min Problems"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "Vertical and Horizontal Asymptotes"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "Concavity and Points of Inflection"
+  web:
+    - url:
+
+- unit: "Extreme Values & Sketching"
+  topic: "A Curve Sketching Procedure"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Trigonometric Basics"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Sum / Difference and Double-Angle Identities"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Solve Trigonometric Equations"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Limits of Trig Functions"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Derivatives of Sine and Cosine"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Derivatives of the Trig Functions"
+  web:
+    - url:
+
+- unit: Trigonometry
+  topic: "Applications of Trig Derivatives"
+  web:
+    - url:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Limits and Derivatives of Exponential Functions"
+  web:
+    - url:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Logarithmic Functions"
+  web:
+    - url:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Natural Logarithms"
+  web:
+    - url:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Derivatives of Exponential and Logarithmic Functions"
+  web:
+    - url:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "applications of Exponential / Log Derivatives"
+  web:
+    - url:
+
+- unit: Integration
+  topic: "Antiderivatives"
+  web:
+    - url:
+
+- unit: Integration
+  topic: "Differential Equations with Initial Conditions"
+  web:
+    - url:
+
+- unit: Integration
+  topic: "Area Under a Curve and Area Between Curves"
+  web:
+    - url:
+
+- unit: Integration
+  topic: "The Fundamental Theorem of Calculus (Integration)"
+  web:
+    - url:
+
+- unit: Integration
+  topic: "The Substitution Rule"
+  web:
+    - url:
