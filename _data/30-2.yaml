@@ -1,244 +1,182 @@
-- unit: Precalculus
-  topic: "Simplifying and Factoring Polynomials"
+- unit: "Polynomial Functions"
+  topic: "Solving Problems Involving Polynomial Functions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Factoring with Powers"
+- unit: "Polynomial Functions"
+  topic: "Characteristics of Polynomial Functions"
+  web:
+    - url: polynomial-functions-1
+    - url: polynomial-functions-2
+    - url: polynomial-functions-3
+    - url: polynomial-functions-4
+
+- unit: "Polynomial Functions"
+  topic: "Equations of Polynomial Functions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Simplifying Rational and Radical Expressions"
+- unit: "Exponential Functions"
+  topic: "Graphs and Equations of Exponential Functions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Solving Equations"
+- unit: "Exponential Functions"
+  topic: "Applications of Exponential Functions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Inequalities"
+- unit: "Exponential Functions"
+  topic: "Solving Exponential Functions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Coordinate Geometry"
+- unit: "Exponential Functions"
+  topic: "Exponential Equations and Regression"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Sketching Functions using Transformations"
+- unit: "Rational Expressions & Equations"
+  topic: "Exponents & Factoring"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Domain and Range"
+- unit: "Rational Expressions & Equations"
+  topic: "Simplifying Rational Expressions"
   web:
     - url:
 
-- unit: Precalculus
-  topic: "Properties of Functions"
+- unit: "Rational Expressions & Equations"
+  topic: "Multiplying & Dividing Rational Expressions"
   web:
     - url:
 
-- unit: Limits
-  topic: "Linear Functions and Tangents"
+- unit: "Rational Expressions & Equations"
+  topic: "Adding & Subtracting Rational Expressions"
   web:
     - url:
 
-- unit: Limits
-  topic: "Limits"
+- unit: "Rational Expressions & Equations"
+  topic: "Solving Rational Expressions"
   web:
     - url:
 
-- unit: Limits
-  topic: "One-Sided Limits and Continuity"
+- unit: "Set Theory"
+  topic: "Logical Reasoning"
   web:
     - url:
 
-- unit: Limits
-  topic: "Using Limits to Find Tangents"
+- unit: "Set Theory"
+  topic: "Sets & Set Notation"
   web:
     - url:
 
-- unit: Limits
-  topic: "Infinite Sequences"
+- unit: "Set Theory"
+  topic: "Intersection & Union"
   web:
     - url:
 
-- unit: Limits
-  topic: "Infinite Geometric Series"
+- unit: "Set Theory"
+  topic: "Applications of Set Theory"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "Derivatives"
+- unit: "Logarithmic Functions"
+  topic: "Evaluating Logarithmic Equations"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "basic Derivatives"
+- unit: "Logarithmic Functions"
+  topic: "Laws of Logarithms"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "The Product and Quotient Rules"
+- unit: "Logarithmic Functions"
+  topic: "Solving Exponential Equations Using Logarithms"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "The Chain Rule"
+- unit: "Logarithmic Functions"
+  topic: "Graphs and Equations of Logarithmic Functions"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "Implicit Differentiation"
+- unit: "Logarithmic Functions"
+  topic: "Logarithmic Regression"
   web:
     - url:
 
-- unit: Derivatives
-  topic: "Higher Derivatives"
+- unit: "Counting Methods"
+  topic: "Introduction to the Fundamental Counting Principle"
   web:
     - url:
 
-- unit: "Applications of Derivatives"
-  topic: "Rates of Change and Derivatives"
+- unit: "Counting Methods"
+  topic: "Applications of FCP and Factorial Notation"
   web:
     - url:
 
-- unit: "Applications of Derivatives"
-  topic: "Velocity"
+- unit: "Counting Methods"
+  topic: "Permutation Formula"
   web:
     - url:
 
-- unit: "Applications of Derivatives"
-  topic: "Acceleration"
+- unit: "Counting Methods"
+  topic: "Permutations with Restrictions"
   web:
     - url:
 
-- unit: "Applications of Derivatives"
-  topic: "Related Rates"
+- unit: "Counting Methods"
+  topic: "Permutations with Identical Objects"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "First Derivative Test"
+- unit: "Counting Methods"
+  topic: "Combinations"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "Maximum and Minimum Values"
+- unit: "Counting Methods"
+  topic: "Strategies for Solving Counting Problems"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "Sketching Polynomial Functions"
+- unit: "Probability"
+  topic: "Probability and Sample Space"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "max / Min Problems"
+- unit: "Probability"
+  topic: "Probability and Odds"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "Vertical and Horizontal Asymptotes"
+- unit: "Probability"
+  topic: "Mutually Exclusive Events"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "Concavity and Points of Inflection"
+- unit: "Probability"
+  topic: "Independent and Dependent Events"
   web:
     - url:
 
-- unit: "Extreme Values & Sketching"
-  topic: "A Curve Sketching Procedure"
+- unit: "Probability"
+  topic: "Probability using Counting Methods"
   web:
     - url:
 
-- unit: Trigonometry
-  topic: "Trigonometric Basics"
+- unit: "Sinusoidal Functions"
+  topic: "Exploring Graphs of Sinusoidal Functions"
   web:
     - url:
 
-- unit: Trigonometry
-  topic: "Sum / Difference and Double-Angle Identities"
+- unit: "Sinusoidal Functions"
+  topic: "The Equations of Sinusoidal Functions"
   web:
     - url:
 
-- unit: Trigonometry
-  topic: "Solve Trigonometric Equations"
-  web:
-    - url:
-
-- unit: Trigonometry
-  topic: "Limits of Trig Functions"
-  web:
-    - url:
-
-- unit: Trigonometry
-  topic: "Derivatives of Sine and Cosine"
-  web:
-    - url:
-
-- unit: Trigonometry
-  topic: "Derivatives of the Trig Functions"
-  web:
-    - url:
-
-- unit: Trigonometry
-  topic: "Applications of Trig Derivatives"
-  web:
-    - url:
-
-- unit: "Exponential & Logarithmic Functions"
-  topic: "Limits and Derivatives of Exponential Functions"
-  web:
-    - url:
-
-- unit: "Exponential & Logarithmic Functions"
-  topic: "Logarithmic Functions"
-  web:
-    - url:
-
-- unit: "Exponential & Logarithmic Functions"
-  topic: "Natural Logarithms"
-  web:
-    - url:
-
-- unit: "Exponential & Logarithmic Functions"
-  topic: "Derivatives of Exponential and Logarithmic Functions"
-  web:
-    - url:
-
-- unit: "Exponential & Logarithmic Functions"
-  topic: "applications of Exponential / Log Derivatives"
-  web:
-    - url:
-
-- unit: Integration
-  topic: "Antiderivatives"
-  web:
-    - url:
-
-- unit: Integration
-  topic: "Differential Equations with Initial Conditions"
-  web:
-    - url:
-
-- unit: Integration
-  topic: "Area Under a Curve and Area Between Curves"
-  web:
-    - url:
-
-- unit: Integration
-  topic: "The Fundamental Theorem of Calculus (Integration)"
-  web:
-    - url:
-
-- unit: Integration
-  topic: "The Substitution Rule"
+- unit: "Sinusoidal Functions"
+  topic: "Sinusoidal Regression"
   web:
     - url:
