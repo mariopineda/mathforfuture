@@ -63,9 +63,10 @@
   topic: "Angle Properties in Triangles"
   web:
     - url: /angles-in-triangles/
+    - url: /angles-in-polygons/
 
 - unit: "Properties of Angles"
-  topic: "Congrueitn Triangles"
+  topic: "Congruent Triangles"
   web:
     - url:
 
