@@ -174,7 +174,7 @@
 - unit: "Sinusoidal Functions"
   topic: "Exploring Graphs of Sinusoidal Functions"
   web:
-    - url:
+    - url: "/amplitude-and-period-1"
 
 - unit: "Sinusoidal Functions"
   topic: "The Equations of Sinusoidal Functions"
