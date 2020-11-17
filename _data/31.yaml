@@ -1,7 +1,7 @@
 - unit: Precalculus
   topic: "Simplifying and Factoring Polynomials"
   web:
-    - url:
+    - url: /multistep-factoring-1/
 
 - unit: Precalculus
   topic: "Factoring with Powers"
