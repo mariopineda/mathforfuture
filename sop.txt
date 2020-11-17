@@ -1,4 +1,4 @@
-1. Prep MFF positive
+1. Prep MFF post
 2. Link post to course sequence(s)
 3. Script - lay out solution
 4. Set up post in PDF annotator (w/out title in screen view)
