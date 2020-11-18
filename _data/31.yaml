@@ -16,12 +16,7 @@
 - unit: Precalculus
   topic: "Solving Equations"
   web:
-    - url: /solving-equations-1/
-    - url: /solving-equations-2/
-    - url: /solving-equations-3/
-    - url: /solving-equations-4/
-    - url: /solving-equations-5/
-    - url: /solving-equations-6/
+    - url:
 
 - unit: Precalculus
   topic: "Inequalities"
