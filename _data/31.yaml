@@ -16,7 +16,7 @@
 - unit: Precalculus
   topic: "Solving Equations"
   web:
-    - url:
+    - url: /solving-mixed-equations-1/
 
 - unit: Precalculus
   topic: "Inequalities"
