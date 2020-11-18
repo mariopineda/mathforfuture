@@ -26,7 +26,10 @@
 - unit: Precalculus
   topic: "Inequalities"
   web:
-    - url:
+    - url: /inequalities-1/
+    - url: /inequalities-1/
+    - url: /inequalities-1/
+    - url: /inequalities-1/
 
 - unit: Precalculus
   topic: "Coordinate Geometry"
