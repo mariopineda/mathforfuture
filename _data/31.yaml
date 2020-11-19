@@ -27,9 +27,9 @@
   topic: "Inequalities"
   web:
     - url: /inequalities-1/
-    - url: /inequalities-1/
-    - url: /inequalities-1/
-    - url: /inequalities-1/
+    - url: /inequalities-2/
+    - url: /inequalities-3/
+    - url: /inequalities-4/
 
 - unit: Precalculus
   topic: "Coordinate Geometry"
