@@ -44,7 +44,9 @@
 - unit: "Rational Expressions & Equations"
   topic: "Simplifying Rational Expressions"
   web:
-    - url:
+    - url: /simplifying-rational-expressions-1/
+    - url: /simplifying-rational-expressions-2/
+    - url: /simplifying-rational-expressions-3/        
 
 - unit: "Rational Expressions & Equations"
   topic: "Multiplying & Dividing Rational Expressions"
