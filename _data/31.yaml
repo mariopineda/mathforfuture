@@ -37,7 +37,11 @@
 - unit: Precalculus
   topic: "Coordinate Geometry"
   web:
-    - url:
+    - url: /coordinate-geometry-1/
+    - url: /coordinate-geometry-2/
+    - url: /coordinate-geometry-3/
+    - url: /coordinate-geometry-4/
+    - url: /coordinate-geometry-5/
 
 - unit: Precalculus
   topic: "Sketching Functions using Transformations"
