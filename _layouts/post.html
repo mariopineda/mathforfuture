@@ -1,27 +1,6 @@
 ---
 layout: default-post
 ---
-<!-- Info accordion -->
-<p align="right"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseMeta" role="button" aria-expanded="false" aria-controls="collapseMeta">Info</a></p>
-<div class="collapse" id="collapseMeta">
-  <div class="card card-body bg-transparent border-0">
-    <p align="left">
-      <h1 class="display-1">{{ page.title }}</h1>
-      <img src="/logo/warmingstripes.png" width=100%>
-      <h1 class="display-4">Unit: {{ page.category }}</h1>
-      <h1 class="display-4">Grade: {{ page.grade }}</h1>
-      <h1 class="display-4">Course: {{ page.course }}</h1>
-      <p>&nbsp;</p>
-      <h1 class="display-4">mathforfuture.com{{ site2.url }}{{ page.url }} </h1>
-    </p>
-    <p align="right">
-      {% if page.sourcetitle != nil %}
-        Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
-      {% endif %}
-    </p>
-  </div>
-</div>
-
 $$\require{newcommand}$$
 $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 
@@ -32,7 +11,11 @@ $$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 <!-- Footer -->
 <footer class="text-muted">
   <p align="right">
-    {% include report-errors.html %} <br> 
+    mathforfuture.com{{ site2.url }}{{ page.url }}<br>
+    {% if page.sourcetitle != nil %}
+      Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
+    {% endif %}
+    {% include report-errors.html %} <br>
   </p>
 </footer>
 <!-- END Footer -->
