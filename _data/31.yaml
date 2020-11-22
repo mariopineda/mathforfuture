@@ -78,6 +78,7 @@
   web:
     - url: /properties-of-functions-1/
     - url: /properties-of-functions-2/
+    - url: /properties-of-functions-3/
 
 - unit: Limits
   topic: "Linear Functions and Tangents"
