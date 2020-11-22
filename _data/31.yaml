@@ -46,6 +46,7 @@
 - unit: Precalculus
   topic: "Sketching Functions using Transformations"
   web:
+    - url: /completing-the-square-1/
     - url: /sketching-functions-using-transformations-1/
     - url: /sketching-functions-using-transformations-2/
     - url: /sketching-functions-using-transformations-3/
