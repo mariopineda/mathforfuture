@@ -76,7 +76,8 @@
 - unit: Precalculus
   topic: "Properties of Functions"
   web:
-    - url:
+    - url: /properties-of-functions-1/
+    - url: /properties-of-functions-2/
 
 - unit: Limits
   topic: "Linear Functions and Tangents"
