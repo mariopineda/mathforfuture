@@ -58,6 +58,15 @@
   web:
     - url: /domain-and-range-1/
     - url: /domain-and-range-2/
+    - url: /domain-and-range-3/
+    - url: /domain-and-range-4/
+    - url: /domain-and-range-5/
+    - url: /domain-and-range-6/
+    - url: /domain-and-range-7/
+    - url: /domain-and-range-8/
+    - url: /domain-and-range-9/
+    - url: /determine-domain-and-range-algebraically-1/
+    - url: /determine-domain-and-range-algebraically-2/
 
 - unit: Precalculus
   topic: "Properties of Functions"
