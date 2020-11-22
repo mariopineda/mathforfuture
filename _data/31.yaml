@@ -52,7 +52,7 @@
 - unit: Precalculus
   topic: "Domain and Range"
   web:
-    - url:
+    - url: /domain-and-range-1/
 
 - unit: Precalculus
   topic: "Properties of Functions"
