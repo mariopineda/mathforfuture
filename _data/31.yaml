@@ -48,6 +48,10 @@
   web:
     - url: /sketching-functions-using-transformations-1/
     - url: /sketching-functions-using-transformations-2/
+    - url: /sketching-functions-using-transformations-3/
+    - url: /sketching-functions-using-transformations-4/
+    - url: /sketching-functions-using-transformations-5/
+    - url: /sketching-functions-using-transformations-6/
 
 - unit: Precalculus
   topic: "Domain and Range"
