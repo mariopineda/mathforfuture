@@ -46,7 +46,8 @@
 - unit: Precalculus
   topic: "Sketching Functions using Transformations"
   web:
-    - url:
+    - url: /sketching-functions-using-transformations-1/
+    - url: /sketching-functions-using-transformations-2/
 
 - unit: Precalculus
   topic: "Domain and Range"
