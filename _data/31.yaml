@@ -107,7 +107,7 @@
 - unit: Limits
   topic: "Limits"
   web:
-    - url: /limit-1/
+    - url: /limits-1/
 
 - unit: Limits
   topic: "One-Sided Limits and Continuity"
