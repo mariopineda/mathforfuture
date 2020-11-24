@@ -94,7 +94,15 @@
 - unit: Limits
   topic: "Linear Functions and Tangents"
   web:
-    - url:
+    - url: /linear-functions-and-tangents-1/
+    - url: /linear-functions-and-tangents-2/
+    - url: /linear-functions-and-tangents-3/
+    - url: /linear-functions-and-tangents-4/
+    - url: /linear-functions-and-tangents-5/
+    - url: /linear-functions-and-tangents-6/
+    - url: /linear-functions-and-tangents-7/
+    - url: /linear-functions-and-tangents-8/
+    - url: /linear-functions-and-tangents-9/
 
 - unit: Limits
   topic: "Limits"
