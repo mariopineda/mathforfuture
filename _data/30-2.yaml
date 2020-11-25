@@ -29,7 +29,7 @@
 - unit: "Exponential Functions"
   topic: "Solving Exponential Functions"
   web:
-    - url:
+    - url: /solving-exponential-functions-1/
 
 - unit: "Exponential Functions"
   topic: "Exponential Equations and Regression"
