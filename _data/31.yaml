@@ -120,7 +120,7 @@
 - unit: Limits
   topic: "One-Sided Limits and Continuity"
   web:
-    - url: /one-sided-limits-and-continuity-1.html/
+    - url: /one-sided-limits-and-continuity-1/
 
 - unit: Limits
   topic: "Using Limits to Find Tangents"
