@@ -127,7 +127,8 @@
 - unit: Limits
   topic: "Using Limits to Find Tangents"
   web:
-    - url:
+    - url: /using-limits-to-find-tangents-1/
+    - url: /using-limits-to-find-tangents-2/
 
 - unit: Limits
   topic: "Infinite Sequences"
