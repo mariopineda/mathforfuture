@@ -110,6 +110,9 @@
     - url: /limits-1/
     - url: /limits-2/
     - url: /limits-3/
+    - url: /limits-4/
+    - url: /limits-5/
+    - url: /limits-6/
 
 - unit: Limits
   topic: "One-Sided Limits and Continuity"
