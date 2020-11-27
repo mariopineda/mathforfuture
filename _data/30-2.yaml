@@ -90,7 +90,7 @@
 - unit: "Logarithmic Functions"
   topic: "Evaluating Logarithmic Equations"
   web:
-    - url:
+    - url: /evaluating-logarithmic-equations-1/
 
 - unit: "Logarithmic Functions"
   topic: "Laws of Logarithms"
