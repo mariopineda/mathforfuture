@@ -95,7 +95,7 @@
 - unit: "Logarithmic Functions"
   topic: "Laws of Logarithms"
   web:
-    - url:
+    - url: /laws-of-logarithms-1/
 
 - unit: "Logarithmic Functions"
   topic: "Solving Exponential Equations Using Logarithms"
