@@ -62,6 +62,7 @@
   web:
     - url: /adding-and-subtracting-rational-expressions-1/
     - url: /adding-and-subtracting-rational-expressions-2/
+    - url: /adding-and-subtracting-rational-expressions-3/
 
 - unit: "Rational Expressions & Equations"
   topic: "Solving Rational Expressions"
