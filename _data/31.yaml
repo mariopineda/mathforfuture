@@ -133,7 +133,7 @@
 - unit: Limits
   topic: "Infinite Sequences"
   web:
-    - url:
+    - url: /infinite-sequences-1/
 
 - unit: Limits
   topic: "Infinite Geometric Series"
