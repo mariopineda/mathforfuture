@@ -142,7 +142,8 @@
 - unit: Limits
   topic: "Infinite Geometric Series"
   web:
-    - url:
+    - url: /infinite-geometric-sequences-1/
+    - url: /infinite-geometric-sequences-2/
 
 - unit: Derivatives
   topic: "Derivatives"
