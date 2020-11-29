@@ -134,6 +134,10 @@
   topic: "Infinite Sequences"
   web:
     - url: /infinite-sequences-1/
+    - url: /infinite-sequences-2/
+    - url: /infinite-sequences-3/
+    - url: /infinite-sequences-4/
+    - url: /infinite-sequences-5/
 
 - unit: Limits
   topic: "Infinite Geometric Series"
