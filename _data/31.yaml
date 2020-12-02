@@ -164,7 +164,23 @@
 - unit: Derivatives
   topic: "Basic Derivatives"
   web:
-    - url:
+    - url: /basic-derivatives-1/
+    - url: /basic-derivatives-2/
+    - url: /basic-derivatives-3/
+    - url: /basic-derivatives-4/
+    - url: /basic-derivatives-5/
+    - url: /basic-derivatives-6/
+    - url: /basic-derivatives-7/
+    - url: /basic-derivatives-8/
+    - url: /basic-derivatives-9/
+    - url: /basic-derivatives-10/
+    - url: /basic-derivatives-11/
+    - url: /basic-derivatives-12/
+    - url: /basic-derivatives-13/
+    - url: /basic-derivatives-14/
+    - url: /basic-derivatives-15/
+    - url: /basic-derivatives-16/
+    - url: /basic-derivatives-17/
 
 - unit: Derivatives
   topic: "The Product and Quotient Rules"
