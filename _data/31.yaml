@@ -153,6 +153,10 @@
   web:
     - url: /derivatives-1/
     - url: /derivatives-2/
+    - url: /derivatives-3/
+    - url: /derivatives-4/
+    - url: /derivatives-5/
+    - url: /derivatives-6/
 
 - unit: Derivatives
   topic: "Basic Derivatives"
