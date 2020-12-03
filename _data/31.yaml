@@ -130,6 +130,7 @@
   web:
     - url: /using-limits-to-find-tangents-1/
     - url: /using-limits-to-find-tangents-2/
+    - url: /using-limits-to-find-tangents-3/
 
 - unit: Limits
   topic: "Infinite Sequences"
