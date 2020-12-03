@@ -186,7 +186,11 @@
 - unit: Derivatives
   topic: "The Product and Quotient Rules"
   web:
-    - url:
+    - url: /the-product-and-quotient-rules-1/
+    - url: /the-product-and-quotient-rules-2/
+    - url: /the-product-and-quotient-rules-3/
+    - url: /the-product-and-quotient-rules-4/
+    - url: /the-product-and-quotient-rules-5/
 
 - unit: Derivatives
   topic: "The Chain Rule"
