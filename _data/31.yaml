@@ -195,7 +195,7 @@
 - unit: Derivatives
   topic: "The Chain Rule"
   web:
-    - url:
+    - url: /the-chain-rule-1/
 
 - unit: Derivatives
   topic: "Implicit Differentiation"
