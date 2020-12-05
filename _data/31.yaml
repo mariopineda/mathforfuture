@@ -204,6 +204,10 @@
     - url: /the-chain-rule-7/
     - url: /the-chain-rule-8/
     - url: /the-chain-rule-9/
+    - url: /the-chain-rule-10/
+    - url: /the-chain-rule-11/
+    - url: /the-chain-rule-12/
+    - url: /the-chain-rule-13/
 
 - unit: Derivatives
   topic: "Implicit Differentiation"
