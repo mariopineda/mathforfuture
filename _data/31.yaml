@@ -230,6 +230,8 @@
     - url: /higher-derivatives-1/
     - url: /higher-derivatives-2/
     - url: /higher-derivatives-3/
+    - url: /higher-derivatives-4/
+    - url: /higher-derivatives-5/
 
 - unit: "Applications of Derivatives"
   topic: "Rates of Change and Derivatives"
