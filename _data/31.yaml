@@ -223,6 +223,15 @@
     - url: /implicit-differentiation-1/
     - url: /implicit-differentiation-2/
     - url: /implicit-differentiation-3/
+    - url: /implicit-differentiation-4/
+    - url: /implicit-differentiation-5/
+    - url: /implicit-differentiation-6/
+    - url: /implicit-differentiation-7/
+    - url: /implicit-differentiation-8/
+    - url: /implicit-differentiation-9/
+    - url: /implicit-differentiation-10/
+    - url: /implicit-differentiation-11/
+    - url: /implicit-differentiation-12/
 
 - unit: Derivatives
   topic: "Higher Derivatives"
