@@ -243,9 +243,10 @@
     - url: /higher-derivatives-5/
 
 - unit: "Applications of Derivatives"
-  topic: "Rates of Change and Derivatives"
+  topic: "Rates of Change and Derivatives of Polynomials"
   web:
-    - url:
+    - url: rates-of-change-and-derivatives-of-polynomials-1
+    - url: rates-of-change-and-derivatives-of-polynomials-2
 
 - unit: "Applications of Derivatives"
   topic: "Velocity"
