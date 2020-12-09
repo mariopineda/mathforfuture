@@ -245,8 +245,8 @@
 - unit: "Applications of Derivatives"
   topic: "Rates of Change and Derivatives of Polynomials"
   web:
-    - url: rates-of-change-and-derivatives-of-polynomials-1
-    - url: rates-of-change-and-derivatives-of-polynomials-2
+    - url: /rates-of-change-and-derivatives-of-polynomials-1/
+    - url: /rates-of-change-and-derivatives-of-polynomials-2/
 
 - unit: "Applications of Derivatives"
   topic: "Velocity"
