@@ -255,6 +255,7 @@
     - url: /position-and-velocity-1/
     - url: /position-and-velocity-2/
     - url: /position-and-velocity-3/
+    - url: /position-and-velocity-12/
 
 - unit: "Applications of Derivatives"
   topic: "Acceleration"
