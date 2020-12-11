@@ -8,6 +8,62 @@ title: mathforfuture.com
     {% assign total = total | plus: 1 %}
 {% endfor %}
 
+<!-- Calculate the total number of posts for each course -->
+{% assign totalcount10C = 0 %}
+{% assign totalcount202 = 0 %}
+{% assign totalcount302 = 0 %}
+{% assign totalcount31 = 0 %}
+{% assign total = 0 %}
+{% for entry in site.data.10C %}
+  {% for item in entry.web %}
+    {% assign totalcount10C = totalcount10C | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endfor %}
+{% endfor %}
+{% for entry in site.data.202 %}
+  {% for item in entry.web %}
+    {% assign totalcount202 = totalcount202 | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endfor %}
+{% endfor %}
+{% for entry in site.data.302 %}
+  {% for item in entry.web %}
+    {% assign totalcount302 = totalcount302 | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endfor %}
+{% endfor %}
+{% for entry in site.data.31 %}
+  {% for item in entry.web %}
+    {% assign totalcount31 = totalcount31 | plus: 1 %}
+    {% assign total = total | plus: 1 %}
+  {% endfor %}
+{% endfor %}
+
+<!-- Multi-column template -->
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-3">
+      <h4>A.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>B.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>C.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>D.</h4>
+      <p>...</p>
+    </div>
+  </div>
+</div>
+
 <div class="container">
   {% include alert.html %}
   <p class="text-center"><a href="/10C/" class="btn btn-success btn-lg btn-block active" role="button" aria-pressed="true">Math 10C</a></p>
