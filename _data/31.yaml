@@ -271,6 +271,8 @@
   web:
     - url: /acceleration-1/
     - url: /acceleration-2/
+    - url: /acceleration-3/
+    - url: /acceleration-4/
 
 - unit: "Applications of Derivatives"
   topic: "Related Rates"
