@@ -1,3 +1,13 @@
+- unit: Review
+  topic: "Polynomials"
+  web:
+    - url: /review-of-polynomials-1/
+    - url: /review-of-polynomials-2/
+    - url: /review-of-polynomials-3/
+    - url: /review-of-polynomials-4/
+    - url: /review-of-polynomials-5/
+    - url: /review-of-polynomials-6/
+
 - unit: Trigonometry
   topic: "Tangent Ratio"
   web:
