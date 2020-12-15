@@ -277,7 +277,12 @@
 - unit: "Applications of Derivatives"
   topic: "Related Rates"
   web:
-    - url:
+    - url: /related-rates-1/
+    - url: /related-rates-2/
+    - url: /related-rates-3/
+    - url: /related-rates-4/
+    - url: /related-rates-5/
+    - url: /related-rates-6/
 
 - unit: "Extreme Values & Sketching"
   topic: "First Derivative Test"
