@@ -290,7 +290,9 @@
 - unit: "Extreme Values & Sketching"
   topic: "First Derivative Test"
   web:
-    - url:
+    - url: /first-derivative-test-1/
+    - url: /first-derivative-test-2/
+    - url: /first-derivative-test-3/
 
 - unit: "Extreme Values & Sketching"
   topic: "Maximum and Minimum Values"
