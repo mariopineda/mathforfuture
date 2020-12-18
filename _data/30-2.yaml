@@ -72,7 +72,8 @@
 - unit: "Rational Expressions & Equations"
   topic: "Solving Rational Expressions"
   web:
-    - url:
+    - url: /solving-rational-expressions-1/
+    - url: /solving-rational-expressions-2/
 
 - unit: "Set Theory"
   topic: "Logical Reasoning"
