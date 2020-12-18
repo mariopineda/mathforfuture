@@ -74,6 +74,8 @@
   web:
     - url: /solving-rational-expressions-1/
     - url: /solving-rational-expressions-2/
+    - url: /solving-rational-expressions-3/
+    - url: /solving-rational-expressions-4/
 
 - unit: "Set Theory"
   topic: "Logical Reasoning"
