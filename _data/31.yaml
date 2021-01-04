@@ -297,7 +297,7 @@
 - unit: "Extreme Values & Sketching"
   topic: "Maximum and Minimum Values"
   web:
-    - url:
+    - url: /maximum-and-minimum-values-8/
 
 - unit: "Extreme Values & Sketching"
   topic: "Sketching Polynomial Functions"
@@ -305,7 +305,7 @@
     - url:
 
 - unit: "Extreme Values & Sketching"
-  topic: "max / Min Problems"
+  topic: "Max / Min Problems"
   web:
     - url:
 
