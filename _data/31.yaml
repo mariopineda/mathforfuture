@@ -308,6 +308,7 @@
   topic: "Max / Min Problems"
   web:
     - url: /max-min-problems-16/
+    - url: /max-min-problems-17/
 
 - unit: "Extreme Values & Sketching"
   topic: "Vertical and Horizontal Asymptotes"
