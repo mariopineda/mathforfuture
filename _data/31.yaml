@@ -328,7 +328,7 @@
 - unit: Trigonometry
   topic: "Trigonometric Basics"
   web:
-    - url:
+    - url: /trigonometric-basics-1/
 
 - unit: Trigonometry
   topic: "Sum / Difference and Double-Angle Identities"
