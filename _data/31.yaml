@@ -348,7 +348,7 @@
 - unit: Trigonometry
   topic: "Derivatives of Sine and Cosine"
   web:
-    - url:
+    - url: /derivatives-of-sine-and-cosine-1/
 
 - unit: Trigonometry
   topic: "Derivatives of the Trig Functions"
