@@ -381,7 +381,7 @@
     - url:
 
 - unit: "Exponential & Logarithmic Functions"
-  topic: "applications of Exponential / Log Derivatives"
+  topic: "Applications of Exponential / Log Derivatives"
   web:
     - url:
 
@@ -393,7 +393,7 @@
 - unit: Integration
   topic: "Differential Equations with Initial Conditions"
   web:
-    - url:
+    - url: /differential-equations-with-initial-conditions-1/
 
 - unit: Integration
   topic: "Area Under a Curve and Area Between Curves"
