@@ -393,6 +393,7 @@
 - unit: Integration
   topic: "Differential Equations with Initial Conditions"
   web:
+    - url: /differential-equations-with-initial-conditions-14/
     - url: /differential-equations-with-initial-conditions-16/
 
 - unit: Integration
