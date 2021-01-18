@@ -399,7 +399,7 @@
 - unit: Integration
   topic: "Area Under a Curve and Area Between Curves"
   web:
-    - url:
+    - url: /area-under-a-curve-and-area-between-curves-1/
 
 - unit: Integration
   topic: "The Fundamental Theorem of Calculus (Integration)"
