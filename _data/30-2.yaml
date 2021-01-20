@@ -192,6 +192,7 @@
 - unit: "Sinusoidal Functions"
   topic: "Angular Measures"
   web:
+    - url: /angular-measures-1/
     - url: "/graphing-sinusoidal-functions-1/"
 
 - unit: "Sinusoidal Functions"
