@@ -200,6 +200,7 @@
   web:
     - url: "/amplitude-and-period-1/"
     - url: "/amplitude-and-period-2/"
+    - url: /exploring-graphs-of-sinusoidal-functions-1/
 
 - unit: "Sinusoidal Functions"
   topic: "The Equations of Sinusoidal Functions"
