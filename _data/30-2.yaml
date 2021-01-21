@@ -205,7 +205,7 @@
 - unit: "Sinusoidal Functions"
   topic: "The Equations of Sinusoidal Functions"
   web:
-    - url:
+    - url: /the-equations-of-sinusoidal-functions-1/
 
 - unit: "Sinusoidal Functions"
   topic: "Sinusoidal Regression"
