@@ -308,7 +308,8 @@
 - unit: "Extreme Values & Sketching"
   topic: "Sketching Polynomial Functions"
   web:
-    - url:
+    - url: /sketching-polynomial-functions-1/
+    - url: /sketching-polynomial-functions-2/
 
 - unit: "Extreme Values & Sketching"
   topic: "Max / Min Problems"
