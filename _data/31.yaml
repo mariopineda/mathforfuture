@@ -302,6 +302,7 @@
   topic: "Maximum and Minimum Values"
   web:
     - url: /maximum-and-minimum-values-1/
+    - url: /maximum-and-minimum-values-2/
     - url: /maximum-and-minimum-values-8/
 
 - unit: "Extreme Values & Sketching"
