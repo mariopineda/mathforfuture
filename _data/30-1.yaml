@@ -1,0 +1,189 @@
+- unit: Transformations
+  topic: "Translations"
+  web:
+    - url:
+
+- unit: Transformations
+  topic: "Reflection and Stretches"
+  web:
+    - url:
+
+- unit: Transformations
+  topic: "Combining Transformations"
+  web:
+    - url:
+
+- unit: Transformations
+  topic: "Inverse of a Relation"
+  web:
+    - url:
+
+- unit: "Polynomial Functions"
+  topic: "Characteristics of a Polynomial Function"
+  web:
+    - url:
+
+- unit: "Polynomial Functions"
+  topic: "Graphs of Polynomial Functions"
+  web:
+    - url:
+
+- unit: "Polynomial Functions"
+  topic: "Remainder and Factor Theorems"
+  web:
+    - url:
+
+- unit: "Polynomial Functions"
+  topic: "Dividing a Polynomial by a Binomial"
+  web:
+    - url:
+
+- unit: "Polynomial Functions"
+  topic: "Polynomial Equations"
+  web:
+    - url:
+
+ unit: "Radical and Rational Functions"
+  topic: "Square Root Functions and Transformations"
+  web:
+    - url:
+
+ unit: "Radical and Rational Functions"
+  topic: "Square Root of a Function"
+  web:
+    - url:
+
+unit: "Radical and Rational Functions"
+ topic: "Rational Functions and Transformations"
+ web:
+   - url:
+
+unit: "Radical and Rational Functions"
+ topic: "Graphs of Rational Functions"
+ web:
+   - url:
+
+unit: "Radical and Rational Functions"
+ topic: "Solving Radical and Rational Equations Graphically"
+ web:
+   - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Exponential Functions and Transformations"
+  web:
+    - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Understanding Logarithms"
+  web:
+    - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Logarithmic Functions and Transformations"
+  web:
+    - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Laws of Logarithms"
+  web:
+    - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Solving Logarithmic Equations"
+  web:
+    - url:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Solving Exponential Equations"
+  web:
+    - url:
+
+- unit: "Trigonometric Functions"
+  topic: "Angles and Angle Measures"
+  web:
+    - url:
+
+- unit: "Trigonometric Functions"
+  topic: "Unit Circle and Trigonometric Ratios"
+  web:
+    - url:
+
+- unit: "Trigonometric Functions"
+  topic: "Sine Function, Cosine Function and Transformations"
+  web:
+    - url:
+
+- unit: "Trigonometric Functions"
+  topic: "Tangent Function"
+  web:
+    - url:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Graphically"
+  web:
+    - url:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Algebraically"
+  web:
+    - url:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Reciprocal, Quotient and Pythagorean Identities"
+  web:
+    - url:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Sum, Difference, and Double-Angle Identities"
+  web:
+    - url:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Using Identities"
+  web:
+    - url:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Fundamental Counting Principle"
+  web:
+    - url:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Permutations with Constraints"
+  web:
+    - url:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Permutations with Alike Objects"
+  web:
+    - url:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Combinations"
+  web:
+    - url:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "The Binomial Theorem"
+  web:
+    - url:
+
+- unit: "Function Operations"
+  topic: "Domain of Combined Functions"
+  web:
+    - url:
+
+- unit: "Function Operations"
+  topic: "Polynomial Functions"
+  web:
+    - url:
+
+- unit: "Function Operations"
+  topic: "Radical and Rational Functions"
+  web:
+    - url:
+
+- unit: "Function Operations"
+  topic: "Exponent and Logarithmic Functions"
+  web:
+    - url:
