@@ -43,29 +43,29 @@
   web:
     - url:
 
- unit: "Radical and Rational Functions"
+- unit: "Radical and Rational Functions"
   topic: "Square Root Functions and Transformations"
   web:
     - url:
 
- unit: "Radical and Rational Functions"
+- unit: "Radical and Rational Functions"
   topic: "Square Root of a Function"
   web:
     - url:
 
-unit: "Radical and Rational Functions"
- topic: "Rational Functions and Transformations"
- web:
+- unit: "Radical and Rational Functions"
+  topic: "Rational Functions and Transformations"
+  web:
    - url:
 
-unit: "Radical and Rational Functions"
- topic: "Graphs of Rational Functions"
- web:
+- unit: "Radical and Rational Functions"
+  topic: "Graphs of Rational Functions"
+  web:
    - url:
 
-unit: "Radical and Rational Functions"
- topic: "Solving Radical and Rational Equations Graphically"
- web:
+- unit: "Radical and Rational Functions"
+  topic: "Solving Radical and Rational Equations Graphically"
+  web:
    - url:
 
 - unit: "Exponential and Logarithmic Functions"
