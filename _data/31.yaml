@@ -6,12 +6,10 @@
 - unit: Precalculus
   topic: "Factoring with Powers"
   web:
-    - url:
 
 - unit: Precalculus
   topic: "Simplifying Rational and Radical Expressions"
   web:
-    - url:
 
 - unit: Precalculus
   topic: "Solving Equations"
@@ -320,7 +318,6 @@
 - unit: "Extreme Values & Sketching"
   topic: "Vertical and Horizontal Asymptotes"
   web:
-    - url:
 
 - unit: "Extreme Values & Sketching"
   topic: "Concavity and Points of Inflection"
@@ -330,7 +327,6 @@
 - unit: "Extreme Values & Sketching"
   topic: "A Curve Sketching Procedure"
   web:
-    - url:
 
 - unit: Trigonometry
   topic: "Trigonometric Basics"
