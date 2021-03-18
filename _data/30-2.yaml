@@ -1,8 +1,7 @@
 - unit: "Polynomial Functions"
   topic: "Solving Problems Involving Polynomial Functions"
   web:
-    - url:
-
+  
 - unit: "Polynomial Functions"
   topic: "Characteristics of Polynomial Functions"
   web:
@@ -14,18 +13,15 @@
 - unit: "Polynomial Functions"
   topic: "Equations of Polynomial Functions"
   web:
-    - url:
-
+  
 - unit: "Exponential Functions"
   topic: "Graphs and Equations of Exponential Functions"
   web:
-    - url:
-
+  
 - unit: "Exponential Functions"
   topic: "Applications of Exponential Functions"
   web:
-    - url:
-
+  
 - unit: "Exponential Functions"
   topic: "Solving Exponential Functions"
   web:
@@ -35,8 +31,7 @@
 - unit: "Exponential Functions"
   topic: "Exponential Equations and Regression"
   web:
-    - url:
-
+  
 - unit: "Rational Expressions & Equations"
   topic: "Exponents & Factoring"
   web:
@@ -83,22 +78,18 @@
 - unit: "Set Theory"
   topic: "Logical Reasoning"
   web:
-    - url:
 
 - unit: "Set Theory"
   topic: "Sets & Set Notation"
   web:
-    - url:
 
 - unit: "Set Theory"
   topic: "Intersection & Union"
   web:
-    - url:
 
 - unit: "Set Theory"
   topic: "Applications of Set Theory"
   web:
-    - url:
 
 - unit: "Logarithmic Functions"
   topic: "Evaluating Logarithmic Equations"
@@ -127,67 +118,54 @@
 - unit: "Logarithmic Functions"
   topic: "Logarithmic Regression"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Introduction to the Fundamental Counting Principle"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Applications of FCP and Factorial Notation"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Permutation Formula"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Permutations with Restrictions"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Permutations with Identical Objects"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Combinations"
   web:
-    - url:
 
 - unit: "Counting Methods"
   topic: "Strategies for Solving Counting Problems"
   web:
-    - url:
 
 - unit: "Probability"
   topic: "Probability and Sample Space"
   web:
-    - url:
 
 - unit: "Probability"
   topic: "Probability and Odds"
   web:
-    - url:
 
 - unit: "Probability"
   topic: "Mutually Exclusive Events"
   web:
-    - url:
 
 - unit: "Probability"
   topic: "Independent and Dependent Events"
   web:
-    - url:
 
 - unit: "Probability"
   topic: "Probability using Counting Methods"
   web:
-    - url:
 
 - unit: "Sinusoidal Functions"
   topic: "Angular Measures"
@@ -210,4 +188,3 @@
 - unit: "Sinusoidal Functions"
   topic: "Sinusoidal Regression"
   web:
-    - url:
