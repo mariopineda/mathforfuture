@@ -30,8 +30,10 @@ title: mathforfuture.com
 {% endfor %}
 {% for entry in site.data.30-1 %}
   {% for item in entry.web %}
-    {% assign totalcount301 = totalcount301 | plus: 1 %}
-    {% assign total = total | plus: 1 %}
+    {% if item != "" %}
+      {% assign totalcount301 = totalcount301 | plus: 1 %}
+      {% assign total = total | plus: 1 %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 {% for entry in site.data.31 %}
