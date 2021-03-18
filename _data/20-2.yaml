@@ -52,7 +52,6 @@
 - unit: "Reasoning"
   topic: "Games and Puzzles"
   web:
-    - url:
 
 - unit: "Properties of Angles"
   topic: "Angles formed by Parallel Lines"
@@ -68,7 +67,6 @@
 - unit: "Properties of Angles"
   topic: "Congruent Triangles"
   web:
-    - url:
 
 - unit: "Trigonometry"
   topic: "Solving Right Triangles"
@@ -105,22 +103,18 @@
 - unit: "Proportional Reasoning"
   topic: "Scale Diagrams "
   web:
-    - url:
 
 - unit: "Proportional Reasoning"
   topic: "Scale Factors and Area of 2D Shapes"
   web:
-    - url:
 
 - unit: "Proportional Reasoning"
   topic: "Scale Factors and Surface Area of 3D Shapes"
   web:
-    - url:
 
 - unit: "Proportional Reasoning"
   topic: "Scale factors and Volumes of 3D Objects"
   web:
-    - url:
 
 - unit: "Radicals"
   topic: "Solving Radical Equations"
@@ -149,84 +143,67 @@
 - unit: "Radicals"
   topic: "Multiplying and Dividing Radicals"
   web:
-    - url:
 
 - unit: "Radicals"
   topic: "Adding and Subtracting Radicals"
   web:
-    - url:
 
 - unit: "Radicals"
   topic: "Radicals with Variable Radicands"
   web:
-    - url:
 
 - unit: "Quadratic Functions"
   topic: "Domain and Range"
   web:
-    - url:
 
 - unit: "Quadratic Functions"
   topic: "Standard Form of a Quadratic Function"
   web:
-    - url:
 
 - unit: "Quadratic Functions"
   topic: "Vertex Form of a Quadratic Function"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "Common Factors"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "Factoring Trinomials in Standard Form, a=1"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "Factoring a Difference of Squares"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "The Quadratic Formula"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "Solving Quadratic Equations Graphically"
   web:
-    - url:
 
 - unit: "Quadratic Equations"
   topic: "Applications of Quadratic Equations"
   web:
-    - url:
 
 - unit: "Statistics"
   topic: "Describing Data"
   web:
-    - url:
 
 - unit: "Statistics"
   topic: "The Normal Distribution"
   web:
-    - url:
 
 - unit: "Statistics"
   topic: "Applications of Normal Distribution"
   web:
-    - url:
 
 - unit: "Statistics"
   topic: "Z-scores"
   web:
-    - url:
 
 - unit: "Statistics"
   topic: "Margin of Error, Confidence Interval and Confidence Level"
   web:
-    - url:
