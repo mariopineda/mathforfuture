@@ -336,17 +336,14 @@
 - unit: Trigonometry
   topic: "Sum / Difference and Double-Angle Identities"
   web:
-    - url:
 
 - unit: Trigonometry
   topic: "Solve Trigonometric Equations"
   web:
-    - url:
 
 - unit: Trigonometry
   topic: "Limits of Trig Functions"
   web:
-    - url:
 
 - unit: Trigonometry
   topic: "Derivatives of Sine and Cosine"
@@ -356,42 +353,34 @@
 - unit: Trigonometry
   topic: "Derivatives of the Trig Functions"
   web:
-    - url:
 
 - unit: Trigonometry
   topic: "Applications of Trig Derivatives"
   web:
-    - url:
 
 - unit: "Exponential & Logarithmic Functions"
   topic: "Limits and Derivatives of Exponential Functions"
   web:
-    - url:
 
 - unit: "Exponential & Logarithmic Functions"
   topic: "Logarithmic Functions"
   web:
-    - url:
 
 - unit: "Exponential & Logarithmic Functions"
   topic: "Natural Logarithms"
   web:
-    - url:
 
 - unit: "Exponential & Logarithmic Functions"
   topic: "Derivatives of Exponential and Logarithmic Functions"
   web:
-    - url:
 
 - unit: "Exponential & Logarithmic Functions"
   topic: "Applications of Exponential / Log Derivatives"
   web:
-    - url:
 
 - unit: Integration
   topic: "Antiderivatives"
   web:
-    - url:
 
 - unit: Integration
   topic: "Differential Equations with Initial Conditions"
@@ -412,4 +401,3 @@
 - unit: Integration
   topic: "The Substitution Rule"
   web:
-    - url:
