@@ -1,16 +1,11 @@
 ---
 layout: post
 title: Canada GHG emissions
-category: Polynomials
-description:
-tags: Problem solving
-level: moderate
-grade: 12
-course: 30-2
-sourcetitle:  Environment and Climate Change Canada (2019)
+learningoutcomes:
+  - code:
+sourcetitle:Environment and Climate Change Canada (2019)
 sourceurl: https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/greenhouse-gas-emissions.html
 video: na
-published: true
 ---
 <p>Climate change is one of the most important environmental issues of our time. Climate change is caused by the increase in concentrations of greenhouse gases (GHGs) such as carbon dioxide in the atmosphere. These increases are primarily due to human activities such as the use of fossil fuels or agriculture. The following table summarizes the total GHG emissions in Canada between 1990 and 2017.</p>
 
@@ -65,18 +60,8 @@ published: true
   </div>
 </div>
 
-  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-            <h2>Solution</h2>
-          </button>
-        </h5>
-      </div>
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          <!--- Start solution --->
+{% capture solution %}
+         <!--- Start solution --->
           <h3>A.</h3>
           <img src="http://maythemathbewithyou.com/calculator/canada-ghg-emissions.png" width "100%">
           <p>Window settings: $X:[1980, 2020, 5]$ and $Y:[580,755,10]$ with the x-axis being the Year and the y-axis Total GHG emissions in Megatonnes. The linear regression equation is $y=3.39x-6312.27$</p>
@@ -87,7 +72,7 @@ published: true
           <h3>D.</h3>
           <p>Using the linear regression function the total GHG emissions will exceed 800 megatonnes in 2035. (Add $Y_2=800$, adjust window settings $x:[1988,2040,1]$, $Y:[580,810,1]$ and do 2nd+trace &rarr; 5:intersect)</p>
           <!--- End solution --->
-        </div>
-      </div>
-    </div>
-  </div>
+ 
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+
