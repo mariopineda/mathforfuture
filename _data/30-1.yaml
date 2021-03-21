@@ -83,18 +83,10 @@
   web:
     - url: /angles-and-angle-measures-10/
 
+# 2011-02-*
 - unit: "Trigonometric Functions"
   topic: "Unit Circle and Trigonometric Ratios"
   web:
-
-- unit: "Trigonometric Functions"
-  topic: "Sine Function, Cosine Function and Transformations"
-  web:
-
-# 2011-02-*
-- unit: "Trigonometric Functions"
-  topic: "Tangent Function"
-  web: 
     - url: /unit-circle-and-trigonometric-ratios-1/
     - url: /unit-circle-and-trigonometric-ratios-2/
     - url: /unit-circle-and-trigonometric-ratios-3/
@@ -108,6 +100,20 @@
     - url: /unit-circle-and-trigonometric-ratios-11/
     - url: /unit-circle-and-trigonometric-ratios-12/
     - url: /unit-circle-and-trigonometric-ratios-13/
+
+- unit: "Trigonometric Functions"
+  topic: "Sine Function, Cosine Function and Transformations"
+  web:
+    - url: /sine-function-cosine-function-and-transformations-1/
+    - url: /sine-function-cosine-function-and-transformations-2/
+    - url: /sine-function-cosine-function-and-transformations-3/
+    - url: /sine-function-cosine-function-and-transformations-4/
+    - url: /sine-function-cosine-function-and-transformations-5/
+    - url: /sine-function-cosine-function-and-transformations-6/
+
+- unit: "Trigonometric Functions"
+  topic: "Tangent Function"
+  web: 
 
 - unit: "Trigonometric Equations and Identities"
   topic: "Solving Trigonometric Equations Graphically"
