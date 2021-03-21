@@ -91,9 +91,22 @@
   topic: "Sine Function, Cosine Function and Transformations"
   web:
 
+# 2011-02-*
 - unit: "Trigonometric Functions"
   topic: "Tangent Function"
-  web:
+    - web: /unit-circle-and-trigonometric-ratios-1/
+    - web: /unit-circle-and-trigonometric-ratios-2/
+    - web: /unit-circle-and-trigonometric-ratios-3/
+    - web: /unit-circle-and-trigonometric-ratios-4/
+    - web: /unit-circle-and-trigonometric-ratios-5/
+    - web: /unit-circle-and-trigonometric-ratios-6/
+    - web: /unit-circle-and-trigonometric-ratios-7/
+    - web: /unit-circle-and-trigonometric-ratios-8/
+    - web: /unit-circle-and-trigonometric-ratios-9/
+    - web: /unit-circle-and-trigonometric-ratios-10/
+    - web: /unit-circle-and-trigonometric-ratios-11/
+    - web: /unit-circle-and-trigonometric-ratios-12/
+    - web: /unit-circle-and-trigonometric-ratios-13/
 
 - unit: "Trigonometric Equations and Identities"
   topic: "Solving Trigonometric Equations Graphically"
