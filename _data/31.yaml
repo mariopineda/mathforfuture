@@ -312,6 +312,7 @@
 - unit: "Extreme Values & Sketching"
   topic: "Max / Min Problems"
   web:
+    - url: /max-min-problems-14/
     - url: /max-min-problems-16/
     - url: /max-min-problems-17/
 
