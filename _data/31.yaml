@@ -328,6 +328,7 @@
 - unit: "Extreme Values & Sketching"
   topic: "A Curve Sketching Procedure"
   web:
+    - url: /a-curve-sketching-procedure-1/
 
 - unit: Trigonometry
   topic: "Trigonometric Basics"
