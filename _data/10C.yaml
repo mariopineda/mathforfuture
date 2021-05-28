@@ -83,6 +83,14 @@
 - unit: "Relations & Functions"
   topic: "Representing Relations"
   web:
+    - url: /representing-relations-1/
+    - url: /representing-relations-2/
+    - url: /representing-relations-3/
+    - url: /representing-relations-4/
+    - url: /representing-relations-5/
+    - url: /representing-relations-6/
+    - url: /representing-relations-7/
+    - url: /representing-relations-8/
 
 - unit: "Relations & Functions"
   topic: "Domain & Range of a Relation"
